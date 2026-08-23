@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 330" width="900" height="330" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="900" height="330" fill="#ffffff"/>
+<text x="450" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">A stream is a pipeline, and nothing runs until the end</text>
+<rect x="30" y="90" width="160" height="70" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="110.0" y="122.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">the source</text>
+<text x="110.0" y="141.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">a List, an array</text>
+<path d="M 192,125 L 222,125" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="212.0,120.0 212.0,130.0 222,125" fill="#334155"/>
+<rect x="228" y="78" width="400" height="94" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="428" y="102" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="bold">intermediate operations</text>
+<rect x="250" y="116" width="110" height="40" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="305" y="141" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">filter</text>
+<rect x="378" y="116" width="110" height="40" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="433" y="141" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">map</text>
+<rect x="506" y="116" width="110" height="40" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="561" y="141" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">sorted</text>
+<text x="428" y="190" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">lazy, each returns a new stream</text>
+<path d="M 630,125 L 660,125" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="650.0,120.0 650.0,130.0 660,125" fill="#334155"/>
+<rect x="666" y="90" width="200" height="70" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="766.0" y="122.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">terminal operation</text>
+<text x="766.0" y="141.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">collect, forEach, count</text>
+<text x="766" y="190" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#0f766e" text-anchor="middle" font-weight="normal">runs the whole pipeline once</text>
+<rect x="120" y="212" width="660" height="108" rx="6" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="134" y="241" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">List&lt;String&gt; names = people.stream()</text>
+<text x="134" y="261" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">        .filter(p -&gt; p.getAge() &gt;= 18)</text>
+<text x="134" y="281" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">        .map(Person::getName)</text>
+<text x="134" y="301" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">        .toList();</text>
+</svg>

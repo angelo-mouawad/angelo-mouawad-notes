@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 340" width="880" height="340" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="880" height="340" fill="#ffffff"/>
+<text x="440" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">When two rules fight, the more specific one wins</text>
+<rect x="60" y="216" width="170" height="84" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="145" y="246" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Element</text>
+<text x="145" y="270" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">p { }</text>
+<path d="M 232,280 L 256,280" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="246.0,275.0 246.0,285.0 256,280" fill="#334155"/>
+<rect x="260" y="182" width="170" height="118" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="345" y="212" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Class</text>
+<text x="345" y="236" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">.name { }</text>
+<path d="M 432,280 L 456,280" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="446.0,275.0 446.0,285.0 456,280" fill="#334155"/>
+<rect x="460" y="148" width="170" height="152" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="545" y="178" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">ID</text>
+<text x="545" y="202" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">#name { }</text>
+<path d="M 632,280 L 656,280" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="646.0,275.0 646.0,285.0 656,280" fill="#334155"/>
+<rect x="660" y="114" width="170" height="186" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="745" y="144" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Inline style</text>
+<text x="745" y="168" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">style="..."</text>
+<line x1="50" y1="300" x2="830" y2="300" stroke="#334155" stroke-width="2"/>
+<text x="440" y="326" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#b91c1c" text-anchor="middle" font-weight="normal">same specificity means the last one written wins, and !important overrides all of it</text>
+</svg>

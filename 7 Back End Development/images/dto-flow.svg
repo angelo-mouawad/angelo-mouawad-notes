@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" width="900" height="360" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="900" height="360" fill="#ffffff"/>
+<text x="450" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">The entity stays inside, the DTO crosses the boundary</text>
+<rect x="30" y="130" width="130" height="80" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="95.0" y="167.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">Client</text>
+<text x="95.0" y="186.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">JSON</text>
+<path d="M 162,148 L 206,148" fill="none" stroke="#0f766e" stroke-width="2"/>
+<polygon points="196.0,143.0 196.0,153.0 206,148" fill="#0f766e"/>
+<text x="184" y="136" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#0f766e" text-anchor="middle" font-weight="normal">in</text>
+<path d="M 206,194 L 164,194" fill="none" stroke="#94a3b8" stroke-width="2"/>
+<polygon points="174.0,189.0 174.0,199.0 164,194" fill="#94a3b8"/>
+<text x="184" y="212" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#64748b" text-anchor="middle" font-weight="normal">out</text>
+<rect x="212" y="90" width="200" height="160" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="312" y="116" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">Controller</text>
+<rect x="232" y="130" width="160" height="44" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="312.0" y="157.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">UserDTO</text>
+<text x="312" y="200" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#0f766e" text-anchor="middle" font-weight="normal">@Valid runs here</text>
+<text x="312" y="222" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#0f766e" text-anchor="middle" font-weight="normal">on the DTO</text>
+<path d="M 414,170 L 452,170" fill="none" stroke="#0f766e" stroke-width="2"/>
+<polygon points="442.0,165.0 442.0,175.0 452,170" fill="#0f766e"/>
+<rect x="458" y="90" width="200" height="160" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="558" y="116" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">Service</text>
+<rect x="478" y="130" width="160" height="44" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="558.0" y="157.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">translates</text>
+<text x="558" y="200" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">DTO becomes one</text>
+<text x="558" y="222" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">or more entities</text>
+<path d="M 660,170 L 698,170" fill="none" stroke="#0f766e" stroke-width="2"/>
+<polygon points="688.0,165.0 688.0,175.0 698,170" fill="#0f766e"/>
+<rect x="704" y="90" width="170" height="160" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="789" y="116" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">Repository</text>
+<rect x="724" y="130" width="130" height="44" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="789.0" y="157.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">User</text>
+<text x="789" y="200" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">the entity, with</text>
+<text x="789" y="222" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">the password hash</text>
+<rect x="30" y="278" width="844" height="62" rx="8" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="452" y="302" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">returning the entity straight from the controller leaks every field it has</text>
+<text x="452" y="324" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#b91c1c" text-anchor="middle" font-weight="normal">including the ones you never meant to publish</text>
+</svg>

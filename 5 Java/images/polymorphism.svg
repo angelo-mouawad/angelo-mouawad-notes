@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" width="900" height="380" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="900" height="380" fill="#ffffff"/>
+<text x="450" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Two ways one name does more than one thing</text>
+<rect x="40" y="58" width="400" height="270" rx="8" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="240" y="84" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#0f766e" text-anchor="middle" font-weight="bold">overloading</text>
+<text x="240" y="104" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">same class, different parameters</text>
+<rect x="64" y="118" width="352" height="94" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="78" y="149" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="start" font-weight="normal">int add(int a, int b)</text>
+<text x="78" y="171" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="start" font-weight="normal">double add(double a, double b)</text>
+<text x="78" y="193" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="start" font-weight="normal">int add(int a, int b, int c)</text>
+<text x="240" y="232" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">the compiler picks by the arguments</text>
+<text x="240" y="254" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#0f766e" text-anchor="middle" font-weight="bold">decided before the program runs</text>
+<text x="240" y="300" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#b91c1c" text-anchor="middle" font-weight="normal">the return type alone is not enough</text>
+<rect x="460" y="58" width="400" height="270" rx="8" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="660" y="84" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#1d4ed8" text-anchor="middle" font-weight="bold">overriding</text>
+<text x="660" y="104" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">subclass replaces the parent version</text>
+<rect x="484" y="118" width="352" height="94" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="498" y="149" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="start" font-weight="normal">class Animal { void speak() }</text>
+<text x="498" y="171" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="start" font-weight="normal">class Cow extends Animal {</text>
+<text x="498" y="193" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="start" font-weight="normal">    @Override void speak() }</text>
+<text x="660" y="232" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">the object picks, not the variable</text>
+<text x="660" y="254" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1d4ed8" text-anchor="middle" font-weight="bold">decided while the program runs</text>
+<text x="660" y="300" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">Animal a = new Cow(); a.speak() moos</text>
+<text x="450" y="358" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">@Override is optional and worth writing, it catches a typo that would silently overload instead</text>
+</svg>

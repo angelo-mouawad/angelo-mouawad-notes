@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 330" width="860" height="330" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="860" height="330" fill="#ffffff"/>
+<text x="430" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Two places to put data, for two different jobs</text>
+<rect x="40" y="52" width="380" height="250" rx="8" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<rect x="440" y="52" width="380" height="250" rx="8" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="230" y="80" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#0f766e" text-anchor="middle" font-weight="bold">Data Warehouse</text>
+<text x="630" y="80" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#1d4ed8" text-anchor="middle" font-weight="bold">Data Lake</text>
+<path d="M 150,110 L 150,178 A 80.0,14 0 0 0 310,178 L 310,110 Z" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<ellipse cx="230.0" cy="110" rx="80.0" ry="14" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<path d="M 550,110 L 550,178 A 80.0,14 0 0 0 710,178 L 710,110 Z" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<ellipse cx="630.0" cy="110" rx="80.0" ry="14" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="230" y="136" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">structured</text>
+<text x="230" y="158" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">cleansed</text>
+<text x="230" y="180" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">schema fixed</text>
+<text x="630" y="136" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">raw, any format</text>
+<text x="630" y="158" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">structured and not</text>
+<text x="630" y="180" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">schema on read</text>
+<rect x="80" y="216" width="300" height="34" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="230.0" y="238.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">optimized for SQL and analytics</text>
+<rect x="480" y="216" width="300" height="34" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="630.0" y="238.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">not optimized for SQL, slower to query</text>
+<text x="230" y="278" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="bold">Business intelligence and reporting</text>
+<text x="630" y="278" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1d4ed8" text-anchor="middle" font-weight="bold">Big data and machine learning</text>
+</svg>

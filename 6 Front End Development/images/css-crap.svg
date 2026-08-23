@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 250" width="880" height="250" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="880" height="250" fill="#ffffff"/>
+<text x="440" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Four things to check before you call a page done</text>
+<rect x="30" y="58" width="190" height="148" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<circle cx="125" cy="92" r="21" fill="#0f766e" stroke="#0f766e" stroke-width="0"/>
+<text x="125" y="99" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#ffffff" text-anchor="middle" font-weight="bold">C</text>
+<text x="125" y="140" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">Contrast</text>
+<text x="125" y="164" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">make different things</text>
+<text x="125" y="182" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">clearly different</text>
+<rect x="245" y="58" width="190" height="148" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<circle cx="340" cy="92" r="21" fill="#0f766e" stroke="#0f766e" stroke-width="0"/>
+<text x="340" y="99" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#ffffff" text-anchor="middle" font-weight="bold">R</text>
+<text x="340" y="140" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">Repetition</text>
+<text x="340" y="164" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">reuse the same styles</text>
+<text x="340" y="182" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">so the page feels unified</text>
+<rect x="460" y="58" width="190" height="148" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<circle cx="555" cy="92" r="21" fill="#0f766e" stroke="#0f766e" stroke-width="0"/>
+<text x="555" y="99" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#ffffff" text-anchor="middle" font-weight="bold">A</text>
+<text x="555" y="140" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">Alignment</text>
+<text x="555" y="164" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">line things up</text>
+<text x="555" y="182" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">nothing sits at random</text>
+<rect x="675" y="58" width="190" height="148" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<circle cx="770" cy="92" r="21" fill="#0f766e" stroke="#0f766e" stroke-width="0"/>
+<text x="770" y="99" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#ffffff" text-anchor="middle" font-weight="bold">P</text>
+<text x="770" y="140" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">Proximity</text>
+<text x="770" y="164" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">group related things</text>
+<text x="770" y="182" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">space shows the grouping</text>
+<text x="440" y="234" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">they are design decisions, not CSS properties, but they are what makes a page look finished</text>
+</svg>

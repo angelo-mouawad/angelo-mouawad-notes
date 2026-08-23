@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 345" width="820" height="345" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="820" height="345" fill="#ffffff"/>
+<text x="410.0" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#1f2933" text-anchor="middle" font-weight="bold">VLANs cut one LAN into several</text>
+<rect x="170" y="110" width="150" height="56" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="245.0" y="143.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">Switch 1</text>
+<rect x="500" y="110" width="150" height="56" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="575.0" y="143.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">Switch 2</text>
+<line x1="320" y1="138" x2="500" y2="138" stroke="#334155" stroke-width="2"/>
+<text x="410" y="126" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="normal">trunk, tagged 802.1Q</text>
+<line x1="245" y1="166" x2="245" y2="196" stroke="#334155" stroke-width="2"/>
+<line x1="150" y1="196" x2="310" y2="196" stroke="#334155" stroke-width="2"/>
+<line x1="150" y1="196" x2="150" y2="236" stroke="#334155" stroke-width="2"/>
+<line x1="310" y1="196" x2="310" y2="236" stroke="#334155" stroke-width="2"/>
+<line x1="575" y1="166" x2="575" y2="196" stroke="#334155" stroke-width="2"/>
+<line x1="510" y1="196" x2="670" y2="196" stroke="#334155" stroke-width="2"/>
+<line x1="510" y1="196" x2="510" y2="236" stroke="#334155" stroke-width="2"/>
+<line x1="670" y1="196" x2="670" y2="236" stroke="#334155" stroke-width="2"/>
+<rect x="90" y="236" width="120" height="60" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="150.0" y="262.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">PC1</text>
+<text x="150.0" y="281.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">VLAN 10</text>
+<rect x="250" y="236" width="120" height="60" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="310.0" y="262.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">PC2</text>
+<text x="310.0" y="281.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">VLAN 20</text>
+<rect x="450" y="236" width="120" height="60" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="510.0" y="262.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">PC3</text>
+<text x="510.0" y="281.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">VLAN 10</text>
+<rect x="610" y="236" width="120" height="60" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="670.0" y="262.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">PC4</text>
+<text x="670.0" y="281.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">VLAN 20</text>
+<text x="410.0" y="322" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">same VLAN talks directly even across switches, different VLANs need a router</text>
+</svg>

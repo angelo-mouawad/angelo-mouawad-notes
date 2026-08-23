@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 440" width="880" height="440" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="880" height="440" fill="#ffffff"/>
+<text x="440.0" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#1f2933" text-anchor="middle" font-weight="bold">The July Crisis, five weeks from a murder to a world war</text>
+<line x1="140" y1="58" x2="140" y2="368" stroke="#64748b" stroke-width="2"/>
+<text x="118" y="71" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="end" font-weight="bold">28 June</text>
+<circle cx="140" cy="66" r="6" fill="#fee2e2" stroke="#334155" stroke-width="2"/>
+<text x="166" y="71" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">Archduke Franz Ferdinand is assassinated in Sarajevo</text>
+<text x="118" y="113" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="end" font-weight="bold">5 July</text>
+<circle cx="140" cy="108" r="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="166" y="113" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">Germany gives Austria-Hungary the blank cheque of unconditional support</text>
+<text x="118" y="155" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="end" font-weight="bold">23 July</text>
+<circle cx="140" cy="150" r="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="166" y="155" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">Austria-Hungary sends Serbia an ultimatum built to be refused</text>
+<text x="118" y="197" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="end" font-weight="bold">28 July</text>
+<circle cx="140" cy="192" r="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="166" y="197" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">Austria-Hungary declares war on Serbia</text>
+<text x="118" y="239" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="end" font-weight="bold">30 July</text>
+<circle cx="140" cy="234" r="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="166" y="239" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">Russia mobilises to protect Serbia</text>
+<text x="118" y="281" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="end" font-weight="bold">1 Aug</text>
+<circle cx="140" cy="276" r="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="166" y="281" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">Germany declares war on Russia and begins its own mobilisation</text>
+<text x="118" y="323" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="end" font-weight="bold">3 Aug</text>
+<circle cx="140" cy="318" r="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="166" y="323" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">Germany declares war on France</text>
+<text x="118" y="365" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="end" font-weight="bold">4 Aug</text>
+<circle cx="140" cy="360" r="6" fill="#fee2e2" stroke="#334155" stroke-width="2"/>
+<text x="166" y="365" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">Germany invades Belgium, and Britain declares war on Germany</text>
+<text x="440.0" y="414" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">every step was a promise being kept, which is exactly the problem with the alliance system</text>
+</svg>

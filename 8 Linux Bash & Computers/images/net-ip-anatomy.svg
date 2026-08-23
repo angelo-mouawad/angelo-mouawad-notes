@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 340" width="840" height="340" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="840" height="340" fill="#ffffff"/>
+<text x="420.0" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#1f2933" text-anchor="middle" font-weight="bold">What a subnet mask actually splits</text>
+<rect x="105" y="62" width="150" height="50" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="180.0" y="92.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" fill="#1f2933" text-anchor="middle" font-weight="normal">193</text>
+<text x="180" y="140" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">11000001</text>
+<rect x="265" y="62" width="150" height="50" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="340.0" y="92.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" fill="#1f2933" text-anchor="middle" font-weight="normal">191</text>
+<text x="340" y="140" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">10111111</text>
+<rect x="425" y="62" width="150" height="50" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="500.0" y="92.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" fill="#1f2933" text-anchor="middle" font-weight="normal">177</text>
+<text x="500" y="140" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">10110001</text>
+<rect x="585" y="62" width="150" height="50" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="660.0" y="92.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" fill="#1f2933" text-anchor="middle" font-weight="normal">241</text>
+<text x="660" y="140" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">11110001</text>
+<line x1="105" y1="162" x2="575" y2="162" stroke="#0f766e" stroke-width="2"/>
+<line x1="105" y1="162" x2="105" y2="152" stroke="#0f766e" stroke-width="2"/>
+<line x1="575" y1="162" x2="575" y2="152" stroke="#0f766e" stroke-width="2"/>
+<text x="340" y="184" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#0f766e" text-anchor="middle" font-weight="normal">network, 24 bits</text>
+<line x1="585" y1="162" x2="735" y2="162" stroke="#b91c1c" stroke-width="2"/>
+<line x1="585" y1="162" x2="585" y2="152" stroke="#b91c1c" stroke-width="2"/>
+<line x1="735" y1="162" x2="735" y2="152" stroke="#b91c1c" stroke-width="2"/>
+<text x="660" y="184" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#b91c1c" text-anchor="middle" font-weight="normal">host, 8 bits</text>
+<rect x="105" y="206" width="150" height="50" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="180.0" y="236.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" fill="#1f2933" text-anchor="middle" font-weight="normal">255</text>
+<rect x="265" y="206" width="150" height="50" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="340.0" y="236.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" fill="#1f2933" text-anchor="middle" font-weight="normal">255</text>
+<rect x="425" y="206" width="150" height="50" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="500.0" y="236.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" fill="#1f2933" text-anchor="middle" font-weight="normal">255</text>
+<rect x="585" y="206" width="150" height="50" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="660.0" y="236.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" fill="#1f2933" text-anchor="middle" font-weight="normal">0</text>
+<text x="60" y="236" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#64748b" text-anchor="end" font-weight="normal">mask</text>
+<text x="420.0" y="290" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#64748b" text-anchor="middle" font-weight="normal">193.191.177.241/24 and a mask of 255.255.255.0 say the same thing,</text>
+<text x="420.0" y="314" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#64748b" text-anchor="middle" font-weight="normal">the first 24 bits name the network and the last 8 name the host</text>
+</svg>

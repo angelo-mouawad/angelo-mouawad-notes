@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 412" width="820" height="412" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="820" height="412" fill="#ffffff"/>
+<text x="410" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Facts in the middle, dimensions around them</text>
+<rect x="300" y="160" width="220" height="110" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="410" y="190" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">FACT: Sales</text>
+<line x1="320" y1="202" x2="500" y2="202" stroke="#334155" stroke-width="1.5"/>
+<text x="410" y="224" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">quantity, revenue</text>
+<text x="410" y="246" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">the measurable event</text>
+<rect x="80" y="60" width="200" height="70" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="180" y="88" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">DIM: Date</text>
+<text x="180" y="110" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">day, month, quarter</text>
+<line x1="300" y1="200" x2="280" y2="100" stroke="#0f766e" stroke-width="2"/>
+<rect x="540" y="60" width="200" height="70" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="640" y="88" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">DIM: Product</text>
+<text x="640" y="110" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">name, category</text>
+<line x1="520" y1="200" x2="540" y2="100" stroke="#0f766e" stroke-width="2"/>
+<rect x="80" y="300" width="200" height="70" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="180" y="328" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">DIM: Customer</text>
+<text x="180" y="350" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">age, segment</text>
+<line x1="300" y1="240" x2="280" y2="330" stroke="#0f766e" stroke-width="2"/>
+<rect x="540" y="300" width="200" height="70" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="640" y="328" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">DIM: Store</text>
+<text x="640" y="350" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">city, country</text>
+<line x1="520" y1="240" x2="540" y2="330" stroke="#0f766e" stroke-width="2"/>
+<text x="410" y="398" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="normal">answers questions like what products sell the most</text>
+</svg>

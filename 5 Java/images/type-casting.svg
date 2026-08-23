@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 340" width="860" height="340" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="860" height="340" fill="#ffffff"/>
+<text x="430" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Converting between number types</text>
+<rect x="40" y="100" width="110" height="46" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="95" y="129" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">byte</text>
+<path d="M 152,123 L 176,123" fill="none" stroke="#0f766e" stroke-width="2"/>
+<polygon points="166.0,118.0 166.0,128.0 176,123" fill="#0f766e"/>
+<rect x="172" y="100" width="110" height="46" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="227" y="129" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">short</text>
+<path d="M 284,123 L 308,123" fill="none" stroke="#0f766e" stroke-width="2"/>
+<polygon points="298.0,118.0 298.0,128.0 308,123" fill="#0f766e"/>
+<rect x="304" y="100" width="110" height="46" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="359" y="129" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">int</text>
+<path d="M 416,123 L 440,123" fill="none" stroke="#0f766e" stroke-width="2"/>
+<polygon points="430.0,118.0 430.0,128.0 440,123" fill="#0f766e"/>
+<rect x="436" y="100" width="110" height="46" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="491" y="129" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">long</text>
+<path d="M 548,123 L 572,123" fill="none" stroke="#0f766e" stroke-width="2"/>
+<polygon points="562.0,118.0 562.0,128.0 572,123" fill="#0f766e"/>
+<rect x="568" y="100" width="110" height="46" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="623" y="129" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">float</text>
+<path d="M 680,123 L 704,123" fill="none" stroke="#0f766e" stroke-width="2"/>
+<polygon points="694.0,118.0 694.0,128.0 704,123" fill="#0f766e"/>
+<rect x="700" y="100" width="110" height="46" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="755" y="129" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">double</text>
+<path d="M 60,80 L 790,80" fill="none" stroke="#0f766e" stroke-width="2"/>
+<polygon points="780.0,75.0 780.0,85.0 790,80" fill="#0f766e"/>
+<text x="425" y="68" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="bold">widening, automatic, nothing is lost</text>
+<path d="M 790,172 L 60,172" fill="none" stroke="#b91c1c" stroke-width="2"/>
+<polygon points="70.0,167.0 70.0,177.0 60,172" fill="#b91c1c"/>
+<text x="425" y="192" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#b91c1c" text-anchor="middle" font-weight="bold">narrowing, needs an explicit cast, digits can be lost</text>
+<rect x="40" y="214" width="380" height="68" rx="6" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="54" y="243" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">int  small = 10;</text>
+<text x="54" y="263" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">long big   = small;      // automatic</text>
+<rect x="450" y="214" width="380" height="68" rx="6" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="464" y="243" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">double d = 9.99;</text>
+<text x="464" y="263" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">int    i = (int) d;      // gives 9</text>
+<text x="430" y="316" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">the cast in brackets is you telling the compiler you accept the loss</text>
+</svg>

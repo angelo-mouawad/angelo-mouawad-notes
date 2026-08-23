@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 340" width="880" height="340" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="880" height="340" fill="#ffffff"/>
+<text x="440" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Why the browser blocks the call and Postman does not</text>
+<rect x="40" y="100" width="190" height="76" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="135.0" y="135.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">Front end</text>
+<text x="135.0" y="154.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">localhost:3000</text>
+<rect x="650" y="100" width="190" height="76" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="745.0" y="135.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">Back end</text>
+<text x="745.0" y="154.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">localhost:8080</text>
+<path d="M 232,122 L 398,122" fill="none" stroke="#b91c1c" stroke-width="2"/>
+<polygon points="388.0,117.0 388.0,127.0 398,122" fill="#b91c1c"/>
+<rect x="400" y="92" width="250" height="40" rx="6" fill="#fef2f2" stroke="#b91c1c" stroke-width="2"/>
+<text x="525" y="117" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#b91c1c" text-anchor="middle" font-weight="bold">blocked by default</text>
+<text x="525" y="76" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">different port means different origin</text>
+<path d="M 232,176 L 398,176" fill="none" stroke="#0f766e" stroke-width="2"/>
+<polygon points="388.0,171.0 388.0,181.0 398,176" fill="#0f766e"/>
+<rect x="400" y="156" width="250" height="40" rx="6" fill="#f0fdfa" stroke="#0f766e" stroke-width="2"/>
+<text x="525" y="181" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="bold">allowed once CORS is set</text>
+<rect x="300" y="226" width="280" height="50" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="440.0" y="248.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">Postman, curl</text>
+<text x="440.0" y="267.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">never blocked, no browser involved</text>
+<rect x="40" y="292" width="800" height="36" rx="6" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="440" y="315" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">CORS is enforced by the browser, so it protects the user, not your server</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 430" width="860" height="430" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="860" height="430" fill="#ffffff"/>
+<text x="430.0" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#1f2933" text-anchor="middle" font-weight="bold">A trench system, front to back</text>
+<rect x="60" y="62" width="740" height="40" rx="6" fill="#fee2e2" stroke="#334155" stroke-width="2"/>
+<text x="430.0" y="87.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">Enemy front line</text>
+<rect x="60" y="112" width="740" height="68" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="430.0" y="142.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">No man's land</text>
+<text x="430.0" y="161.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">barbed wire and shell craters, anything from 30 to 250 metres of it</text>
+<rect x="60" y="194" width="740" height="52" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="430.0" y="216.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">Front line trench</text>
+<text x="430.0" y="235.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">firing step, sandbags and a duckboard floor</text>
+<rect x="60" y="254" width="740" height="52" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="430.0" y="276.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">Support trench</text>
+<text x="430.0" y="295.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">reinforcements ready to plug a breakthrough</text>
+<rect x="60" y="314" width="740" height="52" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="430.0" y="336.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">Reserve trench</text>
+<text x="430.0" y="355.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">shelters, stores and men resting out of range</text>
+<rect x="700" y="194" width="26" height="172" rx="3" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<path d="M 713,190 L 713,118" fill="none" stroke="#b91c1c" stroke-width="2" stroke-dasharray="5 4"/>
+<polygon points="707,128.2 719,128.2 713,118" fill="#b91c1c"/>
+<text x="430.0" y="396" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">the three trench lines were linked by communication trenches running back from the front,</text>
+<text x="430.0" y="420" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">and every line was dug in a zigzag so one shell could not sweep the whole trench</text>
+</svg>

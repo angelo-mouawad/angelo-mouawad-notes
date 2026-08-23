@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 415" width="800" height="415" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="800" height="415" fill="#ffffff"/>
+<text x="400.0" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#1f2933" text-anchor="middle" font-weight="bold">Grouping bits for octal and hexadecimal</text>
+<text x="40" y="64" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#0f766e" text-anchor="start" font-weight="bold">Octal, 3 bits per digit</text>
+<rect x="109" y="76" width="110" height="42" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="164.0" y="102.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="normal">100</text>
+<path d="M 164,122 L 164,142" fill="none" stroke="#64748b" stroke-width="2"/>
+<polygon points="158,131.8 170,131.8 164,142" fill="#64748b"/>
+<text x="164" y="172" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="22" fill="#1f2933" text-anchor="middle" font-weight="normal">4</text>
+<rect x="227" y="76" width="110" height="42" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="282.0" y="102.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="normal">111</text>
+<path d="M 282,122 L 282,142" fill="none" stroke="#64748b" stroke-width="2"/>
+<polygon points="276,131.8 288,131.8 282,142" fill="#64748b"/>
+<text x="282" y="172" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="22" fill="#1f2933" text-anchor="middle" font-weight="normal">7</text>
+<rect x="345" y="76" width="110" height="42" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="400.0" y="102.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="normal">010</text>
+<path d="M 400,122 L 400,142" fill="none" stroke="#64748b" stroke-width="2"/>
+<polygon points="394,131.8 406,131.8 400,142" fill="#64748b"/>
+<text x="400" y="172" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="22" fill="#1f2933" text-anchor="middle" font-weight="normal">2</text>
+<rect x="463" y="76" width="110" height="42" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="518.0" y="102.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="normal">011</text>
+<path d="M 518,122 L 518,142" fill="none" stroke="#64748b" stroke-width="2"/>
+<polygon points="512,131.8 524,131.8 518,142" fill="#64748b"/>
+<text x="518" y="172" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="22" fill="#1f2933" text-anchor="middle" font-weight="normal">3</text>
+<rect x="581" y="76" width="110" height="42" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="636.0" y="102.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="normal">010</text>
+<path d="M 636,122 L 636,142" fill="none" stroke="#64748b" stroke-width="2"/>
+<polygon points="630,131.8 642,131.8 636,142" fill="#64748b"/>
+<text x="636" y="172" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="22" fill="#1f2933" text-anchor="middle" font-weight="normal">2</text>
+<text x="400.0" y="204" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">(100111010011010) in base 2  =  (47232) in base 8</text>
+<line x1="40" y1="224" x2="760" y2="224" stroke="#e2e8f0" stroke-width="2"/>
+<text x="40" y="254" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#0f766e" text-anchor="start" font-weight="bold">Hexadecimal, 4 bits per digit</text>
+<rect x="105" y="266" width="140" height="42" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="175.0" y="292.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="normal">1100</text>
+<path d="M 175,312 L 175,332" fill="none" stroke="#64748b" stroke-width="2"/>
+<polygon points="169,321.8 181,321.8 175,332" fill="#64748b"/>
+<text x="175" y="362" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="22" fill="#1f2933" text-anchor="middle" font-weight="normal">C</text>
+<rect x="255" y="266" width="140" height="42" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="325.0" y="292.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="normal">1110</text>
+<path d="M 325,312 L 325,332" fill="none" stroke="#64748b" stroke-width="2"/>
+<polygon points="319,321.8 331,321.8 325,332" fill="#64748b"/>
+<text x="325" y="362" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="22" fill="#1f2933" text-anchor="middle" font-weight="normal">E</text>
+<rect x="405" y="266" width="140" height="42" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="475.0" y="292.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="normal">1001</text>
+<path d="M 475,312 L 475,332" fill="none" stroke="#64748b" stroke-width="2"/>
+<polygon points="469,321.8 481,321.8 475,332" fill="#64748b"/>
+<text x="475" y="362" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="22" fill="#1f2933" text-anchor="middle" font-weight="normal">9</text>
+<rect x="555" y="266" width="140" height="42" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="625.0" y="292.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="normal">1010</text>
+<path d="M 625,312 L 625,332" fill="none" stroke="#64748b" stroke-width="2"/>
+<polygon points="619,321.8 631,321.8 625,332" fill="#64748b"/>
+<text x="625" y="362" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="22" fill="#1f2933" text-anchor="middle" font-weight="normal">A</text>
+<text x="400.0" y="394" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">(1100111010011010) in base 2  =  (CE9A) in base 16</text>
+</svg>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 320" width="880" height="320" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="880" height="320" fill="#ffffff"/>
+<text x="440" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Who can see what</text>
+<rect x="50" y="54" width="160" height="42" rx="4" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="130" y="81" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">modifier</text>
+<rect x="210" y="54" width="165" height="42" rx="4" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="292.5" y="81" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">same class</text>
+<rect x="375" y="54" width="165" height="42" rx="4" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="457.5" y="81" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">same package</text>
+<rect x="540" y="54" width="165" height="42" rx="4" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="622.5" y="81" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">subclass</text>
+<rect x="705" y="54" width="165" height="42" rx="4" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="787.5" y="81" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">everywhere</text>
+<rect x="50" y="96" width="160" height="46" rx="0" fill="#f1f5f9" stroke="#334155" stroke-width="1"/>
+<text x="130" y="125" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">public</text>
+<rect x="210" y="96" width="165" height="46" rx="0" fill="#ccfbf1" stroke="#334155" stroke-width="1"/>
+<text x="292.5" y="125" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="bold">yes</text>
+<rect x="375" y="96" width="165" height="46" rx="0" fill="#ccfbf1" stroke="#334155" stroke-width="1"/>
+<text x="457.5" y="125" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="bold">yes</text>
+<rect x="540" y="96" width="165" height="46" rx="0" fill="#ccfbf1" stroke="#334155" stroke-width="1"/>
+<text x="622.5" y="125" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="bold">yes</text>
+<rect x="705" y="96" width="165" height="46" rx="0" fill="#ccfbf1" stroke="#334155" stroke-width="1"/>
+<text x="787.5" y="125" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="bold">yes</text>
+<rect x="50" y="142" width="160" height="46" rx="0" fill="#f1f5f9" stroke="#334155" stroke-width="1"/>
+<text x="130" y="171" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">protected</text>
+<rect x="210" y="142" width="165" height="46" rx="0" fill="#ccfbf1" stroke="#334155" stroke-width="1"/>
+<text x="292.5" y="171" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="bold">yes</text>
+<rect x="375" y="142" width="165" height="46" rx="0" fill="#ccfbf1" stroke="#334155" stroke-width="1"/>
+<text x="457.5" y="171" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="bold">yes</text>
+<rect x="540" y="142" width="165" height="46" rx="0" fill="#ccfbf1" stroke="#334155" stroke-width="1"/>
+<text x="622.5" y="171" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="bold">yes</text>
+<rect x="705" y="142" width="165" height="46" rx="0" fill="#fee2e2" stroke="#334155" stroke-width="1"/>
+<text x="787.5" y="171" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#b91c1c" text-anchor="middle" font-weight="bold">no</text>
+<rect x="50" y="188" width="160" height="46" rx="0" fill="#f1f5f9" stroke="#334155" stroke-width="1"/>
+<text x="130" y="217" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">default</text>
+<rect x="210" y="188" width="165" height="46" rx="0" fill="#ccfbf1" stroke="#334155" stroke-width="1"/>
+<text x="292.5" y="217" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="bold">yes</text>
+<rect x="375" y="188" width="165" height="46" rx="0" fill="#ccfbf1" stroke="#334155" stroke-width="1"/>
+<text x="457.5" y="217" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="bold">yes</text>
+<rect x="540" y="188" width="165" height="46" rx="0" fill="#fee2e2" stroke="#334155" stroke-width="1"/>
+<text x="622.5" y="217" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#b91c1c" text-anchor="middle" font-weight="bold">no</text>
+<rect x="705" y="188" width="165" height="46" rx="0" fill="#fee2e2" stroke="#334155" stroke-width="1"/>
+<text x="787.5" y="217" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#b91c1c" text-anchor="middle" font-weight="bold">no</text>
+<rect x="50" y="234" width="160" height="46" rx="0" fill="#f1f5f9" stroke="#334155" stroke-width="1"/>
+<text x="130" y="263" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">private</text>
+<rect x="210" y="234" width="165" height="46" rx="0" fill="#ccfbf1" stroke="#334155" stroke-width="1"/>
+<text x="292.5" y="263" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="bold">yes</text>
+<rect x="375" y="234" width="165" height="46" rx="0" fill="#fee2e2" stroke="#334155" stroke-width="1"/>
+<text x="457.5" y="263" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#b91c1c" text-anchor="middle" font-weight="bold">no</text>
+<rect x="540" y="234" width="165" height="46" rx="0" fill="#fee2e2" stroke="#334155" stroke-width="1"/>
+<text x="622.5" y="263" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#b91c1c" text-anchor="middle" font-weight="bold">no</text>
+<rect x="705" y="234" width="165" height="46" rx="0" fill="#fee2e2" stroke="#334155" stroke-width="1"/>
+<text x="787.5" y="263" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#b91c1c" text-anchor="middle" font-weight="bold">no</text>
+<text x="440" y="306" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">default is what you get by writing no modifier at all, and it means package only</text>
+</svg>

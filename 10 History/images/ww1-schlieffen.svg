@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 420" width="860" height="420" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="860" height="420" fill="#ffffff"/>
+<text x="430.0" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#1f2933" text-anchor="middle" font-weight="bold">The Schlieffen Plan and what actually happened</text>
+<rect x="60" y="150" width="170" height="150" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="145.0" y="230.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="normal">France</text>
+<rect x="250" y="110" width="110" height="70" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="305.0" y="150.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">Belgium</text>
+<rect x="390" y="150" width="190" height="150" rx="6" fill="#fee2e2" stroke="#334155" stroke-width="2"/>
+<text x="485.0" y="230.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="normal">Germany</text>
+<rect x="630" y="150" width="170" height="150" rx="6" fill="#ede9fe" stroke="#334155" stroke-width="2"/>
+<text x="715.0" y="230.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="normal">Russia</text>
+<path d="M 392,172 L 345,145 L 258,145 L 234,200" fill="none" stroke="#0f766e" stroke-width="3"/>
+<polygon points="244.2,194 244.2,206 234,200" fill="#0f766e"/>
+<text x="305" y="98" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="normal">1. swing through Belgium</text>
+<text x="145" y="330" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="normal">2. take Paris in six weeks</text>
+<path d="M 580,225 L 628,225" fill="none" stroke="#b91c1c" stroke-width="3"/>
+<polygon points="617.8,219 617.8,231 628,225" fill="#b91c1c"/>
+<text x="605" y="330" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#b91c1c" text-anchor="middle" font-weight="normal">3. then turn east</text>
+<text x="430.0" y="366" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">Belgium resisted longer than expected, Britain entered because of it, and the advance</text>
+<text x="430.0" y="390" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">stalled at the Marne in September 1914. Germany then had to fight both fronts at once.</text>
+</svg>

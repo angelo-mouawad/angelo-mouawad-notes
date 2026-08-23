@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 380" width="880" height="380" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="880" height="380" fill="#ffffff"/>
+<text x="440" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">One class, many objects</text>
+<rect x="40" y="60" width="340" height="280" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="210" y="88" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="bold">the class</text>
+<text x="210" y="108" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">the blueprint</text>
+<rect x="64" y="122" width="292" height="74" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="210" y="144" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#0f766e" text-anchor="middle" font-weight="bold">fields</text>
+<text x="210" y="166" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">private String name;</text>
+<text x="210" y="186" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">private int age;</text>
+<rect x="64" y="206" width="292" height="56" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="210" y="226" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#0f766e" text-anchor="middle" font-weight="bold">constructor</text>
+<text x="210" y="250" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">public Person(String, int)</text>
+<rect x="64" y="272" width="292" height="52" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="210" y="292" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#0f766e" text-anchor="middle" font-weight="bold">methods</text>
+<text x="210" y="314" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">getName(), setName()</text>
+<path d="M 392,190 L 440,190" fill="none" stroke="#0f766e" stroke-width="2"/>
+<polygon points="430.0,185.0 430.0,195.0 440,190" fill="#0f766e"/>
+<text x="416" y="178" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#0f766e" text-anchor="middle" font-weight="bold">new</text>
+<rect x="460" y="90" width="380" height="76" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="650" y="120" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">angelo</text>
+<text x="650" y="146" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">"Angelo", 21</text>
+<rect x="460" y="190" width="380" height="76" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="650" y="220" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">bella</text>
+<text x="650" y="246" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">"Bella", 34</text>
+<rect x="460" y="290" width="380" height="76" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="650" y="320" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">sam</text>
+<text x="650" y="346" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">"Sam", 8</text>
+<text x="650" y="62" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="bold">the objects, each with its own values</text>
+</svg>

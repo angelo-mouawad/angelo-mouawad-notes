@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" width="900" height="340" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="900" height="340" fill="#ffffff"/>
+<text x="450" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">What each one guarantees</text>
+<rect x="30" y="58" width="275" height="250" rx="8" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="167" y="84" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" fill="#0f766e" text-anchor="middle" font-weight="bold">List</text>
+<rect x="56" y="104" width="50" height="44" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="81" y="132" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">10</text>
+<text x="81" y="166" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#0f766e" text-anchor="middle" font-weight="normal">0</text>
+<rect x="116" y="104" width="50" height="44" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="141" y="132" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">42</text>
+<text x="141" y="166" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#0f766e" text-anchor="middle" font-weight="normal">1</text>
+<rect x="176" y="104" width="50" height="44" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="201" y="132" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">10</text>
+<text x="201" y="166" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#0f766e" text-anchor="middle" font-weight="normal">2</text>
+<rect x="236" y="104" width="50" height="44" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="261" y="132" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">7</text>
+<text x="261" y="166" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#0f766e" text-anchor="middle" font-weight="normal">3</text>
+<text x="167" y="196" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">ordered, indexed</text>
+<text x="167" y="220" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">duplicates allowed</text>
+<text x="167" y="252" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">get(index), add, remove</text>
+<text x="167" y="284" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#0f766e" text-anchor="middle" font-weight="normal">when position matters</text>
+<rect x="320" y="58" width="275" height="250" rx="8" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="457" y="84" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" fill="#1d4ed8" text-anchor="middle" font-weight="bold">Set</text>
+<circle cx="380" cy="132" r="26" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="380" y="137" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">10</text>
+<circle cx="460" cy="122" r="26" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="460" y="127" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">42</text>
+<circle cx="530" cy="140" r="26" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="530" y="145" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">7</text>
+<text x="457" y="196" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">unordered</text>
+<text x="457" y="220" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">no duplicates</text>
+<text x="457" y="252" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">add, contains, remove</text>
+<text x="457" y="284" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1d4ed8" text-anchor="middle" font-weight="normal">when you only care what is in it</text>
+<rect x="610" y="58" width="260" height="250" rx="8" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="740" y="84" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" fill="#92400e" text-anchor="middle" font-weight="bold">Map</text>
+<rect x="634" y="106" width="110" height="36" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="689" y="130" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">"ali"</text>
+<path d="M 746,124 L 762,124" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="752.0,119.0 752.0,129.0 762,124" fill="#334155"/>
+<rect x="766" y="106" width="80" height="36" rx="4" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="806" y="130" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">21</text>
+<rect x="634" y="150" width="110" height="36" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="689" y="174" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">"sam"</text>
+<path d="M 746,168 L 762,168" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="752.0,163.0 752.0,173.0 762,168" fill="#334155"/>
+<rect x="766" y="150" width="80" height="36" rx="4" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="806" y="174" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">34</text>
+<text x="740" y="216" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">key to value</text>
+<text x="740" y="240" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">keys are unique</text>
+<text x="740" y="268" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">put, get, containsKey</text>
+<text x="740" y="294" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#92400e" text-anchor="middle" font-weight="normal">when you look things up by name</text>
+</svg>

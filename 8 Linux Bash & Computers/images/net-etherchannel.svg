@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 290" width="780" height="290" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="780" height="290" fill="#ffffff"/>
+<text x="390.0" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#1f2933" text-anchor="middle" font-weight="bold">EtherChannel bundles the links</text>
+<rect x="60" y="110" width="150" height="70" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="135.0" y="150.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">Switch 1</text>
+<rect x="570" y="110" width="150" height="70" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="645.0" y="150.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">Switch 2</text>
+<line x1="210" y1="110" x2="570" y2="110" stroke="#334155" stroke-width="2"/>
+<line x1="210" y1="130" x2="570" y2="130" stroke="#334155" stroke-width="2"/>
+<line x1="210" y1="150" x2="570" y2="150" stroke="#334155" stroke-width="2"/>
+<line x1="210" y1="170" x2="570" y2="170" stroke="#334155" stroke-width="2"/>
+<rect x="240" y="92" width="300" height="108" rx="10" fill="none" stroke="#0f766e" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="390" y="226" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#0f766e" text-anchor="middle" font-weight="normal">four physical links, one logical interface</text>
+<text x="390.0" y="258" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">more bandwidth and redundancy, and STP treats the bundle as a single link</text>
+<text x="390.0" y="280" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">so it does not block any of them, LACP checks both ends agree</text>
+</svg>

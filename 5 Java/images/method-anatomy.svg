@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 340" width="880" height="340" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="880" height="340" fill="#ffffff"/>
+<text x="440" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">The parts of a method signature</text>
+<text x="70" y="96" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="22" fill="#0f766e" text-anchor="start" font-weight="normal">public</text>
+<text x="190" y="96" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="22" fill="#1d4ed8" text-anchor="start" font-weight="normal">static</text>
+<text x="310" y="96" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="22" fill="#b91c1c" text-anchor="start" font-weight="normal">int</text>
+<text x="400" y="96" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="22" fill="#1f2933" text-anchor="start" font-weight="normal">addThree</text>
+<text x="560" y="96" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="22" fill="#92400e" text-anchor="start" font-weight="normal">(int number)</text>
+<text x="730" y="96" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="22" fill="#1f2933" text-anchor="start" font-weight="normal">{</text>
+<path d="M 118,108 L 118,136" fill="none" stroke="#0f766e" stroke-width="2"/>
+<polygon points="113.0,126.0 123.0,126.0 118,136" fill="#0f766e"/>
+<text x="118" y="152" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="bold">who can call it</text>
+<path d="M 240,108 L 240,174" fill="none" stroke="#1d4ed8" stroke-width="2"/>
+<polygon points="235.0,164.0 245.0,164.0 240,174" fill="#1d4ed8"/>
+<text x="240" y="190" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1d4ed8" text-anchor="middle" font-weight="bold">belongs to the class, not to an object</text>
+<path d="M 335,108 L 335,136" fill="none" stroke="#b91c1c" stroke-width="2"/>
+<polygon points="330.0,126.0 340.0,126.0 335,136" fill="#b91c1c"/>
+<text x="335" y="152" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#b91c1c" text-anchor="middle" font-weight="bold">what it gives back</text>
+<path d="M 455,108 L 455,174" fill="none" stroke="#1f2933" stroke-width="2"/>
+<polygon points="450.0,164.0 460.0,164.0 455,174" fill="#1f2933"/>
+<text x="455" y="190" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">its name</text>
+<path d="M 630,108 L 630,136" fill="none" stroke="#92400e" stroke-width="2"/>
+<polygon points="625.0,126.0 635.0,126.0 630,136" fill="#92400e"/>
+<text x="630" y="152" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#92400e" text-anchor="middle" font-weight="bold">what it takes in</text>
+<rect x="40" y="200" width="390" height="120" rx="8" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="235" y="224" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#1d4ed8" text-anchor="middle" font-weight="bold">static</text>
+<text x="235" y="250" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">does not belong to an instance</text>
+<text x="235" y="270" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">cannot be overridden by a subclass</text>
+<text x="235" y="290" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">cannot touch instance fields</text>
+<text x="235" y="310" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">cannot call non static methods</text>
+<rect x="450" y="200" width="390" height="120" rx="8" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="645" y="224" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#b91c1c" text-anchor="middle" font-weight="bold">the return type</text>
+<text x="645" y="250" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">a type means a return statement</text>
+<text x="645" y="270" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">is required on every path</text>
+<text x="645" y="290" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">void means nothing comes back,</text>
+<text x="645" y="310" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">so no return statement is needed</text>
+</svg>

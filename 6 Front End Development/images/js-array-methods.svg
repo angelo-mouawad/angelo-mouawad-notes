@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 340" width="880" height="340" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="880" height="340" fill="#ffffff"/>
+<text x="440" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">The three that replace most for loops</text>
+<text x="80" y="102" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" fill="#0f766e" text-anchor="start" font-weight="bold">map</text>
+<rect x="190" y="82" width="40" height="36" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="1"/>
+<text x="210" y="106" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">1</text>
+<rect x="236" y="82" width="40" height="36" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="1"/>
+<text x="256" y="106" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">2</text>
+<rect x="282" y="82" width="40" height="36" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="1"/>
+<text x="302" y="106" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">3</text>
+<rect x="350" y="80" width="190" height="40" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="445" y="105" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">n =&gt; n * 2</text>
+<path d="M 336,100 L 348,100" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="338.0,95.0 338.0,105.0 348,100" fill="#334155"/>
+<path d="M 542,100 L 566,100" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="556.0,95.0 556.0,105.0 566,100" fill="#334155"/>
+<rect x="576" y="82" width="40" height="36" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="1"/>
+<text x="596" y="106" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">2</text>
+<rect x="622" y="82" width="40" height="36" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="1"/>
+<text x="642" y="106" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">4</text>
+<rect x="668" y="82" width="40" height="36" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="1"/>
+<text x="688" y="106" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">6</text>
+<text x="730" y="105" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="start" font-weight="normal">new array, same length</text>
+<text x="80" y="190" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" fill="#0f766e" text-anchor="start" font-weight="bold">filter</text>
+<rect x="190" y="170" width="40" height="36" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="1"/>
+<text x="210" y="194" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">1</text>
+<rect x="236" y="170" width="40" height="36" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="1"/>
+<text x="256" y="194" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">2</text>
+<rect x="282" y="170" width="40" height="36" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="1"/>
+<text x="302" y="194" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">3</text>
+<rect x="350" y="168" width="190" height="40" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="445" y="193" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">n =&gt; n &gt; 1</text>
+<path d="M 336,188 L 348,188" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="338.0,183.0 338.0,193.0 348,188" fill="#334155"/>
+<path d="M 542,188 L 566,188" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="556.0,183.0 556.0,193.0 566,188" fill="#334155"/>
+<rect x="576" y="170" width="40" height="36" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="1"/>
+<text x="596" y="194" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">2</text>
+<rect x="622" y="170" width="40" height="36" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="1"/>
+<text x="642" y="194" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">3</text>
+<text x="730" y="193" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="start" font-weight="normal">new array, only matches</text>
+<text x="80" y="278" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" fill="#0f766e" text-anchor="start" font-weight="bold">forEach</text>
+<rect x="190" y="258" width="40" height="36" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="1"/>
+<text x="210" y="282" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">1</text>
+<rect x="236" y="258" width="40" height="36" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="1"/>
+<text x="256" y="282" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">2</text>
+<rect x="282" y="258" width="40" height="36" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="1"/>
+<text x="302" y="282" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">3</text>
+<rect x="350" y="256" width="190" height="40" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="445" y="281" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">n =&gt; console.log(n)</text>
+<path d="M 336,276 L 348,276" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="338.0,271.0 338.0,281.0 348,276" fill="#334155"/>
+<path d="M 542,276 L 566,276" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="556.0,271.0 556.0,281.0 566,276" fill="#334155"/>
+<text x="580" y="282" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">undefined</text>
+<text x="730" y="281" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="start" font-weight="normal">returns nothing</text>
+<text x="440" y="326" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">keep a for loop only when you need break or continue</text>
+</svg>

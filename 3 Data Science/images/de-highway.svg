@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 260" width="840" height="260" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="840" height="260" fill="#ffffff"/>
+<text x="420" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">Data Engineering builds it, Data Science drives on it</text>
+<rect x="50" y="150" width="740" height="52" rx="4" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<rect x="80" y="174" width="46" height="5" rx="2" fill="#ffffff"/>
+<rect x="162" y="174" width="46" height="5" rx="2" fill="#ffffff"/>
+<rect x="244" y="174" width="46" height="5" rx="2" fill="#ffffff"/>
+<rect x="326" y="174" width="46" height="5" rx="2" fill="#ffffff"/>
+<rect x="408" y="174" width="46" height="5" rx="2" fill="#ffffff"/>
+<rect x="490" y="174" width="46" height="5" rx="2" fill="#ffffff"/>
+<rect x="572" y="174" width="46" height="5" rx="2" fill="#ffffff"/>
+<rect x="654" y="174" width="46" height="5" rx="2" fill="#ffffff"/>
+<rect x="736" y="174" width="46" height="5" rx="2" fill="#ffffff"/>
+<text x="420" y="226" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">the pipeline: collection, transformation, warehousing, automation</text>
+<rect x="90" y="60" width="180" height="62" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="180.0" y="88.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">Data Engineer</text>
+<text x="180.0" y="108.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">builds the highway</text>
+<rect x="570" y="60" width="180" height="62" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="660.0" y="88.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">Data Scientist</text>
+<text x="660.0" y="108.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">drives the car</text>
+<path d="M 180,122 L 180,146" fill="none" stroke="#0f766e" stroke-width="2"/>
+<polygon points="175,136 185,136 180,146" fill="#0f766e"/>
+<path d="M 660,122 L 660,146" fill="none" stroke="#0f766e" stroke-width="2"/>
+<polygon points="655,136 665,136 660,146" fill="#0f766e"/>
+<rect x="360" y="158" width="72" height="30" rx="8" fill="#0f766e"/>
+<circle cx="378" cy="192" r="8" fill="#334155"/>
+<circle cx="416" cy="192" r="8" fill="#334155"/>
+<path d="M 440,173 L 500,173" fill="none" stroke="#0f766e" stroke-width="2"/>
+<polygon points="490,168 490,178 500,173" fill="#0f766e"/>
+</svg>

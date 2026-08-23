@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 400" width="820" height="400" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="820" height="400" fill="#ffffff"/>
+<text x="175" y="40" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">the calls go down</text>
+<text x="625" y="40" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">the results come back up</text>
+<rect x="65" y="70" width="220" height="48" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="175.0" y="99.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">factorial(4)</text>
+<rect x="515" y="70" width="220" height="48" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="625.0" y="99.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">4 * 6 = 24</text>
+<path d="M 175,118 L 175,138" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="170,128 180,128 175,138" fill="#334155"/>
+<path d="M 625,138 L 625,118" fill="none" stroke="#0f766e" stroke-width="2"/>
+<polygon points="620,128 630,128 625,118" fill="#0f766e"/>
+<rect x="65" y="138" width="220" height="48" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="175.0" y="167.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">factorial(3)</text>
+<rect x="515" y="138" width="220" height="48" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="625.0" y="167.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">3 * 2 = 6</text>
+<path d="M 175,186 L 175,206" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="170,196 180,196 175,206" fill="#334155"/>
+<path d="M 625,206 L 625,186" fill="none" stroke="#0f766e" stroke-width="2"/>
+<polygon points="620,196 630,196 625,186" fill="#0f766e"/>
+<rect x="65" y="206" width="220" height="48" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="175.0" y="235.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">factorial(2)</text>
+<rect x="515" y="206" width="220" height="48" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="625.0" y="235.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">2 * 1 = 2</text>
+<path d="M 175,254 L 175,274" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="170,264 180,264 175,274" fill="#334155"/>
+<path d="M 625,274 L 625,254" fill="none" stroke="#0f766e" stroke-width="2"/>
+<polygon points="620,264 630,264 625,254" fill="#0f766e"/>
+<rect x="65" y="274" width="220" height="48" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="175.0" y="303.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">factorial(1)</text>
+<rect x="515" y="274" width="220" height="48" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="625.0" y="303.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">1</text>
+<path d="M 285,298 L 400,298 L 400,298 L 509,298" fill="none" stroke="#0f766e" stroke-width="2"/>
+<polygon points="499,293 499,303 509,298" fill="#0f766e"/>
+<text x="400" y="286" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#b91c1c" text-anchor="middle" font-weight="normal">base case</text>
+<text x="400" y="355" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">without the base case the function would call itself forever</text>
+</svg>

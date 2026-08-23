@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 340" width="880" height="340" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="880" height="340" fill="#ffffff"/>
+<text x="440" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Four things an &lt;a href&gt; can point at</text>
+<rect x="50" y="62" width="250" height="54" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="175" y="95" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">another page</text>
+<path d="M 302,89 L 330,89" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="320.0,84.0 320.0,94.0 330,89" fill="#334155"/>
+<rect x="340" y="62" width="490" height="54" rx="6" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="360" y="86" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1d4ed8" text-anchor="start" font-weight="normal">href="file.html"</text>
+<text x="360" y="106" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="start" font-weight="normal">same folder on your site</text>
+<rect x="50" y="128" width="250" height="54" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="175" y="161" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">a page in a folder</text>
+<path d="M 302,155 L 330,155" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="320.0,150.0 320.0,160.0 330,155" fill="#334155"/>
+<rect x="340" y="128" width="490" height="54" rx="6" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="360" y="152" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1d4ed8" text-anchor="start" font-weight="normal">href="folder/file.html"</text>
+<text x="360" y="172" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="start" font-weight="normal">path from where you are</text>
+<rect x="50" y="194" width="250" height="54" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="175" y="227" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">further down this page</text>
+<path d="M 302,221 L 330,221" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="320.0,216.0 320.0,226.0 330,221" fill="#334155"/>
+<rect x="340" y="194" width="490" height="54" rx="6" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="360" y="218" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1d4ed8" text-anchor="start" font-weight="normal">href="#id"</text>
+<text x="360" y="238" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="start" font-weight="normal">the tag needs id="..."</text>
+<rect x="50" y="260" width="250" height="54" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="175" y="293" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">another website</text>
+<path d="M 302,287 L 330,287" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="320.0,282.0 320.0,292.0 330,287" fill="#334155"/>
+<rect x="340" y="260" width="490" height="54" rx="6" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="360" y="284" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1d4ed8" text-anchor="start" font-weight="normal">href="link" target="_blank"</text>
+<text x="360" y="304" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="start" font-weight="normal">opens in a new tab</text>
+</svg>

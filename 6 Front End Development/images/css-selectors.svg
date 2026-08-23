@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430" width="900" height="430" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="900" height="430" fill="#ffffff"/>
+<text x="450" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Which tags a selector actually reaches</text>
+<rect x="40" y="56" width="330" height="350" rx="8" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="205" y="80" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="bold">the markup</text>
+<rect x="120" y="96" width="170" height="34" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="205.0" y="118.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">section</text>
+<path d="M 205,130 L 205,150 L 130,150 L 130,166" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="125.0,156.0 135.0,156.0 130,166" fill="#334155"/>
+<path d="M 205,130 L 205,150 L 280,150 L 280,166" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="275.0,156.0 285.0,156.0 280,166" fill="#334155"/>
+<rect x="80" y="168" width="100" height="34" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="130.0" y="190.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">h2</text>
+<rect x="220" y="168" width="120" height="34" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="280.0" y="190.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">p</text>
+<path d="M 130,202 L 130,232" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="125.0,222.0 135.0,222.0 130,232" fill="#334155"/>
+<rect x="80" y="234" width="130" height="34" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="145.0" y="256.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">span</text>
+<path d="M 145,268 L 145,298" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="140.0,288.0 150.0,288.0 145,298" fill="#334155"/>
+<rect x="95" y="300" width="120" height="34" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="155.0" y="322.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">p</text>
+<text x="205" y="366" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">two paragraphs, at two different depths</text>
+<text x="205" y="386" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">one directly in the section, one inside a span</text>
+<rect x="400" y="62" width="470" height="58" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="420" y="88" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#1f2933" text-anchor="start" font-weight="bold">section p</text>
+<text x="420" y="108" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="start" font-weight="normal">both paragraphs, at any depth</text>
+<text x="852" y="88" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#0f766e" text-anchor="end" font-weight="normal">descendant</text>
+<rect x="400" y="132" width="470" height="58" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="420" y="158" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#1f2933" text-anchor="start" font-weight="bold">section &gt; p</text>
+<text x="420" y="178" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="start" font-weight="normal">only the direct child paragraph</text>
+<text x="852" y="158" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#0f766e" text-anchor="end" font-weight="normal">child</text>
+<rect x="400" y="202" width="470" height="58" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="420" y="228" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#1f2933" text-anchor="start" font-weight="bold">h2 + p</text>
+<text x="420" y="248" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="start" font-weight="normal">a paragraph right after an h2</text>
+<text x="852" y="228" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#0f766e" text-anchor="end" font-weight="normal">adjacent sibling</text>
+<rect x="400" y="272" width="470" height="58" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="420" y="298" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#1f2933" text-anchor="start" font-weight="bold">h2:hover</text>
+<text x="420" y="318" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="start" font-weight="normal">an h2 while the cursor is on it</text>
+<text x="852" y="298" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#0f766e" text-anchor="end" font-weight="normal">pseudo class</text>
+<rect x="400" y="342" width="470" height="58" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="420" y="368" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#1f2933" text-anchor="start" font-weight="bold">p::first-line</text>
+<text x="420" y="388" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="start" font-weight="normal">just the first line of every p</text>
+<text x="852" y="368" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#0f766e" text-anchor="end" font-weight="normal">pseudo element</text>
+</svg>

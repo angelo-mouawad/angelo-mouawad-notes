@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 240" width="880" height="240" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="880" height="240" fill="#ffffff"/>
+<text x="440" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">The four steps of ingestion</text>
+<rect x="40" y="70" width="170" height="106" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<circle cx="125" cy="100" r="16" fill="#0f766e"/>
+<text x="125" y="106" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#ffffff" text-anchor="middle" font-weight="bold">1</text>
+<text x="125" y="142" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Extraction</text>
+<text x="125" y="164" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">gather raw data</text>
+<path d="M 210,123 L 236,123" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="226,118 226,128 236,123" fill="#334155"/>
+<rect x="250" y="70" width="170" height="106" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<circle cx="335" cy="100" r="16" fill="#0f766e"/>
+<text x="335" y="106" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#ffffff" text-anchor="middle" font-weight="bold">2</text>
+<text x="335" y="142" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Transformation</text>
+<text x="335" y="164" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">clean and structure</text>
+<path d="M 420,123 L 446,123" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="436,118 436,128 446,123" fill="#334155"/>
+<rect x="460" y="70" width="170" height="106" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<circle cx="545" cy="100" r="16" fill="#0f766e"/>
+<text x="545" y="106" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#ffffff" text-anchor="middle" font-weight="bold">3</text>
+<text x="545" y="142" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Loading</text>
+<text x="545" y="164" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">import to target</text>
+<path d="M 630,123 L 656,123" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="646,118 646,128 656,123" fill="#334155"/>
+<rect x="670" y="70" width="170" height="106" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<circle cx="755" cy="100" r="16" fill="#0f766e"/>
+<text x="755" y="106" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#ffffff" text-anchor="middle" font-weight="bold">4</text>
+<text x="755" y="142" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Validation</text>
+<text x="755" y="164" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">quality checks</text>
+<rect x="140" y="196" width="600" height="34" rx="6" fill="#fef2f2" stroke="#b91c1c" stroke-width="2" stroke-dasharray="5 4"/>
+<text x="440" y="218" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#b91c1c" text-anchor="middle" font-weight="normal">schema drift: the format changes without warning and the pipeline breaks</text>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="900" height="420" fill="#ffffff"/>
+<text x="450" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">One request, all the way down and back</text>
+<rect x="40" y="150" width="140" height="90" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="110.0" y="192.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">Client</text>
+<text x="110.0" y="211.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">browser, Postman</text>
+<rect x="220" y="130" width="150" height="130" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="295" y="172" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">Controller</text>
+<text x="295" y="198" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">endpoints, HTTP</text>
+<text x="295" y="240" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#0f766e" text-anchor="middle" font-weight="normal">@RestController</text>
+<rect x="400" y="130" width="150" height="130" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="475" y="172" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">Service</text>
+<text x="475" y="198" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">rules, logic</text>
+<text x="475" y="240" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#0f766e" text-anchor="middle" font-weight="normal">@Service</text>
+<rect x="580" y="130" width="150" height="130" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="655" y="172" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">Repository</text>
+<text x="655" y="198" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">queries</text>
+<text x="655" y="240" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#0f766e" text-anchor="middle" font-weight="normal">@Repository</text>
+<rect x="760" y="150" width="110" height="90" rx="8" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="815" y="186" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">Database</text>
+<text x="815" y="208" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">tables</text>
+<path d="M 180,170 L 216,170" fill="none" stroke="#0f766e" stroke-width="2"/>
+<polygon points="206.0,165.0 206.0,175.0 216,170" fill="#0f766e"/>
+<path d="M 370,170 L 396,170" fill="none" stroke="#0f766e" stroke-width="2"/>
+<polygon points="386.0,165.0 386.0,175.0 396,170" fill="#0f766e"/>
+<path d="M 550,170 L 576,170" fill="none" stroke="#0f766e" stroke-width="2"/>
+<polygon points="566.0,165.0 566.0,175.0 576,170" fill="#0f766e"/>
+<path d="M 730,170 L 756,170" fill="none" stroke="#0f766e" stroke-width="2"/>
+<polygon points="746.0,165.0 746.0,175.0 756,170" fill="#0f766e"/>
+<path d="M 216,222 L 180,222" fill="none" stroke="#94a3b8" stroke-width="2"/>
+<polygon points="190.0,217.0 190.0,227.0 180,222" fill="#94a3b8"/>
+<path d="M 396,222 L 370,222" fill="none" stroke="#94a3b8" stroke-width="2"/>
+<polygon points="380.0,217.0 380.0,227.0 370,222" fill="#94a3b8"/>
+<path d="M 576,222 L 550,222" fill="none" stroke="#94a3b8" stroke-width="2"/>
+<polygon points="560.0,217.0 560.0,227.0 550,222" fill="#94a3b8"/>
+<path d="M 756,222 L 730,222" fill="none" stroke="#94a3b8" stroke-width="2"/>
+<polygon points="740.0,217.0 740.0,227.0 730,222" fill="#94a3b8"/>
+<text x="450" y="108" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="bold">request</text>
+<text x="450" y="288" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="bold">response</text>
+<rect x="220" y="320" width="650" height="66" rx="8" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="545" y="344" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">each layer only talks to the one next to it</text>
+<text x="545" y="366" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">the controller never touches the repository, and the repository knows nothing about HTTP</text>
+</svg>

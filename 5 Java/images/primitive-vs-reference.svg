@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 400" width="880" height="400" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="880" height="400" fill="#ffffff"/>
+<text x="440" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Where the value actually lives</text>
+<rect x="40" y="60" width="390" height="300" rx="8" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="235" y="86" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#0f766e" text-anchor="middle" font-weight="bold">the stack</text>
+<text x="235" y="106" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">local variables</text>
+<rect x="70" y="122" width="330" height="60" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="92" y="148" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">int age</text>
+<rect x="250" y="134" width="130" height="36" rx="4" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="315" y="158" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">21</text>
+<text x="92" y="172" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#0f766e" text-anchor="start" font-weight="normal">primitive</text>
+<rect x="70" y="200" width="330" height="60" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="92" y="226" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">String name</text>
+<rect x="250" y="212" width="130" height="36" rx="4" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="315" y="236" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1d4ed8" text-anchor="middle" font-weight="normal">0x4a1f</text>
+<text x="92" y="250" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#1d4ed8" text-anchor="start" font-weight="normal">reference</text>
+<text x="235" y="300" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">a primitive holds the value itself</text>
+<text x="235" y="324" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">a reference holds an address</text>
+<rect x="450" y="60" width="390" height="300" rx="8" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="645" y="86" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1d4ed8" text-anchor="middle" font-weight="bold">the heap</text>
+<text x="645" y="106" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">objects</text>
+<rect x="520" y="200" width="250" height="76" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="645" y="228" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">String object</text>
+<text x="645" y="254" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">"Angelo"</text>
+<path d="M 402,230 L 514,230" fill="none" stroke="#1d4ed8" stroke-width="2"/>
+<polygon points="504.0,225.0 504.0,235.0 514,230" fill="#1d4ed8"/>
+<text x="645" y="316" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">the object sits here, and the</text>
+<text x="645" y="338" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">variable only points at it</text>
+</svg>

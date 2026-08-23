@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 260" width="850" height="260" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="850" height="260" fill="#ffffff"/>
+<text x="425.0" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#1f2933" text-anchor="middle" font-weight="bold">Virtual memory and swapping</text>
+<rect x="15" y="70" width="140" height="80" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="85" y="116" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">CPU</text>
+<path d="M 155,110 L 190,110" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="179.8,104 179.8,116 190,110" fill="#334155"/>
+<rect x="185" y="70" width="140" height="80" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="255" y="106" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">Memory</text>
+<text x="255" y="126" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">controller</text>
+<path d="M 325,110 L 360,110" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="349.8,104 349.8,116 360,110" fill="#334155"/>
+<rect x="355" y="70" width="140" height="80" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="425" y="116" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">RAM</text>
+<path d="M 495,110 L 530,110" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="519.8,104 519.8,116 530,110" fill="#334155"/>
+<rect x="525" y="70" width="140" height="80" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="595" y="106" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">Page</text>
+<text x="595" y="126" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">table</text>
+<path d="M 665,110 L 700,110" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="689.8,104 689.8,116 700,110" fill="#334155"/>
+<rect x="695" y="70" width="140" height="80" rx="6" fill="#fee2e2" stroke="#334155" stroke-width="2"/>
+<text x="765" y="106" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">SSD</text>
+<text x="765" y="126" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">swap file</text>
+<text x="425.0" y="196" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">when RAM fills up, 4 KB pages get pushed out to the swap file and pulled back later</text>
+<text x="425.0" y="220" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">the page table is the map that says where each page currently lives</text>
+<text x="425.0" y="244" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">the CPU still only ever talks to RAM, never to the SSD directly</text>
+</svg>

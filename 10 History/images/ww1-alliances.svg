@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 450" width="860" height="450" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="860" height="450" fill="#ffffff"/>
+<text x="430.0" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#1f2933" text-anchor="middle" font-weight="bold">The two sides</text>
+<rect x="40" y="58" width="350" height="302" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="215" y="86" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#b91c1c" text-anchor="middle" font-weight="bold">Central Powers</text>
+<rect x="65" y="104" width="300" height="52" rx="6" fill="#fee2e2" stroke="#334155" stroke-width="2"/>
+<text x="215.0" y="135.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">Germany</text>
+<rect x="65" y="166" width="300" height="52" rx="6" fill="#fee2e2" stroke="#334155" stroke-width="2"/>
+<text x="215.0" y="197.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">Austria-Hungary</text>
+<rect x="65" y="228" width="300" height="52" rx="6" fill="#fee2e2" stroke="#334155" stroke-width="2"/>
+<text x="215.0" y="250.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">Ottoman Empire</text>
+<text x="215.0" y="269.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#64748b" text-anchor="middle" font-weight="normal">joined in 1914</text>
+<rect x="65" y="290" width="300" height="52" rx="6" fill="#fee2e2" stroke="#334155" stroke-width="2"/>
+<text x="215.0" y="312.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">Bulgaria</text>
+<text x="215.0" y="331.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#64748b" text-anchor="middle" font-weight="normal">joined in 1915</text>
+<rect x="470" y="58" width="350" height="302" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="645" y="86" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1d4ed8" text-anchor="middle" font-weight="bold">The Allies, or Entente</text>
+<rect x="490" y="104" width="150" height="52" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="565.0" y="135.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">Britain</text>
+<rect x="650" y="104" width="150" height="52" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="725.0" y="135.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">France</text>
+<rect x="490" y="166" width="150" height="52" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="565.0" y="188.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">Russia</text>
+<text x="565.0" y="207.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#64748b" text-anchor="middle" font-weight="normal">out in 1917</text>
+<rect x="650" y="166" width="150" height="52" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="725.0" y="197.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">Serbia</text>
+<rect x="490" y="228" width="150" height="52" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="565.0" y="250.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">Italy</text>
+<text x="565.0" y="269.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#64748b" text-anchor="middle" font-weight="normal">joined 1915</text>
+<rect x="650" y="228" width="150" height="52" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="725.0" y="259.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">Japan</text>
+<rect x="490" y="290" width="150" height="52" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="565.0" y="312.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">Romania</text>
+<text x="565.0" y="331.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#64748b" text-anchor="middle" font-weight="normal">joined 1916</text>
+<rect x="650" y="290" width="150" height="52" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="725.0" y="312.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">United States</text>
+<text x="725.0" y="331.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#64748b" text-anchor="middle" font-weight="normal">joined 1917</text>
+<text x="430.0" y="396" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">Italy had been in the Triple Alliance with Germany and Austria-Hungary, but stayed out in 1914</text>
+<text x="430.0" y="420" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">and joined the other side in 1915. Russia left after the revolution and signed a separate peace.</text>
+</svg>

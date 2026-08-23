@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 300" width="940" height="300" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="940" height="300" fill="#ffffff"/>
+<text x="130" y="42" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="bold">Sequencing</text>
+<rect x="60" y="80" width="140" height="44" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="130.0" y="107.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle">step 1</text>
+<line x1="130" y1="124" x2="130" y2="146" stroke="#334155" stroke-width="2"/>
+<polygon points="125,136 135,136 130,146" fill="#334155"/>
+<rect x="60" y="146" width="140" height="44" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="130.0" y="173.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle">step 2</text>
+<line x1="130" y1="190" x2="130" y2="212" stroke="#334155" stroke-width="2"/>
+<polygon points="125,202 135,202 130,212" fill="#334155"/>
+<rect x="60" y="212" width="140" height="44" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="130.0" y="239.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle">step 3</text>
+<text x="450" y="42" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="bold">Selection</text>
+<rect x="385" y="80" width="130" height="44" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="450.0" y="107.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle">condition</text>
+<path d="M 385,102 L 355,102 L 355,146" fill="none" stroke="#0f766e" stroke-width="2"/>
+<polygon points="350,136 360,136 355,146" fill="#0f766e"/>
+<text x="330" y="96" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="normal">True</text>
+<path d="M 515,102 L 545,102 L 545,146" fill="none" stroke="#b91c1c" stroke-width="2"/>
+<polygon points="540,136 550,136 545,146" fill="#b91c1c"/>
+<text x="572" y="96" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#b91c1c" text-anchor="middle" font-weight="normal">False</text>
+<rect x="300" y="150" width="110" height="44" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="355.0" y="177.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle">step A</text>
+<rect x="490" y="150" width="110" height="44" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="545.0" y="177.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle">step B</text>
+<path d="M 355,194 L 355,234 L 389,234" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="379,229 379,239 389,234" fill="#334155"/>
+<path d="M 545,194 L 545,234 L 511,234" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="521,229 521,239 511,234" fill="#334155"/>
+<rect x="395" y="212" width="110" height="44" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="450.0" y="239.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle">next step</text>
+<text x="790" y="42" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="bold">Iteration</text>
+<rect x="725" y="80" width="130" height="44" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="790.0" y="107.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle">condition</text>
+<line x1="790" y1="124" x2="790" y2="150" stroke="#0f766e" stroke-width="2"/>
+<polygon points="785,140 795,140 790,150" fill="#0f766e"/>
+<text x="815" y="142" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="normal">True</text>
+<rect x="725" y="150" width="130" height="44" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="790.0" y="177.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle">repeat step</text>
+<path d="M 725,172 L 685,172 L 685,102 L 719,102" fill="none" stroke="#0f766e" stroke-width="2"/>
+<polygon points="709,97 709,107 719,102" fill="#0f766e"/>
+<line x1="790" y1="194" x2="790" y2="236" stroke="#b91c1c" stroke-width="2"/>
+<polygon points="785,226 795,226 790,236" fill="#b91c1c"/>
+<text x="818" y="220" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#b91c1c" text-anchor="middle" font-weight="normal">False</text>
+<rect x="715" y="240" width="150" height="44" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="790.0" y="267.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle">exit the loop</text>
+</svg>

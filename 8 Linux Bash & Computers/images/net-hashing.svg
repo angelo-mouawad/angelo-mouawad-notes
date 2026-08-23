@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="800" height="300" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="800" height="300" fill="#ffffff"/>
+<text x="400.0" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#1f2933" text-anchor="middle" font-weight="bold">Hashing only goes one way</text>
+<rect x="50" y="100" width="190" height="66" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="145.0" y="129.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">any input</text>
+<text x="145.0" y="148.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">any size at all</text>
+<path d="M 240,133 L 296,133" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="285.8,127 285.8,139 296,133" fill="#334155"/>
+<rect x="300" y="100" width="200" height="66" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="400.0" y="138.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">SHA-256</text>
+<path d="M 500,133 L 556,133" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="545.8,127 545.8,139 556,133" fill="#334155"/>
+<rect x="560" y="100" width="190" height="66" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="655.0" y="129.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">hash value</text>
+<text x="655.0" y="148.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">always the same length</text>
+<path d="M 650,190 L 650,214 L 150,214 L 150,192" fill="none" stroke="#b91c1c" stroke-width="2" stroke-dasharray="6 5"/>
+<polygon points="144,202.2 156,202.2 150,192" fill="#b91c1c"/>
+<circle cx="400" cy="214" r="15" fill="#ffffff" stroke="#b91c1c" stroke-width="3"/>
+<line x1="391" y1="205" x2="409" y2="223" stroke="#b91c1c" stroke-width="3"/>
+<line x1="409" y1="205" x2="391" y2="223" stroke="#b91c1c" stroke-width="3"/>
+<text x="400" y="254" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#b91c1c" text-anchor="middle" font-weight="normal">there is no way back, which is exactly the point</text>
+<text x="400.0" y="288" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">used for password storage, digital signatures, blockchains and integrity checks</text>
+</svg>

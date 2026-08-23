@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 300" width="880" height="300" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="880" height="300" fill="#ffffff"/>
+<text x="440" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Cascade remove and orphan removal are not the same thing</text>
+<rect x="40" y="58" width="390" height="190" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="235" y="84" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">cascade = CascadeType.REMOVE</text>
+<rect x="70" y="100" width="130" height="46" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="135.0" y="128.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">User</text>
+<text x="135" y="170" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#b91c1c" text-anchor="middle" font-weight="normal">is deleted</text>
+<rect x="280" y="100" width="130" height="46" rx="6" fill="#fecaca" stroke="#334155" stroke-width="2"/>
+<text x="345.0" y="128.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">Order</text>
+<path d="M 204,123 L 274,123" fill="none" stroke="#b91c1c" stroke-width="2"/>
+<polygon points="264.0,118.0 264.0,128.0 274,123" fill="#b91c1c"/>
+<text x="235" y="200" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">the child goes because the parent went</text>
+<text x="235" y="228" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#0f766e" text-anchor="middle" font-weight="normal">delete the User, the Orders follow</text>
+<rect x="450" y="58" width="390" height="190" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="645" y="84" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">orphanRemoval = true</text>
+<rect x="480" y="100" width="130" height="46" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="545.0" y="128.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">User</text>
+<text x="545" y="170" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="normal">still exists</text>
+<rect x="690" y="100" width="130" height="46" rx="6" fill="#fecaca" stroke="#334155" stroke-width="2"/>
+<text x="755.0" y="128.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">Order</text>
+<path d="M 614,123 L 684,123" fill="none" stroke="#b91c1c" stroke-width="2"/>
+<polygon points="674.0,118.0 674.0,128.0 684,123" fill="#b91c1c"/>
+<text x="645" y="200" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">the child goes because nothing points at it</text>
+<text x="645" y="228" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#0f766e" text-anchor="middle" font-weight="normal">remove it from the list, the row is deleted</text>
+<text x="440" y="282" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">works on @OneToOne and @OneToMany, not on @ManyToOne</text>
+</svg>

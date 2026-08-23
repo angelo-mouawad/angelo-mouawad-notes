@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 320" width="880" height="320" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="880" height="320" fill="#ffffff"/>
+<text x="440" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Three ways to reach a database, at three levels of abstraction</text>
+<rect x="30" y="58" width="255" height="210" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="157" y="88" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#1f2933" text-anchor="middle" font-weight="bold">JDBC</text>
+<text x="157" y="108" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#1f2933" text-anchor="middle" font-weight="normal">Java Database Connectivity</text>
+<line x1="60" y1="120" x2="255" y2="120" stroke="#334155" stroke-width="1.5"/>
+<text x="157" y="146" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">you open the connection</text>
+<text x="157" y="170" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">you write every query</text>
+<text x="157" y="194" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">you map rows to objects</text>
+<text x="157" y="244" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="bold">low level, manual</text>
+<path d="M 287,160 L 311,160" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="301.0,155.0 301.0,165.0 311,160" fill="#334155"/>
+<rect x="315" y="58" width="255" height="210" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="442" y="88" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#1f2933" text-anchor="middle" font-weight="bold">JPA</text>
+<text x="442" y="108" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#1f2933" text-anchor="middle" font-weight="normal">Java Persistence API</text>
+<line x1="345" y1="120" x2="540" y2="120" stroke="#334155" stroke-width="1.5"/>
+<text x="442" y="146" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">a specification for ORM</text>
+<text x="442" y="170" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">Hibernate implements it</text>
+<text x="442" y="194" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">still some query writing</text>
+<text x="442" y="244" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="bold">the standard</text>
+<path d="M 572,160 L 596,160" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="586.0,155.0 586.0,165.0 596,160" fill="#334155"/>
+<rect x="600" y="58" width="255" height="210" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="727" y="88" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#1f2933" text-anchor="middle" font-weight="bold">Spring Data JPA</text>
+<text x="727" y="108" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#1f2933" text-anchor="middle" font-weight="normal">JPA plus Spring</text>
+<line x1="630" y1="120" x2="825" y2="120" stroke="#334155" stroke-width="1.5"/>
+<text x="727" y="146" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">repositories are interfaces</text>
+<text x="727" y="170" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">queries built from method names</text>
+<text x="727" y="194" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">no query writing at all</text>
+<text x="727" y="244" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="bold">what we use</text>
+<text x="440" y="300" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">less control on the right, far less code to write</text>
+</svg>

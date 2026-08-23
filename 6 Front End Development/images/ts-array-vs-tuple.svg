@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 300" width="860" height="300" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="860" height="300" fill="#ffffff"/>
+<text x="430" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">An array is a list, a tuple is a fixed shape</text>
+<rect x="50" y="58" width="360" height="210" rx="8" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="230" y="84" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#1d4ed8" text-anchor="middle" font-weight="bold">Array</text>
+<text x="230" y="108" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">string[]</text>
+<rect x="76" y="126" width="66" height="40" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="1"/>
+<text x="109" y="151" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">string</text>
+<rect x="152" y="126" width="66" height="40" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="1"/>
+<text x="185" y="151" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">string</text>
+<rect x="228" y="126" width="66" height="40" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="1"/>
+<text x="261" y="151" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">string</text>
+<rect x="304" y="126" width="66" height="40" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="1"/>
+<text x="337" y="151" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">string</text>
+<rect x="380" y="126" width="20" height="40" rx="6" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" stroke-dasharray="4 3"/>
+<text x="230" y="200" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">one type, any length</text>
+<text x="230" y="224" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">push and pop as much as you like</text>
+<text x="230" y="250" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">order carries no meaning</text>
+<rect x="450" y="58" width="360" height="210" rx="8" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="630" y="84" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#0f766e" text-anchor="middle" font-weight="bold">Tuple</text>
+<text x="630" y="108" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">[string, number]</text>
+<rect x="500" y="126" width="140" height="40" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="1"/>
+<text x="570" y="151" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">string</text>
+<rect x="650" y="126" width="110" height="40" rx="6" fill="#fde68a" stroke="#334155" stroke-width="1"/>
+<text x="705" y="151" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">number</text>
+<text x="630" y="200" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">fixed length, fixed order</text>
+<text x="630" y="224" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">position 0 must be a string</text>
+<text x="630" y="250" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">position 1 must be a number</text>
+</svg>

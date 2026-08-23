@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 300" width="860" height="300" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="860" height="300" fill="#ffffff"/>
+<text x="430" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">React re-renders a component for exactly three reasons</text>
+<rect x="40" y="62" width="240" height="92" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="160" y="96" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">its state changed</text>
+<text x="160" y="124" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">useState setter was called</text>
+<path d="M 160,156 L 160,186" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="155.0,176.0 165.0,176.0 160,186" fill="#334155"/>
+<rect x="310" y="62" width="240" height="92" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="430" y="96" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">its props changed</text>
+<text x="430" y="124" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">the parent passed something new</text>
+<path d="M 430,156 L 430,186" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="425.0,176.0 435.0,176.0 430,186" fill="#334155"/>
+<rect x="580" y="62" width="240" height="92" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="700" y="96" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">its parent re-rendered</text>
+<text x="700" y="124" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">the whole subtree goes again</text>
+<path d="M 700,156 L 700,186" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="695.0,176.0 705.0,176.0 700,186" fill="#334155"/>
+<rect x="160" y="190" width="540" height="54" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="430" y="222" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">React works out the new HTML and updates the page</text>
+<text x="430" y="278" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">the first render happens when the component first comes on screen</text>
+</svg>

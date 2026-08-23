@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" width="900" height="320" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="900" height="320" fill="#ffffff"/>
+<text x="450" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Three ways to do more than one thing at a time</text>
+<text x="150" y="70" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#0f766e" text-anchor="middle" font-weight="bold">Data parallelism</text>
+<rect x="90" y="84" width="120" height="34" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="150.0" y="106.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">one dataset</text>
+<path d="M 150,118 L 150,132 L 72,132 L 72,148" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="67,138 77,138 72,148" fill="#334155"/>
+<rect x="42" y="150" width="60" height="44" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="72.0" y="177.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">part</text>
+<text x="72" y="214" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">same task</text>
+<path d="M 150,118 L 150,132 L 150,132 L 150,148" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="145,138 155,138 150,148" fill="#334155"/>
+<rect x="120" y="150" width="60" height="44" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="150.0" y="177.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">part</text>
+<text x="150" y="214" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">same task</text>
+<path d="M 150,118 L 150,132 L 228,132 L 228,148" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="223,138 233,138 228,148" fill="#334155"/>
+<rect x="198" y="150" width="60" height="44" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="228.0" y="177.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">part</text>
+<text x="228" y="214" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">same task</text>
+<text x="450" y="70" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#0f766e" text-anchor="middle" font-weight="bold">Task parallelism</text>
+<rect x="352" y="100" width="62" height="44" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="383.0" y="127.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">task A</text>
+<path d="M 383,144 L 383,158" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="378,148 388,148 383,158" fill="#334155"/>
+<rect x="352" y="160" width="62" height="34" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="383.0" y="182.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">core</text>
+<rect x="422" y="100" width="62" height="44" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="453.0" y="127.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">task B</text>
+<path d="M 453,144 L 453,158" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="448,148 458,148 453,158" fill="#334155"/>
+<rect x="422" y="160" width="62" height="34" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="453.0" y="182.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">core</text>
+<rect x="492" y="100" width="62" height="44" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="523.0" y="127.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">task C</text>
+<path d="M 523,144 L 523,158" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="518,148 528,148 523,158" fill="#334155"/>
+<rect x="492" y="160" width="62" height="34" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="523.0" y="182.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">core</text>
+<text x="450" y="214" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">different tasks, at the same time</text>
+<text x="748" y="70" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#0f766e" text-anchor="middle" font-weight="bold">Pipeline parallelism</text>
+<rect x="620" y="88" width="140" height="32" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="690.0" y="109.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">read</text>
+<circle cx="790" cy="104" r="6" fill="#0f766e"/>
+<text x="806" y="109" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="start" font-weight="normal">chunk 3</text>
+<rect x="620" y="128" width="140" height="32" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="690.0" y="149.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">clean</text>
+<circle cx="790" cy="144" r="6" fill="#0f766e"/>
+<text x="806" y="149" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="start" font-weight="normal">chunk 2</text>
+<rect x="620" y="168" width="140" height="32" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="690.0" y="189.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">write</text>
+<circle cx="790" cy="184" r="6" fill="#0f766e"/>
+<text x="806" y="189" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="start" font-weight="normal">chunk 1</text>
+<text x="748" y="214" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">every stage busy on a different chunk</text>
+<rect x="60" y="240" width="780" height="60" rx="8" fill="#f8fafc" stroke="#334155" stroke-width="2" stroke-dasharray="5 4"/>
+<text x="450" y="264" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#0f766e" text-anchor="middle" font-weight="bold">Distributed computing</text>
+<text x="450" y="286" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">all of the above, spread across multiple machines called nodes</text>
+</svg>

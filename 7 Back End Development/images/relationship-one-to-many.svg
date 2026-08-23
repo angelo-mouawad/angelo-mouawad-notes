@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 400" width="880" height="400" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="880" height="400" fill="#ffffff"/>
+<text x="440" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">One to many: a stable has many ponies</text>
+<rect x="120" y="66" width="200" height="54" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="220.0" y="98.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="normal">Stable</text>
+<rect x="560" y="66" width="200" height="54" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="660.0" y="98.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="normal">Pony</text>
+<line x1="320" y1="93" x2="560" y2="93" stroke="#0f766e" stroke-width="2"/>
+<text x="400" y="84" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="bold">1</text>
+<text x="490" y="84" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="bold">N</text>
+<text x="440" y="112" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="normal">@OneToMany / @ManyToOne</text>
+<rect x="120" y="170" width="200" height="82" rx="4" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<rect x="120" y="170" width="200" height="30" rx="4" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="220.0" y="190" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">stable</text>
+<line x1="120" y1="200" x2="320" y2="200" stroke="#334155" stroke-width="1"/>
+<rect x="126" y="204" width="30" height="18" rx="3" fill="#fde68a" stroke="#334155" stroke-width="1"/>
+<text x="141.0" y="218" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="9" fill="#1f2933" text-anchor="middle" font-weight="bold">PK</text>
+<text x="164" y="218" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="start" font-weight="normal">id</text>
+<line x1="120" y1="226" x2="320" y2="226" stroke="#334155" stroke-width="1"/>
+<text x="134" y="244" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="start" font-weight="normal">name</text>
+<rect x="560" y="170" width="200" height="108" rx="4" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<rect x="560" y="170" width="200" height="30" rx="4" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="660.0" y="190" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">pony</text>
+<line x1="560" y1="200" x2="760" y2="200" stroke="#334155" stroke-width="1"/>
+<rect x="566" y="204" width="30" height="18" rx="3" fill="#fde68a" stroke="#334155" stroke-width="1"/>
+<text x="581.0" y="218" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="9" fill="#1f2933" text-anchor="middle" font-weight="bold">PK</text>
+<text x="604" y="218" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="start" font-weight="normal">id</text>
+<line x1="560" y1="226" x2="760" y2="226" stroke="#334155" stroke-width="1"/>
+<text x="574" y="244" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="start" font-weight="normal">name</text>
+<line x1="560" y1="252" x2="760" y2="252" stroke="#334155" stroke-width="1"/>
+<rect x="566" y="256" width="30" height="18" rx="3" fill="#bfdbfe" stroke="#334155" stroke-width="1"/>
+<text x="581.0" y="270" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="9" fill="#1f2933" text-anchor="middle" font-weight="bold">FK</text>
+<text x="604" y="270" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="start" font-weight="normal">stable_id</text>
+<line x1="320" y1="213" x2="440" y2="213" stroke="#0f766e" stroke-width="2"/>
+<line x1="440" y1="213" x2="440" y2="265" stroke="#0f766e" stroke-width="2"/>
+<line x1="440" y1="265" x2="556" y2="265" stroke="#0f766e" stroke-width="2"/>
+<polygon points="548.0,260.0 548.0,270.0 558,265" fill="#0f766e"/>
+<rect x="60" y="296" width="760" height="90" rx="8" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="440" y="322" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">the foreign key always goes on the many side</text>
+<text x="440" y="346" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">@ManyToOne is the owning side and carries @JoinColumn</text>
+<text x="440" y="368" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#b91c1c" text-anchor="middle" font-weight="normal">@OneToMany uses mappedBy, otherwise JPA invents a third join table you did not ask for</text>
+</svg>

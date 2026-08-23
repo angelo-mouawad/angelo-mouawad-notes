@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 300" width="880" height="300" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="880" height="300" fill="#ffffff"/>
+<text x="440" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Two ways to get a value out of the URL</text>
+<rect x="60" y="62" width="760" height="60" rx="8" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="96" y="100" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" fill="#1f2933" text-anchor="start" font-weight="normal">http://localhost:8080</text>
+<text x="324" y="100" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" fill="#0f766e" text-anchor="start" font-weight="normal">/pony</text>
+<text x="390" y="100" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" fill="#0f766e" text-anchor="start" font-weight="normal">/above</text>
+<text x="474" y="100" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" fill="#b91c1c" text-anchor="start" font-weight="normal">/10</text>
+<text x="516" y="100" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" fill="#1d4ed8" text-anchor="start" font-weight="normal">?min=3&amp;max=7</text>
+<path d="M 492,124 L 492,152" fill="none" stroke="#b91c1c" stroke-width="2"/>
+<polygon points="487.0,142.0 497.0,142.0 492,152" fill="#b91c1c"/>
+<rect x="330" y="156" width="250" height="62" rx="6" fill="#fef2f2" stroke="#b91c1c" stroke-width="2"/>
+<text x="455" y="180" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#b91c1c" text-anchor="middle" font-weight="bold">@PathVariable</text>
+<text x="455" y="202" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">part of the path itself</text>
+<path d="M 620,124 L 620,152" fill="none" stroke="#1d4ed8" stroke-width="2"/>
+<polygon points="615.0,142.0 625.0,142.0 620,152" fill="#1d4ed8"/>
+<rect x="600" y="156" width="250" height="62" rx="6" fill="#dbeafe" stroke="#1d4ed8" stroke-width="2"/>
+<text x="725" y="180" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1d4ed8" text-anchor="middle" font-weight="bold">@RequestParam</text>
+<text x="725" y="202" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">after the question mark</text>
+<text x="440" y="254" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">use a path variable to identify a resource, a request param to filter or sort one</text>
+<text x="440" y="278" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">@RequestBody is the third one, and it reads the body rather than the URL</text>
+</svg>

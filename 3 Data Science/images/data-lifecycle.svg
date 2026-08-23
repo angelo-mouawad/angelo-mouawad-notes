@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 285" width="880" height="285" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="880" height="285" fill="#ffffff"/>
+<text x="440" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">The data lifecycle</text>
+<rect x="40" y="70" width="170" height="58" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="125" y="106" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Generation</text>
+<path d="M 210,99 L 236,99" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="226,94 226,104 236,99" fill="#334155"/>
+<rect x="252" y="70" width="170" height="58" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="337" y="106" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Collection</text>
+<path d="M 422,99 L 448,99" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="438,94 438,104 448,99" fill="#334155"/>
+<rect x="464" y="70" width="170" height="58" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="549" y="106" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Processing</text>
+<path d="M 634,99 L 660,99" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="650,94 650,104 660,99" fill="#334155"/>
+<rect x="676" y="70" width="170" height="58" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="761" y="106" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Storage</text>
+<rect x="40" y="170" width="170" height="58" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="125" y="206" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Management</text>
+<path d="M 210,199 L 236,199" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="226,194 226,204 236,199" fill="#334155"/>
+<rect x="252" y="170" width="170" height="58" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="337" y="206" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Analysis</text>
+<path d="M 422,199 L 448,199" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="438,194 438,204 448,199" fill="#334155"/>
+<rect x="464" y="170" width="170" height="58" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="549" y="206" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Visualization</text>
+<path d="M 634,199 L 660,199" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="650,194 650,204 660,199" fill="#334155"/>
+<rect x="676" y="170" width="170" height="58" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="761" y="206" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Interpretation</text>
+<path d="M 846,99 L 868,99 L 868,150 L 60,150 L 60,166" fill="none" stroke="#334155" stroke-width="2" stroke-dasharray="5 4"/>
+<polygon points="55,156 65,156 60,166" fill="#334155"/>
+<text x="440" y="262" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">engineering owns the first half, analysis and science own the second</text>
+</svg>

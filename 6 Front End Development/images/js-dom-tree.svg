@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 400" width="880" height="400" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="880" height="400" fill="#ffffff"/>
+<text x="440" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">The browser turns your markup into a tree of objects</text>
+<rect x="40" y="60" width="350" height="108" rx="6" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="54" y="89" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">&lt;body&gt;</text>
+<text x="54" y="109" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">  &lt;button id="btn"&gt;Click me&lt;/button&gt;</text>
+<text x="54" y="129" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">  &lt;p id="text"&gt;Hello!&lt;/p&gt;</text>
+<text x="54" y="149" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">&lt;/body&gt;</text>
+<text x="215" y="190" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="normal">the HTML you wrote</text>
+<path d="M 410,130 L 446,130" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="436.0,125.0 436.0,135.0 446,130" fill="#334155"/>
+<rect x="560" y="66" width="160" height="38" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="640.0" y="90.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">document</text>
+<path d="M 640,104 L 640,122" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="635.0,112.0 645.0,112.0 640,122" fill="#334155"/>
+<rect x="560" y="124" width="160" height="38" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="640.0" y="148.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">body</text>
+<path d="M 640,162 L 640,184 L 540,184 L 540,202" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="535.0,192.0 545.0,192.0 540,202" fill="#334155"/>
+<path d="M 640,162 L 640,184 L 740,184 L 740,202" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="735.0,192.0 745.0,192.0 740,202" fill="#334155"/>
+<rect x="470" y="204" width="140" height="38" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="540.0" y="228.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">button</text>
+<rect x="670" y="204" width="140" height="38" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="740.0" y="228.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">p</text>
+<text x="640" y="268" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">each node can be selected and changed</text>
+<rect x="230" y="288" width="420" height="88" rx="6" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="244" y="317" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">const btn = document.getElementById("btn");</text>
+<text x="244" y="337" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">text.innerHTML = "New text";</text>
+<text x="244" y="357" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">text.style.color = "red";</text>
+</svg>

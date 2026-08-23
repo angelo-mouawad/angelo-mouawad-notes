@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 380" width="850" height="380" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="850" height="380" fill="#ffffff"/>
+<text x="425.0" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#1f2933" text-anchor="middle" font-weight="bold">An IPv6 address, 128 bits of it</text>
+<rect x="45" y="76" width="285" height="64" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="187.5" y="104" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">Prefix</text>
+<text x="187.5" y="126" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">48 bits</text>
+<rect x="330" y="76" width="95" height="64" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="377.5" y="104" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">Subnet</text>
+<text x="377.5" y="126" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">16 bits</text>
+<rect x="425" y="76" width="380" height="64" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="615.0" y="104" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">Interface ID</text>
+<text x="615.0" y="126" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">64 bits</text>
+<line x1="45" y1="156" x2="425" y2="156" stroke="#0f766e" stroke-width="2"/>
+<line x1="45" y1="156" x2="45" y2="146" stroke="#0f766e" stroke-width="2"/>
+<line x1="425" y1="156" x2="425" y2="146" stroke="#0f766e" stroke-width="2"/>
+<text x="235" y="176" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="normal">64 bits of network</text>
+<line x1="435" y1="156" x2="805" y2="156" stroke="#b91c1c" stroke-width="2"/>
+<line x1="435" y1="156" x2="435" y2="146" stroke="#b91c1c" stroke-width="2"/>
+<line x1="805" y1="156" x2="805" y2="146" stroke="#b91c1c" stroke-width="2"/>
+<text x="620" y="176" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#b91c1c" text-anchor="middle" font-weight="normal">64 bits of host</text>
+<text x="60" y="232" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#64748b" text-anchor="start" font-weight="normal">Full</text>
+<text x="180" y="232" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" fill="#1f2933" text-anchor="start" font-weight="normal">2001:0db8:0000:1111:0000:0000:0000:0200</text>
+<text x="60" y="276" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#0f766e" text-anchor="start" font-weight="normal">Rule 1</text>
+<text x="180" y="276" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" fill="#1f2933" text-anchor="start" font-weight="normal">2001:db8:0:1111:0:0:0:200</text>
+<text x="60" y="320" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#0f766e" text-anchor="start" font-weight="normal">Rule 2</text>
+<text x="180" y="320" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" fill="#1f2933" text-anchor="start" font-weight="normal">2001:db8:0:1111::200</text>
+<text x="425.0" y="362" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">rule 1 drops leading zeros in a group, rule 2 replaces one run of all zero groups with ::</text>
+</svg>

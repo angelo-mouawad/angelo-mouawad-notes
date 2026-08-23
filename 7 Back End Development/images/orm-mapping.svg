@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 340" width="880" height="340" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="880" height="340" fill="#ffffff"/>
+<text x="440" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Object Relational Mapping</text>
+<rect x="40" y="62" width="350" height="208" rx="6" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="54" y="91" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">@Entity</text>
+<text x="54" y="111" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">@Table(name = "pony")</text>
+<text x="54" y="131" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">public class Pony {</text>
+<text x="54" y="151" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">    @Id</text>
+<text x="54" y="171" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">    private Long id;</text>
+<text x="54" y="191" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">    @Column(name = "name")</text>
+<text x="54" y="211" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">    private String name;</text>
+<text x="54" y="231" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">    private int age;</text>
+<text x="54" y="251" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">}</text>
+<text x="215" y="292" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="bold">the Java class</text>
+<path d="M 404,170 L 444,170" fill="none" stroke="#0f766e" stroke-width="2"/>
+<polygon points="434.0,165.0 434.0,175.0 444,170" fill="#0f766e"/>
+<text x="424" y="156" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#0f766e" text-anchor="middle" font-weight="bold">ORM</text>
+<rect x="460" y="90" width="390" height="122" rx="6" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="655" y="78" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1d4ed8" text-anchor="middle" font-weight="bold">the database table  pony</text>
+<rect x="470" y="100" width="370" height="34" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="1"/>
+<text x="510.0" y="122" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">id</text>
+<text x="630.0" y="122" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">name</text>
+<text x="765.0" y="122" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">age</text>
+<rect x="470" y="134" width="370" height="34" rx="0" fill="#ffffff" stroke="#cbd5e1" stroke-width="1"/>
+<text x="510.0" y="156" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">1</text>
+<text x="630.0" y="156" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Bella</text>
+<text x="765.0" y="156" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">4</text>
+<rect x="470" y="168" width="370" height="34" rx="0" fill="#ffffff" stroke="#cbd5e1" stroke-width="1"/>
+<text x="510.0" y="190" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">2</text>
+<text x="630.0" y="190" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Rex</text>
+<text x="765.0" y="190" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">7</text>
+<text x="655" y="292" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">one class is one table, one object is one row, one field is one column</text>
+</svg>

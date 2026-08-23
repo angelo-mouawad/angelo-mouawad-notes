@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 280" width="880" height="280" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="880" height="280" fill="#ffffff"/>
+<text x="440" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">TypeScript never reaches the browser</text>
+<rect x="50" y="70" width="180" height="80" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="140.0" y="107.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="normal">app.ts</text>
+<text x="140.0" y="126.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">what you write</text>
+<path d="M 232,110 L 274,110" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="264.0,105.0 264.0,115.0 274,110" fill="#334155"/>
+<rect x="280" y="70" width="180" height="80" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="370.0" y="107.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="normal">tsc</text>
+<text x="370.0" y="126.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">the compiler</text>
+<path d="M 462,110 L 504,110" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="494.0,105.0 494.0,115.0 504,110" fill="#334155"/>
+<rect x="510" y="70" width="180" height="80" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="600.0" y="107.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="normal">app.js</text>
+<text x="600.0" y="126.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">what actually ships</text>
+<path d="M 692,110 L 734,110" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="724.0,105.0 724.0,115.0 734,110" fill="#334155"/>
+<rect x="740" y="70" width="110" height="80" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="795.0" y="107.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">runs</text>
+<text x="795.0" y="126.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">browser or Node</text>
+<rect x="140" y="178" width="600" height="76" rx="8" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="440" y="206" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">the types are checked, then thrown away</text>
+<text x="440" y="232" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">a type error stops you at compile time, which is the entire point</text>
+</svg>

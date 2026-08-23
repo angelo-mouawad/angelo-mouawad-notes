@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 250" width="860" height="250" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="860" height="250" fill="#ffffff"/>
+<text x="430" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Three attributes that are drawn differently</text>
+<ellipse cx="150" cy="110" rx="92" ry="38" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="150" y="115" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal"></text>
+<text x="150" y="116" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">email</text>
+<line x1="112" y1="130" x2="188" y2="130" stroke="#334155" stroke-width="2"/>
+<text x="150" y="186" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">Key attribute</text>
+<text x="150" y="208" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">uniquely identifies a row,</text>
+<text x="150" y="226" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="normal">drawn underlined</text>
+<ellipse cx="430" cy="110" rx="92" ry="38" fill="#ccfbf1" stroke="#334155" stroke-width="2" stroke-dasharray="5 4"/>
+<text x="430" y="115" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">age</text>
+<text x="430" y="186" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">Derived attribute</text>
+<text x="430" y="208" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">computed from another one,</text>
+<text x="430" y="226" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="normal">drawn with a dotted outline</text>
+<ellipse cx="710" cy="110" rx="96" ry="42" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<ellipse cx="710" cy="110" rx="91" ry="37" fill="none" stroke="#334155" stroke-width="2"/>
+<text x="710" y="115" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">phone</text>
+<text x="710" y="186" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">Multivalued attribute</text>
+<text x="710" y="208" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">holds several values at once,</text>
+<text x="710" y="226" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="normal">drawn with a double outline</text>
+</svg>

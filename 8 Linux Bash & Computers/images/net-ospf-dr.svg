@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 350" width="820" height="350" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="820" height="350" fill="#ffffff"/>
+<text x="410.0" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#1f2933" text-anchor="middle" font-weight="bold">DR and BDR on a multiaccess network</text>
+<rect x="45" y="76" width="150" height="70" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="120.0" y="107.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="bold">R1</text>
+<text x="120.0" y="126.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">DR</text>
+<line x1="120" y1="146" x2="120" y2="200" stroke="#334155" stroke-width="2"/>
+<rect x="230" y="76" width="150" height="70" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="305.0" y="107.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="bold">R2</text>
+<text x="305.0" y="126.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">BDR</text>
+<line x1="305" y1="146" x2="305" y2="200" stroke="#334155" stroke-width="2"/>
+<rect x="415" y="76" width="150" height="70" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="490.0" y="107.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="bold">R3</text>
+<text x="490.0" y="126.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">DROther</text>
+<line x1="490" y1="146" x2="490" y2="200" stroke="#334155" stroke-width="2"/>
+<rect x="600" y="76" width="150" height="70" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="675.0" y="107.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="bold">R4</text>
+<text x="675.0" y="126.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">DROther</text>
+<line x1="675" y1="146" x2="675" y2="200" stroke="#334155" stroke-width="2"/>
+<line x1="60" y1="200" x2="760" y2="200" stroke="#334155" stroke-width="3"/>
+<text x="410.0" y="226" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">shared segment</text>
+<text x="60" y="268" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="start" font-weight="normal">the DR collects every LSA and passes it on, the BDR stands by</text>
+<text x="60" y="292" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="start" font-weight="normal">DROthers send to 224.0.0.6, which only the DR and BDR listen on</text>
+<text x="60" y="316" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="start" font-weight="normal">the DR replies on 224.0.0.5, which every OSPF router listens on</text>
+<text x="60" y="340" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="start" font-weight="normal">highest priority wins, and if priorities tie then highest router ID wins</text>
+</svg>

@@ -8,72 +8,86 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Front End Development\"  ",
+      "query": "path:\"1 General Documents\"  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 14048348
       }
     },
     {
-      "query": "path:\"Back End Development\" path:\"Back End Development\"  ",
+      "query": "path:\"2 Python\"  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 14069084
       }
     },
     {
-      "query": "path:Databases  ",
+      "query": "path:\"4 Databases\"  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 11392604
       }
     },
     {
-      "query": "path:Java  ",
+      "query": "path:\"5 Java\"  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 6084188
       }
     },
     {
-      "query": "path:\"Linux Bash\"  ",
+      "query": "path:\"6 Front End Development\"  ",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 6084269
       }
     },
     {
-      "query": "path:\"Linux Server Management\"  ",
+      "query": "path:\"7 Back End Development\"  ",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 6073814
       }
     },
     {
-      "query": "path:Python  ",
+      "query": "path:\"3 Data Science\"  ",
       "color": {
         "a": 1,
-        "rgb": 5395168
+        "rgb": 6053078
       }
     },
     {
-      "query": "path:Appendix  ",
+      "query": "path:\"8 Linux Bash & Computers/images\"  ",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 11361494
+      }
+    },
+    {
+      "query": "path:\"9 Linux Server Management\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 4330180
+      }
+    },
+    {
+      "query": "path:\"10 History\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1,
-  "nodeSizeMultiplier": 1.00155925155925,
+  "textFadeMultiplier": -2,
+  "nodeSizeMultiplier": 1.00456940054345,
   "lineSizeMultiplier": 2.04064449064449,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 13.8253638253638,
+  "centerStrength": 0.560805190484113,
+  "repelStrength": 16.9758812615955,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.41668035751264293,
+  "linkDistance": 417,
+  "scale": 0.41873947418513907,
   "close": true
 }

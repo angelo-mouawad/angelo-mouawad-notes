@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 400" width="830" height="400" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="830" height="400" fill="#ffffff"/>
+<text x="415.0" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#1f2933" text-anchor="middle" font-weight="bold">Three schedulers on the same three processes</text>
+<text x="30" y="98" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="start" font-weight="bold">FCFS</text>
+<text x="30" y="120" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="start" font-weight="normal">non preemptive</text>
+<rect x="210" y="76" width="288" height="46" rx="3" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="354.0" y="105" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">P1</text>
+<rect x="498" y="76" width="96" height="46" rx="3" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="546.0" y="105" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">P2</text>
+<rect x="594" y="76" width="192" height="46" rx="3" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="690.0" y="105" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">P3</text>
+<text x="30" y="198" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="start" font-weight="bold">Shortest job first</text>
+<text x="30" y="220" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="start" font-weight="normal">non preemptive</text>
+<rect x="210" y="176" width="96" height="46" rx="3" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="258.0" y="205" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">P2</text>
+<rect x="306" y="176" width="192" height="46" rx="3" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="402.0" y="205" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">P3</text>
+<rect x="498" y="176" width="288" height="46" rx="3" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="642.0" y="205" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">P1</text>
+<text x="30" y="298" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="start" font-weight="bold">Round robin</text>
+<text x="30" y="320" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="start" font-weight="normal">preemptive, quantum 2</text>
+<rect x="210" y="276" width="96" height="46" rx="3" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="258.0" y="305" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">P1</text>
+<rect x="306" y="276" width="96" height="46" rx="3" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="354.0" y="305" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">P2</text>
+<rect x="402" y="276" width="96" height="46" rx="3" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="450.0" y="305" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">P3</text>
+<rect x="498" y="276" width="96" height="46" rx="3" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="546.0" y="305" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">P1</text>
+<rect x="594" y="276" width="96" height="46" rx="3" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="642.0" y="305" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">P3</text>
+<rect x="690" y="276" width="96" height="46" rx="3" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="738.0" y="305" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">P1</text>
+<line x1="210" y1="340" x2="786" y2="340" stroke="#64748b" stroke-width="1.5"/>
+<line x1="210" y1="340" x2="210" y2="346" stroke="#64748b" stroke-width="1.5"/>
+<text x="210" y="364" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<line x1="258" y1="340" x2="258" y2="346" stroke="#64748b" stroke-width="1.5"/>
+<text x="258" y="364" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">1</text>
+<line x1="306" y1="340" x2="306" y2="346" stroke="#64748b" stroke-width="1.5"/>
+<text x="306" y="364" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">2</text>
+<line x1="354" y1="340" x2="354" y2="346" stroke="#64748b" stroke-width="1.5"/>
+<text x="354" y="364" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">3</text>
+<line x1="402" y1="340" x2="402" y2="346" stroke="#64748b" stroke-width="1.5"/>
+<text x="402" y="364" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">4</text>
+<line x1="450" y1="340" x2="450" y2="346" stroke="#64748b" stroke-width="1.5"/>
+<text x="450" y="364" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">5</text>
+<line x1="498" y1="340" x2="498" y2="346" stroke="#64748b" stroke-width="1.5"/>
+<text x="498" y="364" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">6</text>
+<line x1="546" y1="340" x2="546" y2="346" stroke="#64748b" stroke-width="1.5"/>
+<text x="546" y="364" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">7</text>
+<line x1="594" y1="340" x2="594" y2="346" stroke="#64748b" stroke-width="1.5"/>
+<text x="594" y="364" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">8</text>
+<line x1="642" y1="340" x2="642" y2="346" stroke="#64748b" stroke-width="1.5"/>
+<text x="642" y="364" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">9</text>
+<line x1="690" y1="340" x2="690" y2="346" stroke="#64748b" stroke-width="1.5"/>
+<text x="690" y="364" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">10</text>
+<line x1="738" y1="340" x2="738" y2="346" stroke="#64748b" stroke-width="1.5"/>
+<text x="738" y="364" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">11</text>
+<line x1="786" y1="340" x2="786" y2="346" stroke="#64748b" stroke-width="1.5"/>
+<text x="786" y="364" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">12</text>
+<text x="415.0" y="390" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">P1 needs 6, P2 needs 2, P3 needs 4</text>
+</svg>

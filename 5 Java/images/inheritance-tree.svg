@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 400" width="880" height="400" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="880" height="400" fill="#ffffff"/>
+<text x="440" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Every class sits under Object</text>
+<rect x="340" y="62" width="200" height="46" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="440.0" y="90.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">Object</text>
+<path d="M 440,108 L 440,132" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="435.0,122.0 445.0,122.0 440,132" fill="#334155"/>
+<rect x="340" y="134" width="200" height="46" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="440.0" y="162.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">Part</text>
+<path d="M 440,180 L 440,202 L 250,202 L 250,224" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="245.0,214.0 255.0,214.0 250,224" fill="#334155"/>
+<path d="M 440,180 L 440,202 L 630,202 L 630,224" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="625.0,214.0 635.0,214.0 630,224" fill="#334155"/>
+<rect x="160" y="226" width="180" height="46" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="250.0" y="254.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">Engine</text>
+<rect x="540" y="226" width="180" height="46" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="630.0" y="254.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">Wheel</text>
+<text x="600" y="84" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="start" font-weight="normal">given to you for free</text>
+<text x="600" y="156" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="start" font-weight="normal">extends Object implicitly</text>
+<text x="250" y="298" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#0f766e" text-anchor="middle" font-weight="normal">extends Part</text>
+<text x="630" y="298" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#0f766e" text-anchor="middle" font-weight="normal">extends Part</text>
+<rect x="40" y="320" width="800" height="66" rx="8" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="440" y="344" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">a class extends exactly one class, but any number of classes may extend it</text>
+<text x="440" y="368" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">super(...) calls the parent constructor and must be the first line of the child's</text>
+</svg>

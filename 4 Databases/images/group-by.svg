@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 330" width="860" height="330" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="860" height="330" fill="#ffffff"/>
+<text x="430" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">GROUP BY folds rows together, then the aggregate runs per group</text>
+<text x="160" y="74" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">rows</text>
+<rect x="60" y="86" width="200" height="32" rx="4" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="110" y="108" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">city</text>
+<text x="210" y="108" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">amount</text>
+<rect x="60" y="118" width="200" height="32" rx="0" fill="#ccfbf1" stroke="#334155" stroke-width="1"/>
+<text x="110" y="139" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Paris</text>
+<text x="210" y="139" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">10</text>
+<rect x="60" y="150" width="200" height="32" rx="0" fill="#ccfbf1" stroke="#334155" stroke-width="1"/>
+<text x="110" y="171" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Paris</text>
+<text x="210" y="171" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">20</text>
+<rect x="60" y="182" width="200" height="32" rx="0" fill="#dbeafe" stroke="#334155" stroke-width="1"/>
+<text x="110" y="203" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Lyon</text>
+<text x="210" y="203" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">5</text>
+<rect x="60" y="214" width="200" height="32" rx="0" fill="#ccfbf1" stroke="#334155" stroke-width="1"/>
+<text x="110" y="235" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Paris</text>
+<text x="210" y="235" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">15</text>
+<rect x="60" y="246" width="200" height="32" rx="0" fill="#dbeafe" stroke="#334155" stroke-width="1"/>
+<text x="110" y="267" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Lyon</text>
+<text x="210" y="267" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">25</text>
+<path d="M 280,190 L 350,190" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="340,185 340,195 350,190" fill="#334155"/>
+<text x="315" y="176" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="normal">GROUP BY city</text>
+<text x="560" y="74" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">groups</text>
+<rect x="400" y="86" width="320" height="32" rx="4" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="470" y="108" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">city</text>
+<text x="620" y="108" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">SUM(amount)</text>
+<rect x="400" y="118" width="320" height="34" rx="0" fill="#ccfbf1" stroke="#334155" stroke-width="1"/>
+<text x="470" y="140" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">Paris</text>
+<text x="620" y="140" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">45</text>
+<rect x="400" y="152" width="320" height="34" rx="0" fill="#dbeafe" stroke="#334155" stroke-width="1"/>
+<text x="470" y="174" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">Lyon</text>
+<text x="620" y="174" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">30</text>
+<rect x="400" y="210" width="320" height="42" rx="6" fill="#fef2f2" stroke="#b91c1c" stroke-width="2" stroke-dasharray="5 4"/>
+<text x="560" y="236" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#b91c1c" text-anchor="middle" font-weight="normal">HAVING filters these rows, not the ones above</text>
+<text x="430" y="306" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">WHERE filters before grouping, HAVING filters after</text>
+</svg>

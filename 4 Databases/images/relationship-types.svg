@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="900" height="300" fill="#ffffff"/>
+<text x="450" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Three relationship types, from the maximum cardinalities</text>
+<rect x="40" y="60" width="250" height="200" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="165" y="96" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="24" fill="#0f766e" text-anchor="middle" font-weight="bold">1 - 1</text>
+<text x="165" y="124" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">One to one</text>
+<rect x="80" y="146" width="170" height="34" rx="4" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="165" y="168" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">one person</text>
+<path d="M 165,180 L 165,196" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="160,186 170,186 165,196" fill="#334155"/>
+<rect x="80" y="198" width="170" height="34" rx="4" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="165" y="220" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">one passport</text>
+<rect x="330" y="60" width="250" height="200" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="455" y="96" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="24" fill="#0f766e" text-anchor="middle" font-weight="bold">1 - N</text>
+<text x="455" y="124" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">One to many</text>
+<rect x="370" y="146" width="170" height="34" rx="4" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="455" y="168" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">one owner</text>
+<path d="M 455,180 L 455,196" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="450,186 460,186 455,196" fill="#334155"/>
+<rect x="370" y="198" width="170" height="34" rx="4" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="455" y="220" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">many dogs</text>
+<rect x="620" y="60" width="250" height="200" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="745" y="96" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="24" fill="#0f766e" text-anchor="middle" font-weight="bold">N - M</text>
+<text x="745" y="124" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">Many to many</text>
+<rect x="660" y="146" width="170" height="34" rx="4" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="745" y="168" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">many students</text>
+<path d="M 745,180 L 745,196" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="740,186 750,186 745,196" fill="#334155"/>
+<rect x="660" y="198" width="170" height="34" rx="4" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="745" y="220" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">many courses</text>
+<text x="450" y="288" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">a many to many always becomes its own table later on</text>
+</svg>

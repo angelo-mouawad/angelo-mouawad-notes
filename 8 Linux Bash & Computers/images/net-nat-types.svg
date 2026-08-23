@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 400" width="850" height="400" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="850" height="400" fill="#ffffff"/>
+<text x="425.0" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#1f2933" text-anchor="middle" font-weight="bold">The NAT table and the three flavours</text>
+<rect x="45" y="62" width="180" height="40" rx="0" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="135" y="88" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">Inside local</text>
+<rect x="45" y="102" width="180" height="40" rx="0" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="135" y="128" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">10.0.0.2</text>
+<text x="135" y="162" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">the device</text>
+<rect x="235" y="62" width="180" height="40" rx="0" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="325" y="88" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">Inside global</text>
+<rect x="235" y="102" width="180" height="40" rx="0" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="325" y="128" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">67.123.45.67</text>
+<text x="325" y="162" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">the router in public</text>
+<rect x="425" y="62" width="180" height="40" rx="0" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="515" y="88" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">Outside global</text>
+<rect x="425" y="102" width="180" height="40" rx="0" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="515" y="128" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">142.250.1.4</text>
+<text x="515" y="162" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">the destination</text>
+<rect x="615" y="62" width="180" height="40" rx="0" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="705" y="88" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">Outside local</text>
+<rect x="615" y="102" width="180" height="40" rx="0" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="705" y="128" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">142.250.1.4</text>
+<text x="705" y="162" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">the destination</text>
+<rect x="25" y="194" width="250" height="136" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="150" y="222" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#0f766e" text-anchor="middle" font-weight="bold">Static NAT</text>
+<text x="150" y="250" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">one private address to one</text>
+<text x="150" y="272" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">public address, set by hand,</text>
+<text x="150" y="294" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">and it never changes</text>
+<rect x="295" y="194" width="250" height="136" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="420" y="222" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#0f766e" text-anchor="middle" font-weight="bold">Dynamic NAT</text>
+<text x="420" y="250" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">a pool of public addresses,</text>
+<text x="420" y="272" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">handed out first come</text>
+<text x="420" y="294" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">first served</text>
+<rect x="565" y="194" width="250" height="136" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="690" y="222" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#0f766e" text-anchor="middle" font-weight="bold">PAT</text>
+<text x="690" y="250" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">many private addresses onto</text>
+<text x="690" y="272" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">one public address, told</text>
+<text x="690" y="294" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">apart by the source port</text>
+<text x="425.0" y="366" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">PAT is what your home router does, which is why the whole house shares one address</text>
+<text x="425.0" y="390" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">the router keeps this table so it knows who each reply belongs to</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="900" height="240" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="900" height="240" fill="#ffffff"/>
+<text x="450" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Turning a conceptual model into tables</text>
+<rect x="30" y="66" width="180" height="110" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="120" y="94" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="bold">Step 1</text>
+<text x="120" y="122" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">entity types</text>
+<text x="120" y="144" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">become tables</text>
+<path d="M 210,121 L 236,121" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="226,116 226,126 236,121" fill="#334155"/>
+<rect x="245" y="66" width="180" height="110" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="335" y="94" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="bold">Step 2</text>
+<text x="335" y="122" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">pick a</text>
+<text x="335" y="144" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">primary key</text>
+<path d="M 425,121 L 451,121" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="441,116 441,126 451,121" fill="#334155"/>
+<rect x="460" y="66" width="180" height="110" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="550" y="94" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="bold">Step 3</text>
+<text x="550" y="122" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">1-1 and 1-N</text>
+<text x="550" y="144" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">get a foreign key</text>
+<path d="M 640,121 L 666,121" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="656,116 656,126 666,121" fill="#334155"/>
+<rect x="675" y="66" width="180" height="110" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="765" y="94" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="bold">Step 4</text>
+<text x="765" y="122" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">N-M gets an</text>
+<text x="765" y="144" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">intermediate table</text>
+<text x="450" y="210" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">derived and multivalued attributes never become columns in step 1</text>
+</svg>

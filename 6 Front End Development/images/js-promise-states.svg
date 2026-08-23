@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 300" width="820" height="300" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="820" height="300" fill="#ffffff"/>
+<text x="410" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">A promise is in exactly one of three states</text>
+<rect x="310" y="62" width="200" height="60" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="410.0" y="89.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#1f2933" text-anchor="middle" font-weight="normal">pending</text>
+<text x="410.0" y="108.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">the request is out</text>
+<path d="M 410,122 L 410,148 L 200,148 L 200,172" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="195.0,162.0 205.0,162.0 200,172" fill="#334155"/>
+<path d="M 410,122 L 410,148 L 620,148 L 620,172" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="615.0,162.0 625.0,162.0 620,172" fill="#334155"/>
+<rect x="90" y="174" width="220" height="66" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="200.0" y="204.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#1f2933" text-anchor="middle" font-weight="normal">fulfilled</text>
+<text x="200.0" y="223.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">it worked, here is the value</text>
+<rect x="510" y="174" width="220" height="66" rx="6" fill="#fecaca" stroke="#334155" stroke-width="2"/>
+<text x="620.0" y="204.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#1f2933" text-anchor="middle" font-weight="normal">rejected</text>
+<text x="620.0" y="223.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">it failed, here is the error</text>
+<text x="200" y="266" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="normal">.then()  or  await</text>
+<text x="620" y="266" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#b91c1c" text-anchor="middle" font-weight="normal">.catch()  or  try / catch</text>
+<text x="410" y="292" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">once it settles it never changes again</text>
+</svg>

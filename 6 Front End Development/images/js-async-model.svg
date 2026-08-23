@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 360" width="880" height="360" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="880" height="360" fill="#ffffff"/>
+<text x="440" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">One thread, so a slow task must not be allowed to block it</text>
+<rect x="40" y="58" width="380" height="132" rx="8" fill="#fef2f2" stroke="#b91c1c" stroke-width="2"/>
+<text x="230" y="84" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#b91c1c" text-anchor="middle" font-weight="bold">Synchronous</text>
+<rect x="60" y="96" width="90" height="34" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="1"/>
+<text x="105" y="118" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">task A</text>
+<rect x="154" y="96" width="172" height="34" rx="6" fill="#fecaca" stroke="#b91c1c" stroke-width="1"/>
+<text x="240" y="118" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">waiting for the network</text>
+<rect x="330" y="96" width="70" height="34" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="1"/>
+<text x="365" y="118" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">task B</text>
+<text x="230" y="158" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">everything else is frozen while it waits</text>
+<text x="230" y="178" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#b91c1c" text-anchor="middle" font-weight="normal">the page stops responding</text>
+<rect x="460" y="58" width="380" height="132" rx="8" fill="#f0fdfa" stroke="#0f766e" stroke-width="2"/>
+<text x="650" y="84" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#0f766e" text-anchor="middle" font-weight="bold">Asynchronous</text>
+<rect x="480" y="96" width="90" height="34" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="1"/>
+<text x="525" y="118" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">task A</text>
+<rect x="574" y="96" width="90" height="34" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="1"/>
+<text x="619" y="118" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">task B</text>
+<rect x="668" y="96" width="152" height="34" rx="6" fill="#ccfbf1" stroke="#0f766e" stroke-width="1"/>
+<text x="744" y="118" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">result arrives later</text>
+<text x="650" y="158" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">the slow task is handed off and picked up again</text>
+<text x="650" y="178" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#0f766e" text-anchor="middle" font-weight="normal">the page keeps working</text>
+<rect x="40" y="210" width="250" height="110" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="165" y="240" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">Callbacks</text>
+<text x="165" y="268" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1d4ed8" text-anchor="middle" font-weight="normal">setTimeout(fn, 1000)</text>
+<text x="165" y="296" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">the oldest way, nests badly</text>
+<path d="M 292,265 L 306,265" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="296.0,260.0 296.0,270.0 306,265" fill="#334155"/>
+<rect x="310" y="210" width="250" height="110" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="435" y="240" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">Promises</text>
+<text x="435" y="268" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1d4ed8" text-anchor="middle" font-weight="normal">.then().catch()</text>
+<text x="435" y="296" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">a value that arrives later</text>
+<path d="M 562,265 L 576,265" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="566.0,260.0 566.0,270.0 576,265" fill="#334155"/>
+<rect x="580" y="210" width="250" height="110" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="705" y="240" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">Async / await</text>
+<text x="705" y="268" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1d4ed8" text-anchor="middle" font-weight="normal">await fetch(url)</text>
+<text x="705" y="296" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">reads like normal code</text>
+<text x="440" y="344" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">await pauses only its own function, not the whole program</text>
+</svg>

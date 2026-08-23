@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 300" width="860" height="300" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="860" height="300" fill="#ffffff"/>
+<text x="430" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">The same language, two places to run it</text>
+<rect x="340" y="58" width="180" height="46" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="430.0" y="86.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="normal">JavaScript</text>
+<path d="M 430,104 L 430,124 L 215,124 L 215,144" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="210.0,134.0 220.0,134.0 215,144" fill="#334155"/>
+<path d="M 430,104 L 430,124 L 645,124 L 645,144" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="640.0,134.0 650.0,134.0 645,144" fill="#334155"/>
+<rect x="60" y="146" width="310" height="130" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="215" y="176" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="bold">In the browser</text>
+<text x="215" y="202" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Chrome, Firefox, Safari</text>
+<text x="215" y="228" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">controls the page through the DOM</text>
+<text x="215" y="252" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">reacts to clicks and typing</text>
+<rect x="490" y="146" width="310" height="130" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="645" y="176" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="bold">Outside the browser</text>
+<text x="645" y="202" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Node.js</text>
+<text x="645" y="228" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">servers, scripts, build tools</text>
+<text x="645" y="252" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">its package manager is npm</text>
+</svg>

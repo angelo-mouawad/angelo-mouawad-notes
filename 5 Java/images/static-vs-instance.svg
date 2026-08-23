@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 340" width="880" height="340" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="880" height="340" fill="#ffffff"/>
+<text x="440" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">One copy for the class, or one copy per object</text>
+<rect x="40" y="58" width="390" height="250" rx="8" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="235" y="84" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#0f766e" text-anchor="middle" font-weight="bold">instance field</text>
+<text x="235" y="104" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">private int age;</text>
+<rect x="70" y="122" width="330" height="46" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="150" y="150" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">angelo</text>
+<rect x="280" y="132" width="100" height="26" rx="4" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="330" y="151" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">21</text>
+<rect x="70" y="180" width="330" height="46" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="150" y="208" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">bella</text>
+<rect x="280" y="190" width="100" height="26" rx="4" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="330" y="209" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">34</text>
+<rect x="70" y="238" width="330" height="46" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="150" y="266" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">sam</text>
+<rect x="280" y="248" width="100" height="26" rx="4" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="330" y="267" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">8</text>
+<rect x="450" y="58" width="390" height="250" rx="8" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="645" y="84" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1d4ed8" text-anchor="middle" font-weight="bold">static field</text>
+<text x="645" y="104" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">static int count;</text>
+<rect x="480" y="122" width="330" height="104" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="645" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">Person</text>
+<text x="645" y="170" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">the class itself</text>
+<rect x="575" y="180" width="140" height="34" rx="4" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="645" y="203" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">3</text>
+<path d="M 530,262 L 530,232" fill="none" stroke="#1d4ed8" stroke-width="2"/>
+<polygon points="525.0,242.0 535.0,242.0 530,232" fill="#1d4ed8"/>
+<text x="530" y="282" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">angelo</text>
+<path d="M 645,262 L 645,232" fill="none" stroke="#1d4ed8" stroke-width="2"/>
+<polygon points="640.0,242.0 650.0,242.0 645,232" fill="#1d4ed8"/>
+<text x="645" y="282" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">bella</text>
+<path d="M 760,262 L 760,232" fill="none" stroke="#1d4ed8" stroke-width="2"/>
+<polygon points="755.0,242.0 765.0,242.0 760,232" fill="#1d4ed8"/>
+<text x="760" y="282" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">sam</text>
+<text x="440" y="328" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">an instance field needs an object, a static field is reached through the class name</text>
+</svg>

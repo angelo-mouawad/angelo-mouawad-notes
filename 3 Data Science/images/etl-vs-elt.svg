@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 300" width="880" height="300" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="880" height="300" fill="#ffffff"/>
+<text x="440" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Where the transform happens is the whole difference</text>
+<text x="78" y="106" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" fill="#0f766e" text-anchor="middle" font-weight="bold">ETL</text>
+<rect x="150" y="74" width="170" height="60" rx="6" fill="#ccfbf1" stroke="#0f766e" stroke-width="2"/>
+<text x="235.0" y="109.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="normal">Extract</text>
+<path d="M 320,104 L 346,104" fill="none" stroke="#0f766e" stroke-width="2"/>
+<polygon points="336,99 336,109 346,104" fill="#0f766e"/>
+<rect x="360" y="74" width="170" height="60" rx="6" fill="#ccfbf1" stroke="#0f766e" stroke-width="2"/>
+<text x="445.0" y="109.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="normal">Transform</text>
+<path d="M 530,104 L 556,104" fill="none" stroke="#0f766e" stroke-width="2"/>
+<polygon points="546,99 546,109 556,104" fill="#0f766e"/>
+<rect x="570" y="74" width="170" height="60" rx="6" fill="#ccfbf1" stroke="#0f766e" stroke-width="2"/>
+<text x="655.0" y="109.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="normal">Load</text>
+<text x="440" y="158" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">transform before storage, less flexible, traditional warehousing</text>
+<text x="78" y="224" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" fill="#1d4ed8" text-anchor="middle" font-weight="bold">ELT</text>
+<rect x="150" y="192" width="170" height="60" rx="6" fill="#dbeafe" stroke="#1d4ed8" stroke-width="2"/>
+<text x="235.0" y="227.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="normal">Extract</text>
+<path d="M 320,222 L 346,222" fill="none" stroke="#1d4ed8" stroke-width="2"/>
+<polygon points="336,217 336,227 346,222" fill="#1d4ed8"/>
+<rect x="360" y="192" width="170" height="60" rx="6" fill="#dbeafe" stroke="#1d4ed8" stroke-width="2"/>
+<text x="445.0" y="227.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="normal">Load</text>
+<path d="M 530,222 L 556,222" fill="none" stroke="#1d4ed8" stroke-width="2"/>
+<polygon points="546,217 546,227 556,222" fill="#1d4ed8"/>
+<rect x="570" y="192" width="170" height="60" rx="6" fill="#dbeafe" stroke="#1d4ed8" stroke-width="2"/>
+<text x="655.0" y="227.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="normal">Transform</text>
+<text x="440" y="276" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">transform after storage, more flexible, needs strong systems</text>
+</svg>

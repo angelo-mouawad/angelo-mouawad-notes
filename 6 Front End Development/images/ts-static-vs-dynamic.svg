@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 320" width="880" height="320" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="880" height="320" fill="#ffffff"/>
+<text x="440" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">When the mistake gets caught</text>
+<rect x="40" y="58" width="390" height="230" rx="8" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="235" y="84" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1d4ed8" text-anchor="middle" font-weight="bold">JavaScript, dynamically typed</text>
+<rect x="64" y="96" width="340" height="68" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="78" y="125" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">let age = 20;</text>
+<text x="78" y="145" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">age = "twenty";   // fine</text>
+<rect x="64" y="176" width="340" height="88" rx="6" fill="#fef2f2" stroke="#b91c1c" stroke-width="2"/>
+<text x="234" y="202" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">no complaint while you write</text>
+<text x="234" y="226" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#b91c1c" text-anchor="middle" font-weight="bold">it breaks in front of a user</text>
+<text x="234" y="250" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">the type is decided at runtime</text>
+<rect x="450" y="58" width="390" height="230" rx="8" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="645" y="84" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#0f766e" text-anchor="middle" font-weight="bold">TypeScript, statically typed</text>
+<rect x="474" y="96" width="340" height="68" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="488" y="125" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">let age: number = 20;</text>
+<text x="488" y="145" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">age = "twenty";   // error</text>
+<rect x="474" y="176" width="340" height="88" rx="6" fill="#f0fdfa" stroke="#0f766e" stroke-width="2"/>
+<text x="644" y="202" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">red underline in the editor</text>
+<text x="644" y="226" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="bold">it never gets as far as a user</text>
+<text x="644" y="250" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">the type is declared and checked</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 220" width="880" height="220" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="880" height="220" fill="#ffffff"/>
+<text x="440" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">The five Vs</text>
+<rect x="30" y="62" width="152" height="120" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="106" y="106" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#0f766e" text-anchor="middle" font-weight="bold">Volume</text>
+<line x1="64" y1="122" x2="148" y2="122" stroke="#334155" stroke-width="1.5"/>
+<text x="106" y="148" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">amount of data</text>
+<rect x="202" y="62" width="152" height="120" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="278" y="106" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#0f766e" text-anchor="middle" font-weight="bold">Velocity</text>
+<line x1="236" y1="122" x2="320" y2="122" stroke="#334155" stroke-width="1.5"/>
+<text x="278" y="148" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">processing speed</text>
+<rect x="374" y="62" width="152" height="120" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="450" y="106" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#0f766e" text-anchor="middle" font-weight="bold">Variety</text>
+<line x1="408" y1="122" x2="492" y2="122" stroke="#334155" stroke-width="1.5"/>
+<text x="450" y="148" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">different types</text>
+<rect x="546" y="62" width="152" height="120" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="622" y="106" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#0f766e" text-anchor="middle" font-weight="bold">Veracity</text>
+<line x1="580" y1="122" x2="664" y2="122" stroke="#334155" stroke-width="1.5"/>
+<text x="622" y="148" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">trustworthiness</text>
+<rect x="718" y="62" width="152" height="120" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="794" y="106" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#0f766e" text-anchor="middle" font-weight="bold">Value</text>
+<line x1="752" y1="122" x2="836" y2="122" stroke="#334155" stroke-width="1.5"/>
+<text x="794" y="148" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">insights gained</text>
+<text x="440" y="206" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">the first three define big data, the last two decide if it is worth anything</text>
+</svg>

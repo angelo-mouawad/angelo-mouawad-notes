@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 300" width="820" height="300" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="820" height="300" fill="#ffffff"/>
+<text x="410" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Bronze, Silver, Gold</text>
+<rect x="30" y="70" width="220" height="130" rx="6" fill="#f5d0a9" stroke="#334155" stroke-width="2"/>
+<text x="140" y="108" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#1f2933" text-anchor="middle" font-weight="bold">Bronze</text>
+<text x="140" y="140" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">Raw data</text>
+<text x="140" y="166" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">exactly as it arrived</text>
+<path d="M 256,135 L 296,135" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="286,130 286,140 296,135" fill="#334155"/>
+<rect x="300" y="70" width="220" height="130" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="410" y="108" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#1f2933" text-anchor="middle" font-weight="bold">Silver</text>
+<text x="410" y="140" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">Cleaned and structured</text>
+<text x="410" y="166" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">validated and joined</text>
+<path d="M 526,135 L 566,135" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="556,130 556,140 566,135" fill="#334155"/>
+<rect x="570" y="70" width="220" height="130" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="680" y="108" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#1f2933" text-anchor="middle" font-weight="bold">Gold</text>
+<text x="680" y="140" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">Curated, business ready</text>
+<text x="680" y="166" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">what dashboards read</text>
+<line x1="30" y1="230" x2="780" y2="230" stroke="#334155" stroke-width="2"/>
+<polygon points="770,225 770,235 780,230" fill="#334155"/>
+<text x="410" y="258" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">quality and usefulness go up at every hop, volume goes down</text>
+</svg>

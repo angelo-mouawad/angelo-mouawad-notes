@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 230" width="880" height="230" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="880" height="230" fill="#ffffff"/>
+<text x="440" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">What a transaction guarantees</text>
+<rect x="30" y="60" width="180" height="130" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<circle cx="120" cy="92" r="20" fill="#0f766e"/>
+<text x="120" y="99" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#ffffff" text-anchor="middle" font-weight="bold">A</text>
+<text x="120" y="138" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Atomicity</text>
+<text x="120" y="158" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#1f2933" text-anchor="middle" font-weight="normal">all of it happens</text>
+<text x="120" y="174" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#1f2933" text-anchor="middle" font-weight="normal">or none of it does</text>
+<rect x="245" y="60" width="180" height="130" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<circle cx="335" cy="92" r="20" fill="#0f766e"/>
+<text x="335" y="99" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#ffffff" text-anchor="middle" font-weight="bold">C</text>
+<text x="335" y="138" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Consistency</text>
+<text x="335" y="158" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#1f2933" text-anchor="middle" font-weight="normal">the rules still hold</text>
+<text x="335" y="174" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#1f2933" text-anchor="middle" font-weight="normal">when it finishes</text>
+<rect x="460" y="60" width="180" height="130" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<circle cx="550" cy="92" r="20" fill="#0f766e"/>
+<text x="550" y="99" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#ffffff" text-anchor="middle" font-weight="bold">I</text>
+<text x="550" y="138" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Isolation</text>
+<text x="550" y="158" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#1f2933" text-anchor="middle" font-weight="normal">concurrent transactions</text>
+<text x="550" y="174" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#1f2933" text-anchor="middle" font-weight="normal">do not see each other half done</text>
+<rect x="675" y="60" width="180" height="130" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<circle cx="765" cy="92" r="20" fill="#0f766e"/>
+<text x="765" y="99" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#ffffff" text-anchor="middle" font-weight="bold">D</text>
+<text x="765" y="138" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Durability</text>
+<text x="765" y="158" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#1f2933" text-anchor="middle" font-weight="normal">once committed it survives</text>
+<text x="765" y="174" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#1f2933" text-anchor="middle" font-weight="normal">a crash</text>
+<text x="440" y="216" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">a transfer that takes money out of one account must put it into the other</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 300" width="780" height="300" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="780" height="300" fill="#ffffff"/>
+<text x="390.0" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#1f2933" text-anchor="middle" font-weight="bold">The shape of every command</text>
+<rect x="120" y="82" width="140" height="56" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="190.0" y="115.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" fill="#1f2933" text-anchor="middle" font-weight="normal">ls</text>
+<path d="M 190.0,138 L 190.0,166" fill="none" stroke="#64748b" stroke-width="2"/>
+<polygon points="184.0,155.8 196.0,155.8 190.0,166" fill="#64748b"/>
+<text x="190.0" y="192" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#0f766e" text-anchor="middle" font-weight="bold">Command</text>
+<text x="190.0" y="216" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">the instruction</text>
+<text x="190.0" y="236" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">you want to run</text>
+<rect x="290" y="82" width="140" height="56" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="360.0" y="115.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" fill="#1f2933" text-anchor="middle" font-weight="normal">-l</text>
+<path d="M 360.0,138 L 360.0,166" fill="none" stroke="#64748b" stroke-width="2"/>
+<polygon points="354.0,155.8 366.0,155.8 360.0,166" fill="#64748b"/>
+<text x="360.0" y="192" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#0f766e" text-anchor="middle" font-weight="bold">Option</text>
+<text x="360.0" y="216" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">changes how the</text>
+<text x="360.0" y="236" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">command behaves</text>
+<rect x="460" y="82" width="200" height="56" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="560.0" y="115.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" fill="#1f2933" text-anchor="middle" font-weight="normal">/home/user</text>
+<path d="M 560.0,138 L 560.0,166" fill="none" stroke="#64748b" stroke-width="2"/>
+<polygon points="554.0,155.8 566.0,155.8 560.0,166" fill="#64748b"/>
+<text x="560.0" y="192" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#0f766e" text-anchor="middle" font-weight="bold">Argument</text>
+<text x="560.0" y="216" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">what the command</text>
+<text x="560.0" y="236" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">acts on</text>
+<text x="390.0" y="284" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">options and arguments are both optional, and you can stack several of each</text>
+</svg>

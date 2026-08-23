@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 260" width="660" height="260" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="660" height="260" fill="#ffffff"/>
+<path d="M 110,78.4 A 52,52 0 0,1 110,161.6 A 52,52 0 0,1 110,78.4" fill="#0f766e" opacity="0.85"/>
+<circle cx="84.0" cy="120" r="52" fill="none" stroke="#334155" stroke-width="2"/>
+<circle cx="136.0" cy="120" r="52" fill="none" stroke="#334155" stroke-width="2"/>
+<text x="50.0" y="125" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">s1</text>
+<text x="170.0" y="125" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">s2</text>
+<text x="110" y="40" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="bold">s1 &amp; s2</text>
+<text x="110" y="220" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">intersection</text>
+<circle cx="304.0" cy="120" r="52" fill="#0f766e" opacity="0.85"/>
+<circle cx="356.0" cy="120" r="52" fill="#0f766e" opacity="0.85"/>
+<circle cx="304.0" cy="120" r="52" fill="none" stroke="#334155" stroke-width="2"/>
+<circle cx="356.0" cy="120" r="52" fill="none" stroke="#334155" stroke-width="2"/>
+<text x="270.0" y="125" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">s1</text>
+<text x="390.0" y="125" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">s2</text>
+<text x="330" y="40" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="bold">s1 | s2</text>
+<text x="330" y="220" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">union</text>
+<circle cx="524.0" cy="120" r="52" fill="#0f766e" opacity="0.85"/>
+<circle cx="576.0" cy="120" r="52" fill="#ffffff"/>
+<circle cx="524.0" cy="120" r="52" fill="none" stroke="#334155" stroke-width="2"/>
+<circle cx="576.0" cy="120" r="52" fill="none" stroke="#334155" stroke-width="2"/>
+<text x="490.0" y="125" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">s1</text>
+<text x="610.0" y="125" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">s2</text>
+<text x="550" y="40" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="bold">s1 - s2</text>
+<text x="550" y="220" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">difference</text>
+</svg>

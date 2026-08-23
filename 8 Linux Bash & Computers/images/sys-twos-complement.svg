@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 360" width="780" height="360" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="780" height="360" fill="#ffffff"/>
+<text x="390.0" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#1f2933" text-anchor="middle" font-weight="bold">Subtracting with two's complement</text>
+<rect x="40" y="56" width="700" height="72" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="60" y="82" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#0f766e" text-anchor="start" font-weight="bold">Step 1, ones complement</text>
+<text x="60" y="106" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="start" font-weight="normal">flip every bit of 0011</text>
+<text x="430" y="96" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" fill="#1f2933" text-anchor="middle" font-weight="normal">0011</text>
+<path d="M 480,90 L 540,90" fill="none" stroke="#64748b" stroke-width="2"/>
+<polygon points="529.8,84 529.8,96 540,90" fill="#64748b"/>
+<text x="600" y="96" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" fill="#1f2933" text-anchor="middle" font-weight="normal">1100</text>
+<rect x="40" y="140" width="700" height="72" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="60" y="166" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#0f766e" text-anchor="start" font-weight="bold">Step 2, twos complement</text>
+<text x="60" y="190" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="start" font-weight="normal">add 1, and 1101 is now minus 3</text>
+<text x="430" y="180" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" fill="#1f2933" text-anchor="middle" font-weight="normal">1100</text>
+<path d="M 480,174 L 540,174" fill="none" stroke="#64748b" stroke-width="2"/>
+<polygon points="529.8,168 529.8,180 540,174" fill="#64748b"/>
+<text x="600" y="180" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" fill="#1f2933" text-anchor="middle" font-weight="normal">1101</text>
+<rect x="40" y="224" width="700" height="92" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="60" y="250" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#0f766e" text-anchor="start" font-weight="bold">Step 3, add instead of subtract</text>
+<text x="60" y="274" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="start" font-weight="normal">then throw away the carry bit</text>
+<text x="60" y="298" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="start" font-weight="normal">on the left</text>
+<text x="430" y="254" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" fill="#1f2933" text-anchor="middle" font-weight="normal">1010</text>
+<text x="430" y="278" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" fill="#1f2933" text-anchor="middle" font-weight="normal">1101</text>
+<line x1="392" y1="288" x2="468" y2="288" stroke="#334155" stroke-width="2"/>
+<text x="432" y="310" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" fill="#1f2933" text-anchor="middle" font-weight="normal">10111</text>
+<path d="M 510,288 L 560,288" fill="none" stroke="#64748b" stroke-width="2"/>
+<polygon points="549.8,282 549.8,294 560,288" fill="#64748b"/>
+<text x="630" y="294" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="22" fill="#0f766e" text-anchor="middle" font-weight="normal">0111</text>
+<text x="390.0" y="344" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#64748b" text-anchor="middle" font-weight="normal">1010 minus 0011 is 0111, which is 10 - 3 = 7</text>
+</svg>

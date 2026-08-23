@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 440" width="830" height="440" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="830" height="440" fill="#ffffff"/>
+<text x="415.0" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#1f2933" text-anchor="middle" font-weight="bold">The memory hierarchy</text>
+<polygon points="312.0,62 488.0,62 510.8333333333333,118 289.1666666666667,118" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="400" y="96" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">L1, L2, L3 cache</text>
+<polygon points="289.1666666666667,118 510.8333333333333,118 533.6666666666666,174 266.33333333333337,174" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="400" y="152" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">RAM</text>
+<polygon points="266.33333333333337,174 533.6666666666666,174 556.5,230 243.5,230" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="400" y="208" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">Disk cache</text>
+<polygon points="243.5,230 556.5,230 579.3333333333333,286 220.66666666666669,286" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="400" y="264" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">SSD</text>
+<polygon points="220.66666666666669,286 579.3333333333333,286 602.1666666666667,342 197.83333333333331,342" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="400" y="320" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">HDD</text>
+<polygon points="197.83333333333331,342 602.1666666666667,342 625.0,398 175.0,398" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="400" y="376" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">Magnetic tape</text>
+<path d="M 90,392 L 90,66" fill="none" stroke="#0f766e" stroke-width="2"/>
+<polygon points="84,76.2 96,76.2 90,66" fill="#0f766e"/>
+<text x="108" y="96" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="start" font-weight="normal">faster</text>
+<text x="108" y="118" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="start" font-weight="normal">smaller</text>
+<text x="108" y="140" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="start" font-weight="normal">costs more per GB</text>
+<path d="M 760,66 L 760,392" fill="none" stroke="#b91c1c" stroke-width="2"/>
+<polygon points="754,381.8 766,381.8 760,392" fill="#b91c1c"/>
+<text x="742" y="300" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#b91c1c" text-anchor="end" font-weight="normal">slower</text>
+<text x="742" y="322" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#b91c1c" text-anchor="end" font-weight="normal">bigger</text>
+<text x="742" y="344" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#b91c1c" text-anchor="end" font-weight="normal">costs less per GB</text>
+<text x="415.0" y="428" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">primary memory is the top of the stack, secondary memory is the bottom</text>
+</svg>

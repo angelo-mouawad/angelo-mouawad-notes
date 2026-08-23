@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 480" width="860" height="480" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="860" height="480" fill="#ffffff"/>
+<text x="430.0" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#1f2933" text-anchor="middle" font-weight="bold">The RAID levels you actually meet</text>
+<text x="30" y="84" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="start" font-weight="bold">RAID 0</text>
+<text x="30" y="106" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="start" font-weight="normal">striping</text>
+<rect x="170" y="62" width="76" height="30" rx="3" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="208.0" y="83" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">A1</text>
+<rect x="256" y="62" width="76" height="30" rx="3" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="294.0" y="83" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">A2</text>
+<rect x="170" y="96" width="76" height="30" rx="3" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="208.0" y="117" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">B1</text>
+<rect x="256" y="96" width="76" height="30" rx="3" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="294.0" y="117" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">B2</text>
+<text x="600" y="92" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="start" font-weight="normal">no redundancy at all</text>
+<text x="30" y="174" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="start" font-weight="bold">RAID 1</text>
+<text x="30" y="196" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="start" font-weight="normal">mirroring</text>
+<rect x="170" y="152" width="76" height="30" rx="3" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="208.0" y="173" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">A</text>
+<rect x="256" y="152" width="76" height="30" rx="3" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="294.0" y="173" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">A</text>
+<rect x="170" y="186" width="76" height="30" rx="3" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="208.0" y="207" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">B</text>
+<rect x="256" y="186" width="76" height="30" rx="3" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="294.0" y="207" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">B</text>
+<text x="600" y="182" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="start" font-weight="normal">every disk but one can fail</text>
+<text x="30" y="264" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="start" font-weight="bold">RAID 5</text>
+<text x="30" y="286" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="start" font-weight="normal">independent access</text>
+<rect x="170" y="242" width="76" height="30" rx="3" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="208.0" y="263" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">A1</text>
+<rect x="256" y="242" width="76" height="30" rx="3" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="294.0" y="263" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">A2</text>
+<rect x="342" y="242" width="76" height="30" rx="3" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="380.0" y="263" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">Ap</text>
+<rect x="170" y="276" width="76" height="30" rx="3" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="208.0" y="297" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">B1</text>
+<rect x="256" y="276" width="76" height="30" rx="3" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="294.0" y="297" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">Bp</text>
+<rect x="342" y="276" width="76" height="30" rx="3" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="380.0" y="297" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">B2</text>
+<rect x="170" y="310" width="76" height="30" rx="3" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="208.0" y="331" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">Cp</text>
+<rect x="256" y="310" width="76" height="30" rx="3" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="294.0" y="331" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">C1</text>
+<rect x="342" y="310" width="76" height="30" rx="3" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="380.0" y="331" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">C2</text>
+<text x="600" y="272" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="start" font-weight="normal">one disk can fail</text>
+<text x="30" y="394" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="start" font-weight="bold">RAID 6</text>
+<text x="30" y="416" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="start" font-weight="normal">double parity</text>
+<rect x="170" y="372" width="76" height="30" rx="3" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="208.0" y="393" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">A1</text>
+<rect x="256" y="372" width="76" height="30" rx="3" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="294.0" y="393" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">A2</text>
+<rect x="342" y="372" width="76" height="30" rx="3" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="380.0" y="393" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">Ap</text>
+<rect x="428" y="372" width="76" height="30" rx="3" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="466.0" y="393" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">Aq</text>
+<rect x="170" y="406" width="76" height="30" rx="3" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="208.0" y="427" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">B1</text>
+<rect x="256" y="406" width="76" height="30" rx="3" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="294.0" y="427" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">Bp</text>
+<rect x="342" y="406" width="76" height="30" rx="3" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="380.0" y="427" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">Bq</text>
+<rect x="428" y="406" width="76" height="30" rx="3" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="466.0" y="427" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">B2</text>
+<text x="600" y="402" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="start" font-weight="normal">two disks can fail</text>
+<rect x="170" y="442" width="20" height="20" rx="3" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="202" y="458" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="start" font-weight="normal">parity block, and it never sits on one single disk</text>
+</svg>

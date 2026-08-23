@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 430" width="700" height="430" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="700" height="430" fill="#ffffff"/>
+<text x="350.0" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#1f2933" text-anchor="middle" font-weight="bold">Decimal to binary, 164 divided by 2</text>
+<text x="210" y="62" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">division</text>
+<text x="422" y="62" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">remainder</text>
+<rect x="95" y="72" width="230" height="32" rx="4" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="210" y="94" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">164 // 2 = 82</text>
+<rect x="394" y="72" width="56" height="32" rx="4" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="422" y="94" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="normal">0</text>
+<rect x="95" y="108" width="230" height="32" rx="4" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="210" y="130" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">82 // 2 = 41</text>
+<rect x="394" y="108" width="56" height="32" rx="4" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="422" y="130" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="normal">0</text>
+<rect x="95" y="144" width="230" height="32" rx="4" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="210" y="166" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">41 // 2 = 20</text>
+<rect x="394" y="144" width="56" height="32" rx="4" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="422" y="166" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="normal">1</text>
+<rect x="95" y="180" width="230" height="32" rx="4" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="210" y="202" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">20 // 2 = 10</text>
+<rect x="394" y="180" width="56" height="32" rx="4" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="422" y="202" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="normal">0</text>
+<rect x="95" y="216" width="230" height="32" rx="4" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="210" y="238" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">10 // 2 = 5</text>
+<rect x="394" y="216" width="56" height="32" rx="4" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="422" y="238" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="normal">0</text>
+<rect x="95" y="252" width="230" height="32" rx="4" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="210" y="274" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">5 // 2 = 2</text>
+<rect x="394" y="252" width="56" height="32" rx="4" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="422" y="274" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="normal">1</text>
+<rect x="95" y="288" width="230" height="32" rx="4" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="210" y="310" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">2 // 2 = 1</text>
+<rect x="394" y="288" width="56" height="32" rx="4" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="422" y="310" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="normal">0</text>
+<rect x="95" y="324" width="230" height="32" rx="4" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="210" y="346" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">1 // 2 = 0</text>
+<rect x="394" y="324" width="56" height="32" rx="4" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="422" y="346" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="normal">1</text>
+<path d="M 490,356 L 490,72" fill="none" stroke="#0f766e" stroke-width="2"/>
+<polygon points="484,82.2 496,82.2 490,72" fill="#0f766e"/>
+<text x="508" y="200" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="start" font-weight="normal">read the</text>
+<text x="508" y="220" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="start" font-weight="normal">remainders</text>
+<text x="508" y="240" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="start" font-weight="normal">upwards</text>
+<text x="350.0" y="400" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="normal">164 in base 10  =  10100100 in base 2</text>
+</svg>

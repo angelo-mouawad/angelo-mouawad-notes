@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 440" width="800" height="440" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="800" height="440" fill="#ffffff"/>
+<text x="400.0" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#1f2933" text-anchor="middle" font-weight="bold">Two types of virtualization</text>
+<text x="210" y="56" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#0f766e" text-anchor="middle" font-weight="bold">Type 1, bare metal</text>
+<text x="590" y="56" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#0f766e" text-anchor="middle" font-weight="bold">Type 2, hosted</text>
+<rect x="40" y="90" width="165" height="42" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="122.5" y="116.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">App</text>
+<rect x="40" y="132" width="165" height="42" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="122.5" y="158.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">OS</text>
+<rect x="35" y="85" width="175" height="94" rx="8" fill="none" stroke="#0f766e" stroke-width="2" stroke-dasharray="5 4"/>
+<rect x="215" y="90" width="165" height="42" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="297.5" y="116.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">App</text>
+<rect x="215" y="132" width="165" height="42" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="297.5" y="158.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">OS</text>
+<rect x="210" y="85" width="175" height="94" rx="8" fill="none" stroke="#0f766e" stroke-width="2" stroke-dasharray="5 4"/>
+<rect x="40" y="192" width="340" height="54" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="210.0" y="224.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">Hypervisor</text>
+<rect x="420" y="90" width="165" height="42" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="502.5" y="116.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">App</text>
+<rect x="420" y="132" width="165" height="42" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="502.5" y="158.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">OS</text>
+<rect x="415" y="85" width="175" height="94" rx="8" fill="none" stroke="#0f766e" stroke-width="2" stroke-dasharray="5 4"/>
+<rect x="595" y="90" width="165" height="42" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="677.5" y="116.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">App</text>
+<rect x="595" y="132" width="165" height="42" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="677.5" y="158.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">OS</text>
+<rect x="590" y="85" width="175" height="94" rx="8" fill="none" stroke="#0f766e" stroke-width="2" stroke-dasharray="5 4"/>
+<rect x="420" y="192" width="340" height="54" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="590.0" y="224.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">Hypervisor</text>
+<rect x="40" y="260" width="340" height="54" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="210.0" y="292.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">Physical hardware</text>
+<rect x="420" y="260" width="340" height="54" rx="6" fill="#fee2e2" stroke="#334155" stroke-width="2"/>
+<text x="590.0" y="292.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">Host OS</text>
+<rect x="420" y="328" width="340" height="54" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="590.0" y="360.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">Physical hardware</text>
+<text x="210" y="348" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">the hypervisor runs straight</text>
+<text x="210" y="370" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">on the hardware</text>
+<text x="590" y="414" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">a whole host OS sits in between</text>
+<text x="122" y="79" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="normal">VM</text>
+<text x="297" y="79" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="normal">VM</text>
+</svg>

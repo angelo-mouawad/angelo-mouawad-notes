@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 250" width="900" height="250" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="900" height="250" fill="#ffffff"/>
+<text x="450" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">A pipeline in five layers</text>
+<rect x="30" y="70" width="150" height="110" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="105" y="96" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="bold">Layer 1</text>
+<text x="105" y="124" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">Data sources</text>
+<path d="M 180,125 L 202,125" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="192,120 192,130 202,125" fill="#334155"/>
+<rect x="205" y="70" width="150" height="110" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="280" y="96" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="bold">Layer 2</text>
+<text x="280" y="124" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">Ingestion</text>
+<text x="280" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Kafka, real time</text>
+<path d="M 355,125 L 377,125" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="367,120 367,130 377,125" fill="#334155"/>
+<rect x="380" y="70" width="150" height="110" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="455" y="96" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="bold">Layer 3</text>
+<text x="455" y="124" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">Processing</text>
+<text x="455" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Spark, batch</text>
+<path d="M 530,125 L 552,125" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="542,120 542,130 552,125" fill="#334155"/>
+<rect x="555" y="70" width="150" height="110" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="630" y="96" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="bold">Layer 4</text>
+<text x="630" y="124" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">Storage</text>
+<text x="630" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">lake or warehouse</text>
+<path d="M 705,125 L 727,125" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="717,120 717,130 727,125" fill="#334155"/>
+<rect x="730" y="70" width="150" height="110" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="805" y="96" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="bold">Layer 5</text>
+<text x="805" y="124" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">Analytics</text>
+<text x="805" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">BI, ML</text>
+<text x="450" y="214" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">each stage is independent, so it can be tested and swapped on its own</text>
+</svg>

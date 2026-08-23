@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 380" width="830" height="380" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="830" height="380" fill="#ffffff"/>
+<text x="415.0" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#1f2933" text-anchor="middle" font-weight="bold">Setting up a swap file, in order</text>
+<rect x="70" y="66" width="350" height="44" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="88" y="94" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="start" font-weight="normal">fallocate -l 2G /swapfile</text>
+<text x="450" y="94" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="start" font-weight="normal">make a 2 GB file on the disk</text>
+<path d="M 245,110 L 245,132" fill="none" stroke="#64748b" stroke-width="2"/>
+<polygon points="239,121.8 251,121.8 245,132" fill="#64748b"/>
+<rect x="70" y="122" width="350" height="44" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="88" y="150" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="start" font-weight="normal">chmod 600 /swapfile</text>
+<text x="450" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="start" font-weight="normal">only root may read and write it</text>
+<path d="M 245,166 L 245,188" fill="none" stroke="#64748b" stroke-width="2"/>
+<polygon points="239,177.8 251,177.8 245,188" fill="#64748b"/>
+<rect x="70" y="178" width="350" height="44" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="88" y="206" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="start" font-weight="normal">mkswap /swapfile</text>
+<text x="450" y="206" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="start" font-weight="normal">format that file as swap space</text>
+<path d="M 245,222 L 245,244" fill="none" stroke="#64748b" stroke-width="2"/>
+<polygon points="239,233.8 251,233.8 245,244" fill="#64748b"/>
+<rect x="70" y="234" width="350" height="44" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="88" y="262" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="start" font-weight="normal">swapon /swapfile -p 10</text>
+<text x="450" y="262" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="start" font-weight="normal">switch it on, priority is optional</text>
+<path d="M 245,278 L 245,300" fill="none" stroke="#64748b" stroke-width="2"/>
+<polygon points="239,289.8 251,289.8 245,300" fill="#64748b"/>
+<rect x="70" y="290" width="350" height="44" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="88" y="318" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="start" font-weight="normal">echo '...' | sudo tee -a /etc/fstab</text>
+<text x="450" y="318" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="start" font-weight="normal">so it comes back after a reboot</text>
+<text x="415.0" y="366" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">every one of these needs sudo, and swapon on its own lists what is already active</text>
+</svg>

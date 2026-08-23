@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 420" width="880" height="420" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="880" height="420" fill="#ffffff"/>
+<text x="440" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Two kinds of blueprint</text>
+<rect x="40" y="58" width="390" height="300" rx="8" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="235" y="84" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#0f766e" text-anchor="middle" font-weight="bold">abstract class</text>
+<text x="235" y="104" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">abstract class Animal</text>
+<circle cx="70" cy="136" r="5" fill="#0f766e" stroke="#0f766e" stroke-width="0"/>
+<text x="88" y="141" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">cannot be instantiated</text>
+<circle cx="70" cy="170" r="5" fill="#0f766e" stroke="#0f766e" stroke-width="0"/>
+<text x="88" y="175" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">can hold fields with state</text>
+<circle cx="70" cy="204" r="5" fill="#0f766e" stroke="#0f766e" stroke-width="0"/>
+<text x="88" y="209" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">can have constructors</text>
+<circle cx="70" cy="238" r="5" fill="#0f766e" stroke="#0f766e" stroke-width="0"/>
+<text x="88" y="243" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">can mix finished and abstract methods</text>
+<circle cx="70" cy="272" r="5" fill="#0f766e" stroke="#0f766e" stroke-width="0"/>
+<text x="88" y="277" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">a class extends only one</text>
+<rect x="64" y="306" width="342" height="38" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="235" y="330" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#0f766e" text-anchor="middle" font-weight="normal">use it when the classes are the same kind of thing</text>
+<rect x="450" y="58" width="390" height="300" rx="8" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="645" y="84" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#1d4ed8" text-anchor="middle" font-weight="bold">interface</text>
+<text x="645" y="104" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">interface IMakeSound</text>
+<circle cx="480" cy="136" r="5" fill="#1d4ed8" stroke="#1d4ed8" stroke-width="0"/>
+<text x="498" y="141" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">cannot be instantiated</text>
+<circle cx="480" cy="170" r="5" fill="#1d4ed8" stroke="#1d4ed8" stroke-width="0"/>
+<text x="498" y="175" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">no instance fields, constants only</text>
+<circle cx="480" cy="204" r="5" fill="#1d4ed8" stroke="#1d4ed8" stroke-width="0"/>
+<text x="498" y="209" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">no constructors</text>
+<circle cx="480" cy="238" r="5" fill="#1d4ed8" stroke="#1d4ed8" stroke-width="0"/>
+<text x="498" y="243" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">methods are abstract by default</text>
+<circle cx="480" cy="272" r="5" fill="#1d4ed8" stroke="#1d4ed8" stroke-width="0"/>
+<text x="498" y="277" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">a class implements any number</text>
+<rect x="474" y="306" width="342" height="38" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="645" y="330" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1d4ed8" text-anchor="middle" font-weight="normal">use it when the classes can do the same thing</text>
+<rect x="40" y="372" width="800" height="38" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="440" y="396" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">a Dog is an Animal, a Dog and a Doorbell can both MakeSound</text>
+</svg>

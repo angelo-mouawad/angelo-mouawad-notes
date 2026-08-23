@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 340" width="880" height="340" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="880" height="340" fill="#ffffff"/>
+<text x="440" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">The dependency array is the whole story</text>
+<rect x="40" y="62" width="340" height="50" rx="6" fill="#fee2e2" stroke="#334155" stroke-width="2"/>
+<text x="60" y="93" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="start" font-weight="normal">useEffect(() =&gt; {})</text>
+<path d="M 392,87 L 420,87" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="410.0,82.0 410.0,92.0 420,87" fill="#334155"/>
+<rect x="430" y="62" width="410" height="50" rx="6" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="450" y="84" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="start" font-weight="bold">after every single render</text>
+<text x="450" y="102" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#0f766e" text-anchor="start" font-weight="normal">no array</text>
+<rect x="40" y="124" width="340" height="50" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="60" y="155" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="start" font-weight="normal">useEffect(() =&gt; {}, [])</text>
+<path d="M 392,149 L 420,149" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="410.0,144.0 410.0,154.0 420,149" fill="#334155"/>
+<rect x="430" y="124" width="410" height="50" rx="6" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="450" y="146" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="start" font-weight="bold">once, when it mounts</text>
+<text x="450" y="164" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#0f766e" text-anchor="start" font-weight="normal">empty array</text>
+<rect x="40" y="186" width="340" height="50" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="60" y="217" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="start" font-weight="normal">useEffect(() =&gt; {}, [x])</text>
+<path d="M 392,211 L 420,211" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="410.0,206.0 410.0,216.0 420,211" fill="#334155"/>
+<rect x="430" y="186" width="410" height="50" rx="6" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="450" y="208" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="start" font-weight="bold">on mount, and when x changes</text>
+<text x="450" y="226" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#0f766e" text-anchor="start" font-weight="normal">with values</text>
+<rect x="40" y="248" width="340" height="50" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="60" y="279" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="start" font-weight="normal">return () =&gt; {}</text>
+<path d="M 392,273 L 420,273" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="410.0,268.0 410.0,278.0 420,273" fill="#334155"/>
+<rect x="430" y="248" width="410" height="50" rx="6" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="450" y="270" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="start" font-weight="bold">when it unmounts</text>
+<text x="450" y="288" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#0f766e" text-anchor="start" font-weight="normal">the cleanup</text>
+<rect x="180" y="316" width="520" height="0" rx="6" fill="#ffffff" stroke="#ffffff" stroke-width="0"/>
+<text x="440" y="326" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">only reach for it when you touch something outside React, like browser storage</text>
+</svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" width="800" height="480" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="800" height="480" fill="#ffffff"/>
+<text x="400.0" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#1f2933" text-anchor="middle" font-weight="bold">The two models side by side</text>
+<rect x="55" y="56" width="220" height="44" rx="0" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="165.0" y="84" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">TCP/IP model</text>
+<rect x="275" y="56" width="250" height="44" rx="0" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="400.0" y="84" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">OSI model</text>
+<rect x="525" y="56" width="220" height="44" rx="0" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="635.0" y="84" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Protocols</text>
+<rect x="275" y="100" width="250" height="48" rx="0" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="295" y="130" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="start" font-weight="normal">7  Application</text>
+<rect x="275" y="148" width="250" height="48" rx="0" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="295" y="178" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="start" font-weight="normal">6  Presentation</text>
+<rect x="275" y="196" width="250" height="48" rx="0" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="295" y="226" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="start" font-weight="normal">5  Session</text>
+<rect x="275" y="244" width="250" height="48" rx="0" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="295" y="274" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="start" font-weight="normal">4  Transport</text>
+<rect x="275" y="292" width="250" height="48" rx="0" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="295" y="322" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="start" font-weight="normal">3  Network</text>
+<rect x="275" y="340" width="250" height="48" rx="0" fill="#ede9fe" stroke="#334155" stroke-width="2"/>
+<text x="295" y="370" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="start" font-weight="normal">2  Data link</text>
+<rect x="275" y="388" width="250" height="48" rx="0" fill="#ede9fe" stroke="#334155" stroke-width="2"/>
+<text x="295" y="418" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="start" font-weight="normal">1  Physical</text>
+<rect x="55" y="100" width="220" height="144" rx="0" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="165.0" y="178.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">Application</text>
+<rect x="55" y="244" width="220" height="48" rx="0" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="165.0" y="274.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">Transport</text>
+<rect x="55" y="292" width="220" height="48" rx="0" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="165.0" y="322.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">Internet</text>
+<rect x="55" y="340" width="220" height="96" rx="0" fill="#ede9fe" stroke="#334155" stroke-width="2"/>
+<text x="165.0" y="394.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">Network access</text>
+<rect x="525" y="100" width="220" height="144" rx="0" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="635.0" y="130" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">HTTP</text>
+<text x="635.0" y="158" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">DNS</text>
+<text x="635.0" y="186" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">DHCP</text>
+<text x="635.0" y="214" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">FTP</text>
+<rect x="525" y="244" width="220" height="48" rx="0" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="635.0" y="274.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">TCP  UDP</text>
+<rect x="525" y="292" width="220" height="48" rx="0" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="635.0" y="322.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">IPv4  IPv6</text>
+<rect x="525" y="340" width="220" height="96" rx="0" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="635.0" y="394.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">Ethernet</text>
+<text x="400.0" y="466" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">TCP/IP is what the internet really runs, OSI is the teaching model with the layers split up</text>
+</svg>

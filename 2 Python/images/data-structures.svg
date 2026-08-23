@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 658 356" width="658" height="356" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="658" height="356" fill="#ffffff"/>
+<rect x="150" y="60" width="122" height="46" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="211.0" y="88.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle">Tuple</text>
+<rect x="150" y="106" width="122" height="46" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="211.0" y="134.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle">(1, 2, 3)</text>
+<rect x="272" y="60" width="122" height="46" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="333.0" y="88.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle">List</text>
+<rect x="272" y="106" width="122" height="46" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="333.0" y="134.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle">[1, 2, 3]</text>
+<rect x="394" y="60" width="122" height="46" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="455.0" y="88.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle">Set</text>
+<rect x="394" y="106" width="122" height="46" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="455.0" y="134.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle">{1, 2, 3}</text>
+<rect x="516" y="60" width="122" height="46" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="577.0" y="88.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle">Dictionary</text>
+<rect x="516" y="106" width="122" height="46" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="577.0" y="134.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle">{'a': 1}</text>
+<text x="136" y="180.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="end" font-weight="normal">Can be changed</text>
+<rect x="150" y="152" width="122" height="46" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="211.0" y="180.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle">No</text>
+<rect x="272" y="152" width="122" height="46" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="333.0" y="180.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle">Yes</text>
+<rect x="394" y="152" width="122" height="46" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="455.0" y="180.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle">Yes</text>
+<rect x="516" y="152" width="122" height="46" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="577.0" y="180.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle">Yes</text>
+<text x="136" y="226.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="end" font-weight="normal">Keeps an order</text>
+<rect x="150" y="198" width="122" height="46" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="211.0" y="226.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle">Yes</text>
+<rect x="272" y="198" width="122" height="46" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="333.0" y="226.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle">Yes</text>
+<rect x="394" y="198" width="122" height="46" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="455.0" y="226.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle">No</text>
+<rect x="516" y="198" width="122" height="46" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="577.0" y="226.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle">Yes</text>
+<text x="136" y="272.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="end" font-weight="normal">Allows duplicates</text>
+<rect x="150" y="244" width="122" height="46" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="211.0" y="272.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle">Yes</text>
+<rect x="272" y="244" width="122" height="46" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="333.0" y="272.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle">Yes</text>
+<rect x="394" y="244" width="122" height="46" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="455.0" y="272.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle">No</text>
+<rect x="516" y="244" width="122" height="46" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="577.0" y="272.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle">Keys are unique</text>
+<text x="136" y="318.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="end" font-weight="normal">Access by</text>
+<rect x="150" y="290" width="122" height="46" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="211.0" y="318.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle">Index</text>
+<rect x="272" y="290" width="122" height="46" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="333.0" y="318.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle">Index</text>
+<rect x="394" y="290" width="122" height="46" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="455.0" y="318.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle">Loop or in</text>
+<rect x="516" y="290" width="122" height="46" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="577.0" y="318.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle">Key</text>
+</svg>

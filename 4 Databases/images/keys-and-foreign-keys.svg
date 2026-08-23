@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 320" width="860" height="320" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="860" height="320" fill="#ffffff"/>
+<text x="430" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">One to many: the foreign key lives on the many side</text>
+<rect x="90" y="70" width="250" height="110" rx="4" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<path d="M 90,76 q 0,-6 6,-6 L 334,70 q 6,0 6,6 L 340,102 L 90,102 Z" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="215.0" y="92" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">owner</text>
+<line x1="90" y1="102" x2="340" y2="102" stroke="#334155" stroke-width="1"/>
+<rect x="96" y="107" width="32" height="16" rx="3" fill="#fde68a" stroke="#334155" stroke-width="1"/>
+<text x="112.0" y="120" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" fill="#1f2933" text-anchor="middle" font-weight="bold">PK</text>
+<text x="136" y="120" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">id</text>
+<line x1="90" y1="128" x2="340" y2="128" stroke="#334155" stroke-width="1"/>
+<text x="104" y="146" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">name</text>
+<line x1="90" y1="154" x2="340" y2="154" stroke="#334155" stroke-width="1"/>
+<text x="104" y="172" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">email</text>
+<rect x="520" y="70" width="250" height="136" rx="4" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<path d="M 520,76 q 0,-6 6,-6 L 764,70 q 6,0 6,6 L 770,102 L 520,102 Z" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="645.0" y="92" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">dog</text>
+<line x1="520" y1="102" x2="770" y2="102" stroke="#334155" stroke-width="1"/>
+<rect x="526" y="107" width="32" height="16" rx="3" fill="#fde68a" stroke="#334155" stroke-width="1"/>
+<text x="542.0" y="120" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" fill="#1f2933" text-anchor="middle" font-weight="bold">PK</text>
+<text x="566" y="120" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">id</text>
+<line x1="520" y1="128" x2="770" y2="128" stroke="#334155" stroke-width="1"/>
+<text x="534" y="146" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">name</text>
+<line x1="520" y1="154" x2="770" y2="154" stroke="#334155" stroke-width="1"/>
+<text x="534" y="172" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">breed</text>
+<line x1="520" y1="180" x2="770" y2="180" stroke="#334155" stroke-width="1"/>
+<rect x="526" y="185" width="32" height="16" rx="3" fill="#bfdbfe" stroke="#334155" stroke-width="1"/>
+<text x="542.0" y="198" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" fill="#1f2933" text-anchor="middle" font-weight="bold">FK</text>
+<text x="566" y="198" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">owner_id</text>
+<line x1="340" y1="115" x2="430" y2="115" stroke="#0f766e" stroke-width="2"/>
+<line x1="430" y1="115" x2="430" y2="193" stroke="#0f766e" stroke-width="2"/>
+<line x1="430" y1="193" x2="518" y2="193" stroke="#0f766e" stroke-width="2"/>
+<polygon points="510,188 510,198 520,193" fill="#0f766e"/>
+<circle cx="340" cy="115" r="5" fill="#0f766e"/>
+<text x="430" y="100" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="normal">referenced by</text>
+<text x="215" y="262" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">one owner</text>
+<text x="215" y="284" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">has many dogs</text>
+<text x="645" y="262" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">each dog row stores</text>
+<text x="645" y="284" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">exactly one owner id</text>
+</svg>

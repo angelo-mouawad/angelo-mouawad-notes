@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 380" width="880" height="380" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="880" height="380" fill="#ffffff"/>
+<text x="440" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Cascade passes the operation down to the children</text>
+<rect x="40" y="58" width="390" height="270" rx="8" fill="#fef2f2" stroke="#b91c1c" stroke-width="2"/>
+<text x="235" y="84" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#b91c1c" text-anchor="middle" font-weight="bold">without cascade</text>
+<rect x="64" y="96" width="342" height="123" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="78" y="124" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="start" font-weight="normal">repository.save(a);</text>
+<text x="78" y="143" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="start" font-weight="normal">repository.save(b);</text>
+<text x="78" y="162" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="start" font-weight="normal">user.getAddresses().add(a);</text>
+<text x="78" y="181" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="start" font-weight="normal">user.getAddresses().add(b);</text>
+<text x="78" y="200" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="start" font-weight="normal">repository.save(user);</text>
+<text x="235" y="250" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">every child saved by hand</text>
+<text x="235" y="272" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#b91c1c" text-anchor="middle" font-weight="normal">in the right order, or it fails</text>
+<text x="235" y="306" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">@OneToMany(mappedBy = "user")</text>
+<rect x="450" y="58" width="390" height="270" rx="8" fill="#f0fdfa" stroke="#0f766e" stroke-width="2"/>
+<text x="645" y="84" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#0f766e" text-anchor="middle" font-weight="bold">with cascade</text>
+<rect x="474" y="96" width="342" height="85" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="488" y="124" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="start" font-weight="normal">user.getAddresses().add(a);</text>
+<text x="488" y="143" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="start" font-weight="normal">user.getAddresses().add(b);</text>
+<text x="488" y="162" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="start" font-weight="normal">repository.save(user);</text>
+<text x="645" y="250" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">save the parent only</text>
+<text x="645" y="272" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#0f766e" text-anchor="middle" font-weight="normal">the children go with it</text>
+<text x="645" y="306" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">cascade = CascadeType.PERSIST</text>
+<text x="440" y="360" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">REMOVE cascades the delete the same way, ALL cascades every operation</text>
+</svg>

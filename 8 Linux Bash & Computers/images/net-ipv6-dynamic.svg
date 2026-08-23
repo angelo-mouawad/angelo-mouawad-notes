@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 460" width="820" height="460" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="820" height="460" fill="#ffffff"/>
+<text x="410.0" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#1f2933" text-anchor="middle" font-weight="bold">How a device gets its IPv6 addresses</text>
+<rect x="40" y="52" width="350" height="78" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="215.0" y="87.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Global Unicast Address</text>
+<text x="215.0" y="106.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">starts 2000, routable, like a public IPv4</text>
+<rect x="430" y="52" width="350" height="78" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="605.0" y="87.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Link Local Address</text>
+<text x="605.0" y="106.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">starts fe80, never leaves the local link</text>
+<line x1="40" y1="152" x2="780" y2="152" stroke="#e2e8f0" stroke-width="2"/>
+<rect x="70" y="180" width="160" height="64" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="150.0" y="217.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="normal">Host</text>
+<rect x="590" y="180" width="160" height="64" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="670.0" y="217.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="normal">Router</text>
+<path d="M 230,200 L 588,200" fill="none" stroke="#0f766e" stroke-width="2"/>
+<polygon points="577.8,194 577.8,206 588,200" fill="#0f766e"/>
+<text x="410" y="192" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="normal">RS, router solicitation, who is out there</text>
+<path d="M 590,232 L 232,232" fill="none" stroke="#1d4ed8" stroke-width="2"/>
+<polygon points="242.2,226 242.2,238 232,232" fill="#1d4ed8"/>
+<text x="410" y="254" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1d4ed8" text-anchor="middle" font-weight="normal">RA, router advertisement, here is how to get an address</text>
+<rect x="30" y="296" width="240" height="130" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="150" y="322" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#0f766e" text-anchor="middle" font-weight="bold">SLAAC</text>
+<text x="150" y="348" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">no DHCP server at all</text>
+<text x="150" y="368" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">prefix comes from the RA</text>
+<text x="150" y="388" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">interface ID from EUI-64</text>
+<text x="150" y="408" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">or random</text>
+<rect x="290" y="296" width="240" height="130" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="410" y="322" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#0f766e" text-anchor="middle" font-weight="bold">SLAAC + stateless DHCPv6</text>
+<text x="410" y="348" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">address still from SLAAC</text>
+<text x="410" y="368" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">DHCP only hands out</text>
+<text x="410" y="388" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">DNS and domain name</text>
+<rect x="550" y="296" width="240" height="130" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="670" y="322" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#0f766e" text-anchor="middle" font-weight="bold">Stateful DHCPv6</text>
+<text x="670" y="348" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">the DHCP server gives</text>
+<text x="670" y="368" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">everything, address,</text>
+<text x="670" y="388" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">DNS and domain name</text>
+<text x="410.0" y="450" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">the RA is what tells the host which of these three to use</text>
+</svg>

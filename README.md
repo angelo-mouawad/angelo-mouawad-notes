@@ -1,6 +1,6 @@
 # My Notes
 
-A personal knowledge base and notes collection. For the best experience, open this repo as an Obsidian vault — links, tags, and graph view will all work correctly.
+A personal knowledge base and notes collection. For the best experience, open this repo as an Obsidian vault, links, tags, and graph view will all work correctly.
 
 
 ## Getting started

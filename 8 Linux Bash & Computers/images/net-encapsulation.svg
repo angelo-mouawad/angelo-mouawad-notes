@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 440" width="850" height="440" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="850" height="440" fill="#ffffff"/>
+<text x="425.0" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#1f2933" text-anchor="middle" font-weight="bold">What each layer wraps around the data</text>
+<text x="30" y="96" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="start" font-weight="normal">L7 to L5</text>
+<rect x="470" y="66" width="200" height="48" rx="3" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="570.0" y="95" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">Data</text>
+<text x="760" y="96" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#0f766e" text-anchor="start" font-weight="bold">Data</text>
+<path d="M 600,114 L 600,132" fill="none" stroke="#64748b" stroke-width="2"/>
+<polygon points="594,121.8 606,121.8 600,132" fill="#64748b"/>
+<text x="30" y="170" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="start" font-weight="normal">L4 Transport</text>
+<rect x="340" y="140" width="130" height="48" rx="3" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="405.0" y="169" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">TCP/UDP</text>
+<rect x="470" y="140" width="200" height="48" rx="3" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="570.0" y="169" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">Data</text>
+<text x="760" y="170" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#0f766e" text-anchor="start" font-weight="bold">Segment</text>
+<path d="M 600,188 L 600,206" fill="none" stroke="#64748b" stroke-width="2"/>
+<polygon points="594,195.8 606,195.8 600,206" fill="#64748b"/>
+<text x="30" y="244" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="start" font-weight="normal">L3 Network</text>
+<rect x="230" y="214" width="110" height="48" rx="3" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="285.0" y="243" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">IP</text>
+<rect x="340" y="214" width="130" height="48" rx="3" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="405.0" y="243" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">TCP/UDP</text>
+<rect x="470" y="214" width="200" height="48" rx="3" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="570.0" y="243" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">Data</text>
+<text x="760" y="244" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#0f766e" text-anchor="start" font-weight="bold">Packet</text>
+<path d="M 600,262 L 600,280" fill="none" stroke="#64748b" stroke-width="2"/>
+<polygon points="594,269.8 606,269.8 600,280" fill="#64748b"/>
+<text x="30" y="318" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="start" font-weight="normal">L2 Data link</text>
+<rect x="140" y="288" width="90" height="48" rx="3" fill="#ede9fe" stroke="#334155" stroke-width="2"/>
+<text x="185.0" y="317" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">MAC</text>
+<rect x="230" y="288" width="110" height="48" rx="3" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="285.0" y="317" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">IP</text>
+<rect x="340" y="288" width="130" height="48" rx="3" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="405.0" y="317" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">TCP/UDP</text>
+<rect x="470" y="288" width="200" height="48" rx="3" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="570.0" y="317" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">Data</text>
+<rect x="670" y="288" width="70" height="48" rx="3" fill="#ede9fe" stroke="#334155" stroke-width="2"/>
+<text x="705.0" y="317" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">MAC</text>
+<text x="760" y="318" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#0f766e" text-anchor="start" font-weight="bold">Frame</text>
+<text x="30" y="396" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="start" font-weight="normal">L1 Physical</text>
+<rect x="140" y="366" width="600" height="48" rx="3" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="440" y="396" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">1011 0100 1110 0011 1001 0110 1101 0010</text>
+<text x="760" y="396" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#0f766e" text-anchor="start" font-weight="bold">Bits</text>
+<path d="M 600,348 L 600,364" fill="none" stroke="#64748b" stroke-width="2"/>
+<polygon points="594,353.8 606,353.8 600,364" fill="#64748b"/>
+<text x="425.0" y="432" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">going down the stack every layer adds its own header, and layer 2 adds a trailer too</text>
+</svg>

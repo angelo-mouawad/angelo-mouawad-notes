@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 400" width="880" height="400" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="880" height="400" fill="#ffffff"/>
+<text x="440" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">The collections you will actually use</text>
+<rect x="230" y="62" width="180" height="44" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="320.0" y="89.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">Iterable</text>
+<path d="M 320,106 L 320,128" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="315.0,118.0 325.0,118.0 320,128" fill="#334155"/>
+<rect x="230" y="130" width="180" height="44" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="320.0" y="157.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">Collection</text>
+<path d="M 320,174 L 320,196 L 140,196 L 140,218" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="135.0,208.0 145.0,208.0 140,218" fill="#334155"/>
+<path d="M 320,174 L 320,196 L 500,196 L 500,218" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="495.0,208.0 505.0,208.0 500,218" fill="#334155"/>
+<rect x="60" y="220" width="160" height="44" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="140.0" y="247.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">List</text>
+<rect x="420" y="220" width="160" height="44" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="500.0" y="247.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">Set</text>
+<rect x="660" y="130" width="180" height="44" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="750.0" y="157.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">Map</text>
+<rect x="668" y="182" width="164" height="44" rx="6" fill="#ffffff" stroke="#ffffff" stroke-width="0"/>
+<text x="750" y="200" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">not a Collection</text>
+<text x="750" y="218" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">it holds pairs</text>
+<path d="M 140,264 L 140,292" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="135.0,282.0 145.0,282.0 140,292" fill="#334155"/>
+<rect x="60" y="294" width="160" height="44" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="140.0" y="321.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">ArrayList</text>
+<path d="M 500,264 L 500,292" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="495.0,282.0 505.0,282.0 500,292" fill="#334155"/>
+<rect x="420" y="294" width="160" height="44" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="500.0" y="321.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">HashSet</text>
+<path d="M 750,174 L 750,292" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="745.0,282.0 755.0,282.0 750,292" fill="#334155"/>
+<rect x="670" y="294" width="160" height="44" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="750.0" y="321.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">HashMap</text>
+<text x="140" y="360" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">the interface is the type,</text>
+<text x="140" y="378" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">the class is the implementation</text>
+<rect x="300" y="348" width="540" height="40" rx="6" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="570" y="372" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">List&lt;Integer&gt; numbers = new ArrayList&lt;&gt;();</text>
+</svg>

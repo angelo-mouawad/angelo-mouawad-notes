@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 280" width="940" height="280" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="940" height="280" fill="#ffffff"/>
+<text x="177" y="46" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#0f766e" text-anchor="middle" font-weight="bold">my_df['Age']</text>
+<rect x="40" y="70" width="40" height="40" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="60.0" y="95.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal"></text>
+<rect x="80" y="70" width="78" height="40" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="119.0" y="95.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">Name</text>
+<rect x="158" y="70" width="78" height="40" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="197.0" y="95.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">Age</text>
+<rect x="236" y="70" width="78" height="40" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="275.0" y="95.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">City</text>
+<rect x="40" y="110" width="40" height="40" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="60.0" y="135.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">0</text>
+<rect x="80" y="110" width="78" height="40" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="119.0" y="135.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Alice</text>
+<rect x="158" y="110" width="78" height="40" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="197.0" y="135.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">25</text>
+<rect x="236" y="110" width="78" height="40" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="275.0" y="135.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">London</text>
+<rect x="40" y="150" width="40" height="40" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="60.0" y="175.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">1</text>
+<rect x="80" y="150" width="78" height="40" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="119.0" y="175.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Bob</text>
+<rect x="158" y="150" width="78" height="40" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="197.0" y="175.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">30</text>
+<rect x="236" y="150" width="78" height="40" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="275.0" y="175.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">N.Y.</text>
+<text x="177" y="235" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">a whole column</text>
+<text x="462" y="46" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#0f766e" text-anchor="middle" font-weight="bold">my_df.loc[1]</text>
+<rect x="325" y="70" width="40" height="40" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="345.0" y="95.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal"></text>
+<rect x="365" y="70" width="78" height="40" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="404.0" y="95.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">Name</text>
+<rect x="443" y="70" width="78" height="40" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="482.0" y="95.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">Age</text>
+<rect x="521" y="70" width="78" height="40" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="560.0" y="95.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">City</text>
+<rect x="325" y="110" width="40" height="40" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="345.0" y="135.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">0</text>
+<rect x="365" y="110" width="78" height="40" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="404.0" y="135.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Alice</text>
+<rect x="443" y="110" width="78" height="40" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="482.0" y="135.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">25</text>
+<rect x="521" y="110" width="78" height="40" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="560.0" y="135.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">London</text>
+<rect x="325" y="150" width="40" height="40" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="345.0" y="175.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">1</text>
+<rect x="365" y="150" width="78" height="40" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="404.0" y="175.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Bob</text>
+<rect x="443" y="150" width="78" height="40" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="482.0" y="175.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">30</text>
+<rect x="521" y="150" width="78" height="40" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="560.0" y="175.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">N.Y.</text>
+<text x="462" y="235" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">a whole row</text>
+<text x="747" y="46" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#0f766e" text-anchor="middle" font-weight="bold">my_df.at[1, 'Age']</text>
+<rect x="610" y="70" width="40" height="40" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="630.0" y="95.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal"></text>
+<rect x="650" y="70" width="78" height="40" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="689.0" y="95.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">Name</text>
+<rect x="728" y="70" width="78" height="40" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="767.0" y="95.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">Age</text>
+<rect x="806" y="70" width="78" height="40" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="845.0" y="95.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">City</text>
+<rect x="610" y="110" width="40" height="40" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="630.0" y="135.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">0</text>
+<rect x="650" y="110" width="78" height="40" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="689.0" y="135.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Alice</text>
+<rect x="728" y="110" width="78" height="40" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="767.0" y="135.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">25</text>
+<rect x="806" y="110" width="78" height="40" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="845.0" y="135.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">London</text>
+<rect x="610" y="150" width="40" height="40" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="630.0" y="175.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">1</text>
+<rect x="650" y="150" width="78" height="40" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="689.0" y="175.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Bob</text>
+<rect x="728" y="150" width="78" height="40" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="767.0" y="175.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">30</text>
+<rect x="806" y="150" width="78" height="40" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="845.0" y="175.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">N.Y.</text>
+<text x="747" y="235" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">one single value</text>
+</svg>

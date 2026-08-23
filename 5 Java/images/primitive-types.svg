@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" width="900" height="340" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="900" height="340" fill="#ffffff"/>
+<text x="450" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">The eight primitive types</text>
+<rect x="30" y="62" width="190" height="110" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="125" y="92" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" fill="#1f2933" text-anchor="middle" font-weight="bold">byte</text>
+<text x="125" y="112" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#0f766e" text-anchor="middle" font-weight="normal">8 bit</text>
+<line x1="55" y1="122" x2="195" y2="122" stroke="#334155" stroke-width="1"/>
+<text x="125" y="142" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#1f2933" text-anchor="middle" font-weight="normal">-128 to 127</text>
+<rect x="75" y="150" width="100" height="16" rx="3" fill="#ffffff" stroke="#cbd5e1" stroke-width="1"/>
+<text x="125" y="162" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">1</text>
+<rect x="245" y="62" width="190" height="110" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="340" y="92" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" fill="#1f2933" text-anchor="middle" font-weight="bold">short</text>
+<text x="340" y="112" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#0f766e" text-anchor="middle" font-weight="normal">16 bit</text>
+<line x1="270" y1="122" x2="410" y2="122" stroke="#334155" stroke-width="1"/>
+<text x="340" y="142" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#1f2933" text-anchor="middle" font-weight="normal">-32k to 32k</text>
+<rect x="290" y="150" width="100" height="16" rx="3" fill="#ffffff" stroke="#cbd5e1" stroke-width="1"/>
+<text x="340" y="162" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">10</text>
+<rect x="460" y="62" width="190" height="110" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="555" y="92" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" fill="#1f2933" text-anchor="middle" font-weight="bold">int</text>
+<text x="555" y="112" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#0f766e" text-anchor="middle" font-weight="normal">32 bit</text>
+<line x1="485" y1="122" x2="625" y2="122" stroke="#334155" stroke-width="1"/>
+<text x="555" y="142" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#1f2933" text-anchor="middle" font-weight="normal">the default whole number</text>
+<rect x="505" y="150" width="100" height="16" rx="3" fill="#ffffff" stroke="#cbd5e1" stroke-width="1"/>
+<text x="555" y="162" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">100</text>
+<rect x="675" y="62" width="190" height="110" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="770" y="92" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" fill="#1f2933" text-anchor="middle" font-weight="bold">long</text>
+<text x="770" y="112" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#0f766e" text-anchor="middle" font-weight="normal">64 bit</text>
+<line x1="700" y1="122" x2="840" y2="122" stroke="#334155" stroke-width="1"/>
+<text x="770" y="142" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#1f2933" text-anchor="middle" font-weight="normal">needs an L suffix</text>
+<rect x="720" y="150" width="100" height="16" rx="3" fill="#ffffff" stroke="#cbd5e1" stroke-width="1"/>
+<text x="770" y="162" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">1000L</text>
+<rect x="30" y="192" width="190" height="110" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="125" y="222" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" fill="#1f2933" text-anchor="middle" font-weight="bold">float</text>
+<text x="125" y="242" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#0f766e" text-anchor="middle" font-weight="normal">32 bit</text>
+<line x1="55" y1="252" x2="195" y2="252" stroke="#334155" stroke-width="1"/>
+<text x="125" y="272" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#1f2933" text-anchor="middle" font-weight="normal">needs an f suffix</text>
+<rect x="75" y="280" width="100" height="16" rx="3" fill="#ffffff" stroke="#cbd5e1" stroke-width="1"/>
+<text x="125" y="292" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">1.0f</text>
+<rect x="245" y="192" width="190" height="110" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="340" y="222" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" fill="#1f2933" text-anchor="middle" font-weight="bold">double</text>
+<text x="340" y="242" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#0f766e" text-anchor="middle" font-weight="normal">64 bit</text>
+<line x1="270" y1="252" x2="410" y2="252" stroke="#334155" stroke-width="1"/>
+<text x="340" y="272" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#1f2933" text-anchor="middle" font-weight="normal">the default decimal</text>
+<rect x="290" y="280" width="100" height="16" rx="3" fill="#ffffff" stroke="#cbd5e1" stroke-width="1"/>
+<text x="340" y="292" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">1.00</text>
+<rect x="460" y="192" width="190" height="110" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="555" y="222" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" fill="#1f2933" text-anchor="middle" font-weight="bold">char</text>
+<text x="555" y="242" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#0f766e" text-anchor="middle" font-weight="normal">16 bit</text>
+<line x1="485" y1="252" x2="625" y2="252" stroke="#334155" stroke-width="1"/>
+<text x="555" y="272" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#1f2933" text-anchor="middle" font-weight="normal">one character, single quotes</text>
+<rect x="505" y="280" width="100" height="16" rx="3" fill="#ffffff" stroke="#cbd5e1" stroke-width="1"/>
+<text x="555" y="292" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">'A'</text>
+<rect x="675" y="192" width="190" height="110" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="770" y="222" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" fill="#1f2933" text-anchor="middle" font-weight="bold">boolean</text>
+<text x="770" y="242" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#0f766e" text-anchor="middle" font-weight="normal">size undefined</text>
+<line x1="700" y1="252" x2="840" y2="252" stroke="#334155" stroke-width="1"/>
+<text x="770" y="272" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#1f2933" text-anchor="middle" font-weight="normal">true or false</text>
+<rect x="720" y="280" width="100" height="16" rx="3" fill="#ffffff" stroke="#cbd5e1" stroke-width="1"/>
+<text x="770" y="292" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">true</text>
+<text x="450" y="328" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">everything else is a reference type, including String, arrays and every class you write</text>
+</svg>

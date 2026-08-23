@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 470" width="860" height="470" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="860" height="470" fill="#ffffff"/>
+<text x="430.0" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#1f2933" text-anchor="middle" font-weight="bold">Blitzkrieg, and why the trenches did not come back</text>
+<line x1="300" y1="80" x2="300" y2="330" stroke="#b91c1c" stroke-width="4" stroke-dasharray="12 6"/>
+<text x="300" y="66" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#b91c1c" text-anchor="middle" font-weight="normal">defensive line</text>
+<path d="M 90,205 L 296,205" fill="none" stroke="#0f766e" stroke-width="5"/>
+<polygon points="285.8,199 285.8,211 296,205" fill="#0f766e"/>
+<text x="160" y="190" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="normal">armour concentrated</text>
+<text x="160" y="232" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="normal">at one narrow point</text>
+<path d="M 306,205 L 420,130 L 560,120" fill="none" stroke="#0f766e" stroke-width="3"/>
+<polygon points="549.8,114 549.8,126 560,120" fill="#0f766e"/>
+<path d="M 306,205 L 430,205 L 560,205" fill="none" stroke="#0f766e" stroke-width="3"/>
+<polygon points="549.8,199 549.8,211 560,205" fill="#0f766e"/>
+<path d="M 306,205 L 420,280 L 560,290" fill="none" stroke="#0f766e" stroke-width="3"/>
+<polygon points="549.8,284 549.8,296 560,290" fill="#0f766e"/>
+<text x="470" y="96" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="normal">then fan out behind the line and encircle</text>
+<text x="60" y="336" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">1. bombers and Stukas hit airfields, roads and railways</text>
+<text x="60" y="358" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">2. tanks are massed at one point instead of spread out</text>
+<text x="60" y="380" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">3. they punch a hole rather than push the whole line</text>
+<text x="60" y="402" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">4. armour drives deep and surrounds what is left behind</text>
+<text x="60" y="424" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">5. infantry follows to mop up the encircled pockets</text>
+<text x="430.0" y="452" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">the whole point was speed, a war of movement instead of a war of position</text>
+</svg>

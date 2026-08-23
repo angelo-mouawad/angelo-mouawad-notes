@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 370" width="840" height="370" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="840" height="370" fill="#ffffff"/>
+<text x="420.0" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#1f2933" text-anchor="middle" font-weight="bold">Reading the output of ls -l</text>
+<text x="420.0" y="72" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="normal">-rw-r--r--   1  angelo  staff  4096  Jan 12  notes.txt</text>
+<rect x="180" y="100" width="70" height="56" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="215.0" y="133.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="19" fill="#1f2933" text-anchor="middle" font-weight="normal">-</text>
+<path d="M 215.0,156 L 215.0,178" fill="none" stroke="#64748b" stroke-width="2"/>
+<polygon points="209.0,167.8 221.0,167.8 215.0,178" fill="#64748b"/>
+<text x="215.0" y="200" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#0f766e" text-anchor="middle" font-weight="bold">type</text>
+<text x="215.0" y="222" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">- is a file</text>
+<text x="215.0" y="241" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">d is a directory</text>
+<rect x="260" y="100" width="110" height="56" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="315.0" y="133.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="19" fill="#1f2933" text-anchor="middle" font-weight="normal">rw-</text>
+<path d="M 315.0,156 L 315.0,178" fill="none" stroke="#64748b" stroke-width="2"/>
+<polygon points="309.0,167.8 321.0,167.8 315.0,178" fill="#64748b"/>
+<text x="315.0" y="200" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#0f766e" text-anchor="middle" font-weight="bold">owner</text>
+<text x="315.0" y="222" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">read, write,</text>
+<text x="315.0" y="241" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">no execute</text>
+<rect x="380" y="100" width="110" height="56" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="435.0" y="133.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="19" fill="#1f2933" text-anchor="middle" font-weight="normal">r--</text>
+<path d="M 435.0,156 L 435.0,178" fill="none" stroke="#64748b" stroke-width="2"/>
+<polygon points="429.0,167.8 441.0,167.8 435.0,178" fill="#64748b"/>
+<text x="435.0" y="200" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#0f766e" text-anchor="middle" font-weight="bold">group</text>
+<text x="435.0" y="222" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">read only</text>
+<rect x="500" y="100" width="110" height="56" rx="6" fill="#ede9fe" stroke="#334155" stroke-width="2"/>
+<text x="555.0" y="133.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="19" fill="#1f2933" text-anchor="middle" font-weight="normal">r--</text>
+<path d="M 555.0,156 L 555.0,178" fill="none" stroke="#64748b" stroke-width="2"/>
+<polygon points="549.0,167.8 561.0,167.8 555.0,178" fill="#64748b"/>
+<text x="555.0" y="200" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#0f766e" text-anchor="middle" font-weight="bold">others</text>
+<text x="555.0" y="222" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">read only</text>
+<rect x="260" y="264" width="110" height="42" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="315.0" y="290.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" fill="#1f2933" text-anchor="middle" font-weight="normal">6</text>
+<rect x="380" y="264" width="110" height="42" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="435.0" y="290.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" fill="#1f2933" text-anchor="middle" font-weight="normal">4</text>
+<rect x="500" y="264" width="110" height="42" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="555.0" y="290.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" fill="#1f2933" text-anchor="middle" font-weight="normal">4</text>
+<text x="640" y="288" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" fill="#0f766e" text-anchor="start" font-weight="normal">chmod 644 notes.txt</text>
+<text x="420.0" y="336" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">r is 4, w is 2, x is 1, and you add them up inside each group</text>
+<text x="420.0" y="358" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">chown changes who the owner and the group are, chmod changes what they may do</text>
+</svg>

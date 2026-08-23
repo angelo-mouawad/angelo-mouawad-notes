@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 450" width="780" height="450" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="780" height="450" fill="#ffffff"/>
+<text x="390.0" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#1f2933" text-anchor="middle" font-weight="bold">Where things live on a Linux box</text>
+<rect x="50" y="66" width="80" height="34" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="90.0" y="88.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="normal">/</text>
+<line x1="70" y1="100" x2="70" y2="399" stroke="#64748b" stroke-width="2"/>
+<line x1="70" y1="133" x2="155" y2="133" stroke="#64748b" stroke-width="2"/>
+<rect x="155" y="118" width="130" height="30" rx="4" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="220" y="139" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">/bin</text>
+<text x="310" y="139" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="start" font-weight="normal">the programs themselves</text>
+<line x1="70" y1="171" x2="155" y2="171" stroke="#64748b" stroke-width="2"/>
+<rect x="155" y="156" width="130" height="30" rx="4" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="220" y="177" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">/etc</text>
+<text x="310" y="177" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="start" font-weight="normal">configuration files</text>
+<line x1="70" y1="209" x2="155" y2="209" stroke="#64748b" stroke-width="2"/>
+<rect x="155" y="194" width="130" height="30" rx="4" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="220" y="215" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">/home</text>
+<text x="310" y="215" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="start" font-weight="normal">one folder per user, your stuff</text>
+<line x1="70" y1="247" x2="155" y2="247" stroke="#64748b" stroke-width="2"/>
+<rect x="155" y="232" width="130" height="30" rx="4" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="220" y="253" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">/var</text>
+<text x="310" y="253" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="start" font-weight="normal">logs and anything that grows</text>
+<line x1="70" y1="285" x2="155" y2="285" stroke="#64748b" stroke-width="2"/>
+<rect x="155" y="270" width="130" height="30" rx="4" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="220" y="291" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">/tmp</text>
+<text x="310" y="291" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="start" font-weight="normal">scratch space, wiped on reboot</text>
+<line x1="70" y1="323" x2="155" y2="323" stroke="#64748b" stroke-width="2"/>
+<rect x="155" y="308" width="130" height="30" rx="4" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="220" y="329" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">/dev</text>
+<text x="310" y="329" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="start" font-weight="normal">devices, including your disks</text>
+<line x1="70" y1="361" x2="155" y2="361" stroke="#64748b" stroke-width="2"/>
+<rect x="155" y="346" width="130" height="30" rx="4" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="220" y="367" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">/mnt</text>
+<text x="310" y="367" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="start" font-weight="normal">where you mount extra drives</text>
+<line x1="70" y1="399" x2="155" y2="399" stroke="#64748b" stroke-width="2"/>
+<rect x="155" y="384" width="130" height="30" rx="4" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="220" y="405" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">/usr</text>
+<text x="310" y="405" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="start" font-weight="normal">software installed by the package manager</text>
+<text x="390.0" y="436" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">everything hangs off a single root, there are no drive letters</text>
+</svg>

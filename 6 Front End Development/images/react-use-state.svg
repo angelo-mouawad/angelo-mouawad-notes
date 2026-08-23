@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 310" width="880" height="310" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="880" height="310" fill="#ffffff"/>
+<text x="440" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">State is what makes a component remember</text>
+<rect x="30" y="108" width="268" height="68" rx="6" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="44" y="137" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">const [name, setName]</text>
+<text x="44" y="157" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">  = useState&lt;string&gt;('');</text>
+<text x="164" y="190" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">value and setter, always a pair</text>
+<rect x="340" y="70" width="200" height="56" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="440.0" y="103.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">the state changes</text>
+<rect x="600" y="70" width="240" height="56" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="720.0" y="103.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">React re-renders</text>
+<rect x="600" y="184" width="240" height="56" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="720.0" y="217.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">the user does something</text>
+<rect x="340" y="184" width="200" height="56" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="440.0" y="217.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">setName is called</text>
+<path d="M 544,98 L 594,98" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="584.0,93.0 584.0,103.0 594,98" fill="#334155"/>
+<path d="M 720,128 L 720,178" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="715.0,168.0 725.0,168.0 720,178" fill="#334155"/>
+<path d="M 596,212 L 546,212" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="556.0,207.0 556.0,217.0 546,212" fill="#334155"/>
+<path d="M 440,180 L 440,132" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="435.0,142.0 445.0,142.0 440,132" fill="#334155"/>
+<text x="440" y="290" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">a plain variable would be forgotten on the next render, a state variable is not</text>
+</svg>

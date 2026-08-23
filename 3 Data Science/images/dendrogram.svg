@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 330" width="900" height="330" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="900" height="330" fill="#ffffff"/>
+<line x1="120" y1="250" x2="120" y2="264" stroke="#334155" stroke-width="2"/>
+<text x="120" y="284" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">A</text>
+<line x1="200" y1="250" x2="200" y2="264" stroke="#334155" stroke-width="2"/>
+<text x="200" y="284" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">B</text>
+<line x1="300" y1="250" x2="300" y2="264" stroke="#334155" stroke-width="2"/>
+<text x="300" y="284" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">C</text>
+<line x1="400" y1="250" x2="400" y2="264" stroke="#334155" stroke-width="2"/>
+<text x="400" y="284" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">D</text>
+<line x1="520" y1="250" x2="520" y2="264" stroke="#334155" stroke-width="2"/>
+<text x="520" y="284" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">E</text>
+<line x1="120" y1="200" x2="200" y2="200" stroke="#0f766e" stroke-width="2.5"/>
+<line x1="120" y1="200" x2="120" y2="250" stroke="#0f766e" stroke-width="2.5"/>
+<line x1="200" y1="200" x2="200" y2="250" stroke="#0f766e" stroke-width="2.5"/>
+<line x1="400" y1="190" x2="520" y2="190" stroke="#0f766e" stroke-width="2.5"/>
+<line x1="400" y1="190" x2="400" y2="250" stroke="#0f766e" stroke-width="2.5"/>
+<line x1="520" y1="190" x2="520" y2="250" stroke="#0f766e" stroke-width="2.5"/>
+<line x1="160" y1="140" x2="300" y2="140" stroke="#0f766e" stroke-width="2.5"/>
+<line x1="160" y1="140" x2="160" y2="200" stroke="#0f766e" stroke-width="2.5"/>
+<line x1="300" y1="140" x2="300" y2="250" stroke="#0f766e" stroke-width="2.5"/>
+<line x1="230" y1="90" x2="460" y2="90" stroke="#0f766e" stroke-width="2.5"/>
+<line x1="230" y1="90" x2="230" y2="140" stroke="#0f766e" stroke-width="2.5"/>
+<line x1="460" y1="90" x2="460" y2="190" stroke="#0f766e" stroke-width="2.5"/>
+<path d="M 640,70 L 640,250" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="635,240 645,240 640,250" fill="#334155"/>
+<text x="700" y="110" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">built from the top down</text>
+<path d="M 675,250 L 675,70" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="670,80 680,80 675,70" fill="#334155"/>
+<text x="700" y="230" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">or from the bottom up</text>
+<text x="320" y="40" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">the merges pile up until everything is one cluster</text>
+<text x="320" y="300" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">the height of a join is the distance between the two clusters</text>
+</svg>

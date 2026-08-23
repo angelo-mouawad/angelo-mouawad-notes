@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" width="900" height="320" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="900" height="320" fill="#ffffff"/>
+<text x="450" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Write once, run anywhere</text>
+<rect x="40" y="80" width="170" height="80" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="125.0" y="117.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="normal">Main.java</text>
+<text x="125.0" y="136.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">the source you write</text>
+<path d="M 212,120 L 250,120" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="240.0,115.0 240.0,125.0 250,120" fill="#334155"/>
+<text x="231" y="108" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#0f766e" text-anchor="middle" font-weight="normal">javac</text>
+<rect x="256" y="80" width="170" height="80" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="341.0" y="117.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="normal">Main.class</text>
+<text x="341.0" y="136.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">bytecode</text>
+<path d="M 428,120 L 466,120" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="456.0,115.0 456.0,125.0 466,120" fill="#334155"/>
+<rect x="472" y="80" width="170" height="80" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="557.0" y="117.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#1f2933" text-anchor="middle" font-weight="normal">JVM</text>
+<text x="557.0" y="136.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">reads the bytecode</text>
+<rect x="660" y="74" width="200" height="28" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="1"/>
+<text x="760" y="93" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Windows</text>
+<rect x="660" y="108" width="200" height="28" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="1"/>
+<text x="760" y="127" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">macOS</text>
+<rect x="660" y="142" width="200" height="28" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="1"/>
+<text x="760" y="161" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Linux</text>
+<path d="M 644,120 L 656,120" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="646.0,115.0 646.0,125.0 656,120" fill="#334155"/>
+<rect x="40" y="202" width="820" height="96" rx="8" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="450" y="228" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">the bytecode is the same everywhere, the JVM is what differs per platform</text>
+<text x="450" y="254" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">JDK is what you develop with, JRE is what runs it, JVM is the machine inside the JRE</text>
+<text x="450" y="280" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">javac turns source into bytecode, java starts the JVM and runs it</text>
+</svg>

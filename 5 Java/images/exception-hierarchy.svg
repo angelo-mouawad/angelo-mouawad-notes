@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="900" height="420" fill="#ffffff"/>
+<text x="450" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Checked or unchecked, and why it matters</text>
+<rect x="360" y="60" width="180" height="44" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="450.0" y="87.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">Throwable</text>
+<path d="M 450,104 L 450,126 L 200,126 L 200,148" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="195.0,138.0 205.0,138.0 200,148" fill="#334155"/>
+<path d="M 450,104 L 450,126 L 620,126 L 620,148" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="615.0,138.0 625.0,138.0 620,148" fill="#334155"/>
+<rect x="110" y="150" width="180" height="44" rx="6" fill="#fecaca" stroke="#334155" stroke-width="2"/>
+<text x="200.0" y="177.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">Error</text>
+<text x="200" y="216" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">the JVM is in trouble</text>
+<text x="200" y="234" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">OutOfMemoryError</text>
+<text x="200" y="252" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#b91c1c" text-anchor="middle" font-weight="bold">do not catch these</text>
+<rect x="530" y="150" width="180" height="44" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="620.0" y="177.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">Exception</text>
+<path d="M 620,194 L 620,216 L 450,216 L 450,238" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="445.0,228.0 455.0,228.0 450,238" fill="#334155"/>
+<path d="M 620,194 L 620,216 L 790,216 L 790,238" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="785.0,228.0 795.0,228.0 790,238" fill="#334155"/>
+<rect x="360" y="240" width="180" height="44" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="450.0" y="267.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">IOException</text>
+<text x="450" y="306" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="bold">checked</text>
+<text x="450" y="328" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">the compiler forces you to</text>
+<text x="450" y="346" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">catch it or declare throws</text>
+<rect x="700" y="240" width="180" height="44" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="790.0" y="267.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">RuntimeException</text>
+<text x="790" y="306" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1d4ed8" text-anchor="middle" font-weight="bold">unchecked</text>
+<text x="790" y="328" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">the compiler says nothing</text>
+<text x="790" y="346" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">NullPointerException</text>
+<rect x="40" y="372" width="820" height="38" rx="6" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="450" y="396" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">throw new Exception("...") is checked, so the method must declare throws Exception</text>
+</svg>

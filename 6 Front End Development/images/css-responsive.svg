@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 400" width="880" height="400" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="880" height="400" fill="#ffffff"/>
+<text x="440" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">One stylesheet, three screen widths</text>
+<rect x="90" y="64" width="130" height="168" rx="8" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<rect x="100.0" y="78" width="110.0" height="140" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="1"/>
+<text x="155.0" y="258" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#0f766e" text-anchor="middle" font-weight="bold">phone</text>
+<text x="155.0" y="280" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">max-width: 768px</text>
+<rect x="300" y="64" width="220" height="168" rx="8" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<rect x="310.0" y="78" width="95.0" height="140" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="1"/>
+<rect x="415.0" y="78" width="95.0" height="140" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="1"/>
+<text x="410.0" y="258" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#0f766e" text-anchor="middle" font-weight="bold">tablet</text>
+<text x="410.0" y="280" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">max-width: 1155px</text>
+<rect x="580" y="64" width="260" height="168" rx="8" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<rect x="590.0" y="78" width="73.33333333333333" height="140" rx="6" fill="#fde68a" stroke="#334155" stroke-width="1"/>
+<rect x="673.3333333333334" y="78" width="73.33333333333333" height="140" rx="6" fill="#fde68a" stroke="#334155" stroke-width="1"/>
+<rect x="756.6666666666666" y="78" width="73.33333333333333" height="140" rx="6" fill="#fde68a" stroke="#334155" stroke-width="1"/>
+<text x="710.0" y="258" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#0f766e" text-anchor="middle" font-weight="bold">desktop</text>
+<text x="710.0" y="280" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">wider than that</text>
+<rect x="180" y="300" width="520" height="85" rx="6" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="194" y="328" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">@media screen and (max-width: 768px) {</text>
+<text x="194" y="347" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">    .card { flex-direction: column; }</text>
+<text x="194" y="366" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">}</text>
+</svg>

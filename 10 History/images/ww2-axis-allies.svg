@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 870 470" width="870" height="470" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="870" height="470" fill="#ffffff"/>
+<text x="435.0" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#1f2933" text-anchor="middle" font-weight="bold">Axis and Allies</text>
+<rect x="40" y="58" width="360" height="322" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="220" y="86" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#b91c1c" text-anchor="middle" font-weight="bold">The Axis</text>
+<rect x="60" y="104" width="160" height="76" rx="6" fill="#fee2e2" stroke="#334155" stroke-width="2"/>
+<text x="140.0" y="147.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">Germany</text>
+<rect x="230" y="104" width="160" height="76" rx="6" fill="#fee2e2" stroke="#334155" stroke-width="2"/>
+<text x="310.0" y="138.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">Italy</text>
+<text x="310.0" y="157.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#64748b" text-anchor="middle" font-weight="normal">out in 1943</text>
+<rect x="60" y="196" width="160" height="76" rx="6" fill="#fee2e2" stroke="#334155" stroke-width="2"/>
+<text x="140.0" y="239.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">Japan</text>
+<rect x="230" y="196" width="160" height="76" rx="6" fill="#fee2e2" stroke="#334155" stroke-width="2"/>
+<text x="310.0" y="239.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">Hungary</text>
+<rect x="60" y="288" width="160" height="76" rx="6" fill="#fee2e2" stroke="#334155" stroke-width="2"/>
+<text x="140.0" y="322.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">Romania</text>
+<text x="140.0" y="341.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#64748b" text-anchor="middle" font-weight="normal">switched sides 1944</text>
+<rect x="230" y="288" width="160" height="76" rx="6" fill="#fee2e2" stroke="#334155" stroke-width="2"/>
+<text x="310.0" y="322.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">Bulgaria</text>
+<text x="310.0" y="341.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#64748b" text-anchor="middle" font-weight="normal">switched sides 1944</text>
+<rect x="470" y="58" width="360" height="322" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="650" y="86" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1d4ed8" text-anchor="middle" font-weight="bold">The Allies</text>
+<rect x="490" y="104" width="160" height="76" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="570.0" y="138.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">Britain</text>
+<text x="570.0" y="157.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#64748b" text-anchor="middle" font-weight="normal">and the Commonwealth</text>
+<rect x="660" y="104" width="160" height="76" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="740.0" y="138.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">France</text>
+<text x="740.0" y="157.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#64748b" text-anchor="middle" font-weight="normal">and the Free French</text>
+<rect x="490" y="196" width="160" height="76" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="570.0" y="230.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">Soviet Union</text>
+<text x="570.0" y="249.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#64748b" text-anchor="middle" font-weight="normal">from June 1941</text>
+<rect x="660" y="196" width="160" height="76" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="740.0" y="230.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">United States</text>
+<text x="740.0" y="249.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#64748b" text-anchor="middle" font-weight="normal">from Dec 1941</text>
+<rect x="490" y="288" width="160" height="76" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="570.0" y="322.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">China</text>
+<text x="570.0" y="341.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#64748b" text-anchor="middle" font-weight="normal">fighting since 1937</text>
+<rect x="660" y="288" width="160" height="76" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="740.0" y="322.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">and many more</text>
+<text x="740.0" y="341.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#64748b" text-anchor="middle" font-weight="normal">over 50 by 1945</text>
+<text x="435.0" y="414" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">the Soviet Union began the war on the other side of the ledger, having signed a pact with</text>
+<text x="435.0" y="438" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">Germany in 1939 and taken its share of Poland, and only became an ally once it was invaded</text>
+<text x="435.0" y="462" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">Italy surrendered in 1943 and then declared war on Germany</text>
+</svg>

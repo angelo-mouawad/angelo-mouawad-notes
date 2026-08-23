@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 340" width="880" height="340" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="880" height="340" fill="#ffffff"/>
+<text x="440" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">A transaction is all of it or none of it</text>
+<rect x="40" y="58" width="390" height="240" rx="8" fill="#f0fdfa" stroke="#0f766e" stroke-width="2"/>
+<text x="235" y="84" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#0f766e" text-anchor="middle" font-weight="bold">commit</text>
+<rect x="70" y="100" width="320" height="42" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="230.0" y="126.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">save the User</text>
+<path d="M 230,142 L 230,158" fill="none" stroke="#0f766e" stroke-width="2"/>
+<polygon points="225.0,148.0 235.0,148.0 230,158" fill="#0f766e"/>
+<rect x="70" y="160" width="320" height="42" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="230.0" y="186.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">save the Lecturer</text>
+<path d="M 230,202 L 230,218" fill="none" stroke="#0f766e" stroke-width="2"/>
+<polygon points="225.0,208.0 235.0,208.0 230,218" fill="#0f766e"/>
+<rect x="70" y="220" width="320" height="42" rx="6" fill="#0f766e" stroke="#0f766e" stroke-width="2"/>
+<text x="230.0" y="246.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="normal">COMMIT</text>
+<text x="235" y="284" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">both rows are now permanent</text>
+<rect x="450" y="58" width="390" height="240" rx="8" fill="#fef2f2" stroke="#b91c1c" stroke-width="2"/>
+<text x="645" y="84" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#b91c1c" text-anchor="middle" font-weight="bold">rollback</text>
+<rect x="480" y="100" width="320" height="42" rx="6" fill="#fecaca" stroke="#334155" stroke-width="2"/>
+<text x="640.0" y="126.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">save the User</text>
+<path d="M 640,142 L 640,158" fill="none" stroke="#b91c1c" stroke-width="2"/>
+<polygon points="635.0,148.0 645.0,148.0 640,158" fill="#b91c1c"/>
+<rect x="480" y="160" width="320" height="42" rx="6" fill="#fecaca" stroke="#334155" stroke-width="2"/>
+<text x="640.0" y="186.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">save the Lecturer fails</text>
+<path d="M 640,202 L 640,218" fill="none" stroke="#b91c1c" stroke-width="2"/>
+<polygon points="635.0,208.0 645.0,208.0 640,218" fill="#b91c1c"/>
+<rect x="480" y="220" width="320" height="42" rx="6" fill="#b91c1c" stroke="#b91c1c" stroke-width="2"/>
+<text x="640.0" y="246.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="normal">ROLLBACK</text>
+<text x="645" y="284" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">the User is undone too, no half saved data</text>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 280" width="620" height="280" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="620" height="280" fill="#ffffff"/>
+<text x="265.0" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">the string "abcde"</text>
+<rect x="110" y="60" width="62" height="60" rx="0" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="141.0" y="95.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="22" fill="#1f2933" text-anchor="middle">a</text>
+<text x="141.0" y="145" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#0f766e" text-anchor="middle" font-weight="normal">0</text>
+<text x="141.0" y="175" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#b91c1c" text-anchor="middle" font-weight="normal">-5</text>
+<rect x="172" y="60" width="62" height="60" rx="0" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="203.0" y="95.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="22" fill="#1f2933" text-anchor="middle">b</text>
+<text x="203.0" y="145" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#0f766e" text-anchor="middle" font-weight="normal">1</text>
+<text x="203.0" y="175" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#b91c1c" text-anchor="middle" font-weight="normal">-4</text>
+<rect x="234" y="60" width="62" height="60" rx="0" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="265.0" y="95.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="22" fill="#1f2933" text-anchor="middle">c</text>
+<text x="265.0" y="145" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#0f766e" text-anchor="middle" font-weight="normal">2</text>
+<text x="265.0" y="175" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#b91c1c" text-anchor="middle" font-weight="normal">-3</text>
+<rect x="296" y="60" width="62" height="60" rx="0" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="327.0" y="95.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="22" fill="#1f2933" text-anchor="middle">d</text>
+<text x="327.0" y="145" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#0f766e" text-anchor="middle" font-weight="normal">3</text>
+<text x="327.0" y="175" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#b91c1c" text-anchor="middle" font-weight="normal">-2</text>
+<rect x="358" y="60" width="62" height="60" rx="0" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="389.0" y="95.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="22" fill="#1f2933" text-anchor="middle">e</text>
+<text x="389.0" y="145" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#0f766e" text-anchor="middle" font-weight="normal">4</text>
+<text x="389.0" y="175" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#b91c1c" text-anchor="middle" font-weight="normal">-1</text>
+<text x="95" y="145" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="end" font-weight="normal">index</text>
+<text x="95" y="175" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#b91c1c" text-anchor="end" font-weight="normal">negative</text>
+<rect x="172" y="55" width="186" height="70" rx="4" fill="none" stroke="#0f766e" stroke-width="3" stroke-dasharray="6 4"/>
+<text x="265.0" y="225" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" fill="#0f766e" text-anchor="middle" font-weight="normal">"abcde"[1:4] gives "bcd"</text>
+<text x="265.0" y="252" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">the start index is included, the end index is excluded</text>
+</svg>

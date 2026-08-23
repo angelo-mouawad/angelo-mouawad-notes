@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 370" width="820" height="370" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="820" height="370" fill="#ffffff"/>
+<text x="410.0" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#1f2933" text-anchor="middle" font-weight="bold">Counting the addresses in 192.168.1.0/24</text>
+<text x="180" y="76" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#64748b" text-anchor="end" font-weight="normal">IP address</text>
+<text x="200" y="76" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" fill="#1f2933" text-anchor="start" font-weight="normal">192.168.1.0</text>
+<text x="180" y="110" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#64748b" text-anchor="end" font-weight="normal">Subnet mask</text>
+<text x="200" y="110" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" fill="#1f2933" text-anchor="start" font-weight="normal">255.255.255.0</text>
+<text x="180" y="148" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#64748b" text-anchor="end" font-weight="normal">In binary</text>
+<rect x="197" y="130" width="268" height="26" rx="3" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<rect x="465" y="130" width="92" height="26" rx="3" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="200" y="148" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#1f2933" text-anchor="start" font-weight="normal">11111111.11111111.11111111</text>
+<text x="466" y="148" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#1f2933" text-anchor="start" font-weight="normal">.00000000</text>
+<text x="331" y="178" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="normal">24 ones, the network</text>
+<text x="511" y="178" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#b91c1c" text-anchor="middle" font-weight="normal">8 zeros, the host</text>
+<rect x="30" y="200" width="240" height="80" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="150.0" y="236.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="normal">2⁸ = 256</text>
+<text x="150.0" y="255.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">possible addresses</text>
+<rect x="290" y="200" width="240" height="80" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="410.0" y="236.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="normal">256 - 2 = 254</text>
+<text x="410.0" y="255.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">usable addresses</text>
+<rect x="550" y="200" width="240" height="80" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="670.0" y="236.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="normal">192.168.1.1 to .254</text>
+<text x="670.0" y="255.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">the usable range</text>
+<text x="410.0" y="314" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">all host bits 0 gives 192.168.1.0, the network address, and it is not usable</text>
+<text x="410.0" y="338" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">all host bits 1 gives 192.168.1.255, the broadcast address, and it is not usable either</text>
+</svg>

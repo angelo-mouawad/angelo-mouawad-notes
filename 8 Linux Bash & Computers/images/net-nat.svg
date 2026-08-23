@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="800" height="450" fill="#ffffff"/>
+<text x="400.0" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#1f2933" text-anchor="middle" font-weight="bold">NAT, one public address for the whole house</text>
+<ellipse cx="400" cy="76" rx="110" ry="34" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="400" y="81" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">Internet</text>
+<path d="M 400,112 L 400,146" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="394,135.8 406,135.8 400,146" fill="#334155"/>
+<text x="430" y="138" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1d4ed8" text-anchor="start" font-weight="normal">67.123.45.67, the public IP</text>
+<line x1="30" y1="178" x2="300" y2="178" stroke="#64748b" stroke-width="2" stroke-dasharray="6 5"/>
+<line x1="500" y1="178" x2="770" y2="178" stroke="#64748b" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="60" y="168" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="start" font-weight="normal">WAN</text>
+<text x="60" y="200" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="start" font-weight="normal">LAN</text>
+<rect x="300" y="150" width="200" height="58" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="400.0" y="184.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="bold">Router</text>
+<path d="M 400,208 L 400,258" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="394,247.8 406,247.8 400,258" fill="#334155"/>
+<line x1="170" y1="258" x2="670" y2="258" stroke="#334155" stroke-width="2"/>
+<line x1="170" y1="258" x2="170" y2="320" stroke="#334155" stroke-width="2"/>
+<rect x="90" y="320" width="160" height="70" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="170.0" y="351.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="normal">Phone</text>
+<text x="170.0" y="370.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="normal">10.0.0.1</text>
+<line x1="420" y1="258" x2="420" y2="320" stroke="#334155" stroke-width="2"/>
+<rect x="340" y="320" width="160" height="70" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="420.0" y="351.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="normal">Tablet</text>
+<text x="420.0" y="370.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="normal">10.0.0.2</text>
+<line x1="670" y1="258" x2="670" y2="320" stroke="#334155" stroke-width="2"/>
+<rect x="590" y="320" width="160" height="70" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="670.0" y="351.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="normal">Laptop</text>
+<text x="670.0" y="370.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="normal">10.0.0.3</text>
+<text x="400.0" y="416" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">the router swaps the private address for the public one on the way out,</text>
+<text x="400.0" y="438" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">and swaps it back on the way in, so only the router needs a public address</text>
+</svg>

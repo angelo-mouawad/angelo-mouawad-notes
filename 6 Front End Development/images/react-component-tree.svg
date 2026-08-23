@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 400" width="880" height="400" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="880" height="400" fill="#ffffff"/>
+<text x="440" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">A page is components inside components</text>
+<rect x="40" y="56" width="380" height="320" rx="8" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<rect x="60" y="76" width="340" height="44" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="230.0" y="103.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">Header</text>
+<rect x="60" y="132" width="340" height="168" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="230" y="156" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">Home</text>
+<rect x="80" y="168" width="300" height="54" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="230.0" y="200.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">Greeting</text>
+<rect x="80" y="232" width="300" height="54" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="230.0" y="264.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">ProductList</text>
+<rect x="60" y="312" width="340" height="44" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="230.0" y="339.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">Footer</text>
+<path d="M 432,216 L 466,216" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="456.0,211.0 456.0,221.0 466,216" fill="#334155"/>
+<rect x="600" y="66" width="180" height="40" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="690.0" y="91.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">RootLayout</text>
+<path d="M 690,106 L 690,124 L 560,124 L 560,142" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="555.0,132.0 565.0,132.0 560,142" fill="#334155"/>
+<path d="M 690,106 L 690,124 L 820,124 L 820,142" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="815.0,132.0 825.0,132.0 820,142" fill="#334155"/>
+<rect x="495" y="144" width="130" height="38" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="560.0" y="168.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Header</text>
+<rect x="755" y="144" width="130" height="38" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="820.0" y="168.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Footer</text>
+<path d="M 690,106 L 690,200 L 690,218" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="685.0,208.0 695.0,208.0 690,218" fill="#334155"/>
+<rect x="620" y="220" width="140" height="38" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="690.0" y="244.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Home</text>
+<path d="M 690,258 L 690,278 L 580,278 L 580,296" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="575.0,286.0 585.0,286.0 580,296" fill="#334155"/>
+<path d="M 690,258 L 690,278 L 800,278 L 800,296" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="795.0,286.0 805.0,286.0 800,296" fill="#334155"/>
+<rect x="510" y="298" width="140" height="38" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="580.0" y="322.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Greeting</text>
+<rect x="730" y="298" width="140" height="38" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="800.0" y="322.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">ProductList</text>
+<text x="690" y="368" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">each one is a function in its own file</text>
+</svg>

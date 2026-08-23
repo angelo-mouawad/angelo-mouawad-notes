@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 460" width="900" height="460" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="900" height="460" fill="#ffffff"/>
+<text x="450" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Signup, login, and every request after that</text>
+<rect x="60" y="62" width="160" height="40" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="140.0" y="87.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">Client</text>
+<rect x="400" y="62" width="160" height="40" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="480.0" y="87.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">Backend</text>
+<rect x="720" y="62" width="130" height="40" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="785.0" y="87.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">Database</text>
+<line x1="140" y1="104" x2="140" y2="400" stroke="#cbd5e1" stroke-width="2" stroke-dasharray="5 4"/>
+<line x1="480" y1="104" x2="480" y2="400" stroke="#cbd5e1" stroke-width="2" stroke-dasharray="5 4"/>
+<line x1="785" y1="104" x2="785" y2="400" stroke="#cbd5e1" stroke-width="2" stroke-dasharray="5 4"/>
+<path d="M 142,130 L 476,130" fill="none" stroke="#0f766e" stroke-width="2"/>
+<polygon points="466.0,125.0 466.0,135.0 476,130" fill="#0f766e"/>
+<text x="309" y="122" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="bold">POST /users/signup</text>
+<text x="309" y="144" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" fill="#1f2933" text-anchor="middle" font-weight="normal">{ username, password }</text>
+<rect x="390" y="158" width="180" height="36" rx="6" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="480" y="173" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#b91c1c" text-anchor="middle" font-weight="bold">hash with BCrypt</text>
+<text x="480" y="188" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="9" fill="#1f2933" text-anchor="middle" font-weight="normal">never store plain text</text>
+<path d="M 482,222 L 781,222" fill="none" stroke="#0f766e" stroke-width="2"/>
+<polygon points="771.0,217.0 771.0,227.0 781,222" fill="#0f766e"/>
+<text x="631" y="214" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="bold">save the user</text>
+<path d="M 142,272 L 476,272" fill="none" stroke="#0f766e" stroke-width="2"/>
+<polygon points="466.0,267.0 466.0,277.0 476,272" fill="#0f766e"/>
+<text x="309" y="264" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="bold">POST /users/login</text>
+<text x="309" y="286" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" fill="#1f2933" text-anchor="middle" font-weight="normal">{ username, password }</text>
+<rect x="390" y="300" width="180" height="36" rx="6" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="480" y="315" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1d4ed8" text-anchor="middle" font-weight="bold">compare the hashes</text>
+<text x="480" y="330" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="9" fill="#1f2933" text-anchor="middle" font-weight="normal">then build a JWT</text>
+<path d="M 478,364 L 144,364" fill="none" stroke="#1d4ed8" stroke-width="2"/>
+<polygon points="154.0,359.0 154.0,369.0 144,364" fill="#1d4ed8"/>
+<text x="311" y="356" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1d4ed8" text-anchor="middle" font-weight="bold">the JWT, as an HttpOnly cookie</text>
+<line x1="60" y1="396" x2="850" y2="396" stroke="#334155" stroke-width="1.5" stroke-dasharray="4 4"/>
+<path d="M 142,424 L 476,424" fill="none" stroke="#0f766e" stroke-width="2"/>
+<polygon points="466.0,419.0 466.0,429.0 476,424" fill="#0f766e"/>
+<text x="309" y="416" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="bold">every later request carries the token</text>
+<rect x="600" y="404" width="250" height="44" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="725" y="422" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">no session is stored on the server</text>
+<text x="725" y="438" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">the token itself is the proof</text>
+</svg>

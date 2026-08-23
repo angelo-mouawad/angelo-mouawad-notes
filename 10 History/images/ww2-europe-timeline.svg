@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 898" width="900" height="898" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="900" height="898" fill="#ffffff"/>
+<text x="450.0" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#1f2933" text-anchor="middle" font-weight="bold">The war in Europe, year by year</text>
+<rect x="40" y="62" width="90" height="60" rx="4" fill="#fee2e2" stroke="#334155" stroke-width="2"/>
+<text x="85" y="98.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="bold">1939</text>
+<text x="155" y="82" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">•  September, Germany and then the Soviet Union invade and divide Poland</text>
+<text x="155" y="112" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">•  the Phoney War, months of very little fighting in the west</text>
+<rect x="40" y="136" width="90" height="180" rx="4" fill="#fee2e2" stroke="#334155" stroke-width="2"/>
+<text x="85" y="232.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="bold">1940</text>
+<text x="155" y="156" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">•  April, Denmark and Norway fall</text>
+<text x="155" y="186" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">•  May, the invasion of the Low Countries and France</text>
+<text x="155" y="216" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">•  May to June, Dunkirk, and 338,000 men are evacuated</text>
+<text x="155" y="246" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">•  22 June, France signs an armistice</text>
+<text x="155" y="276" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">•  July to October, the Battle of Britain, the first German defeat</text>
+<text x="155" y="306" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">•  September onward, the Blitz on British cities</text>
+<rect x="40" y="330" width="90" height="90" rx="4" fill="#fee2e2" stroke="#334155" stroke-width="2"/>
+<text x="85" y="381.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="bold">1941</text>
+<text x="155" y="350" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">•  April, Yugoslavia and Greece are overrun</text>
+<text x="155" y="380" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">•  22 June, Operation Barbarossa, Germany invades the Soviet Union</text>
+<text x="155" y="410" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">•  September, the siege of Leningrad begins and lasts 872 days</text>
+<rect x="40" y="434" width="90" height="60" rx="4" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="85" y="470.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="bold">1942</text>
+<text x="155" y="454" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">•  October to November, El Alamein turns the war in North Africa</text>
+<text x="155" y="484" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">•  August, the battle for Stalingrad begins</text>
+<rect x="40" y="508" width="90" height="90" rx="4" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="85" y="559.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="bold">1943</text>
+<text x="155" y="528" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">•  February, the German Sixth Army surrenders at Stalingrad</text>
+<text x="155" y="558" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">•  July, Kursk, the largest tank battle ever fought</text>
+<text x="155" y="588" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">•  September, Italy surrenders and Germany occupies the north</text>
+<rect x="40" y="612" width="90" height="120" rx="4" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="85" y="678.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="bold">1944</text>
+<text x="155" y="632" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">•  6 June, D-Day, the Normandy landings</text>
+<text x="155" y="662" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">•  22 June, Operation Bagration wrecks German Army Group Centre</text>
+<text x="155" y="692" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">•  August, Paris is liberated</text>
+<text x="155" y="722" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">•  December, the Ardennes offensive, the last German attack in the west</text>
+<rect x="40" y="746" width="90" height="90" rx="4" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="85" y="797.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="bold">1945</text>
+<text x="155" y="766" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">•  February, Yalta divides the post war map</text>
+<text x="155" y="796" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">•  April, Soviet forces reach Berlin and Hitler kills himself</text>
+<text x="155" y="826" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">•  8 May, VE Day, Germany surrenders unconditionally</text>
+<text x="450.0" y="878" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">Germany was fighting on two fronts again from June 1941, which is the thing it had spent twenty years trying to avoid</text>
+</svg>

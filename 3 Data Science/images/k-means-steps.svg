@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 300" width="920" height="300" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="920" height="300" fill="#ffffff"/>
+<rect x="30" y="60" width="190" height="190" rx="4" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="125.0" y="42" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">1. Initialization</text>
+<circle cx="77.5" cy="193.0" r="5" fill="#64748b" opacity="0.85"/>
+<circle cx="90.8" cy="208.2" r="5" fill="#64748b" opacity="0.85"/>
+<circle cx="68.0" cy="170.2" r="5" fill="#64748b" opacity="0.85"/>
+<circle cx="96.5" cy="177.8" r="5" fill="#64748b" opacity="0.85"/>
+<circle cx="81.3" cy="155.0" r="5" fill="#64748b" opacity="0.85"/>
+<circle cx="163.0" cy="196.8" r="5" fill="#64748b" opacity="0.85"/>
+<circle cx="178.2" cy="177.8" r="5" fill="#64748b" opacity="0.85"/>
+<circle cx="185.8" cy="208.2" r="5" fill="#64748b" opacity="0.85"/>
+<circle cx="166.8" cy="164.5" r="5" fill="#64748b" opacity="0.85"/>
+<circle cx="121.2" cy="101.8" r="5" fill="#64748b" opacity="0.85"/>
+<circle cx="140.2" cy="88.5" r="5" fill="#64748b" opacity="0.85"/>
+<circle cx="106.0" cy="86.6" r="5" fill="#64748b" opacity="0.85"/>
+<circle cx="134.5" cy="113.2" r="5" fill="#64748b" opacity="0.85"/>
+<polygon points="96.5,117.5 105.5,126.5 96.5,135.5 87.5,126.5" fill="#0f766e" stroke="#334155" stroke-width="2"/>
+<polygon points="147.8,174.5 156.8,183.5 147.8,192.5 138.8,183.5" fill="#1d4ed8" stroke="#334155" stroke-width="2"/>
+<polygon points="144.0,127.0 153.0,136.0 144.0,145.0 135.0,136.0" fill="#b45309" stroke="#334155" stroke-width="2"/>
+<text x="125.0" y="276" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">pick k random centroids</text>
+<rect x="255" y="60" width="190" height="190" rx="4" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="350.0" y="42" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">2. Assignment</text>
+<circle cx="302.5" cy="193.0" r="5" fill="#0f766e" opacity="0.85"/>
+<circle cx="315.8" cy="208.2" r="5" fill="#1d4ed8" opacity="0.85"/>
+<circle cx="293.0" cy="170.2" r="5" fill="#0f766e" opacity="0.85"/>
+<circle cx="321.5" cy="177.8" r="5" fill="#0f766e" opacity="0.85"/>
+<circle cx="306.3" cy="155.0" r="5" fill="#0f766e" opacity="0.85"/>
+<circle cx="388.0" cy="196.8" r="5" fill="#1d4ed8" opacity="0.85"/>
+<circle cx="403.2" cy="177.8" r="5" fill="#1d4ed8" opacity="0.85"/>
+<circle cx="410.8" cy="208.2" r="5" fill="#1d4ed8" opacity="0.85"/>
+<circle cx="391.8" cy="164.5" r="5" fill="#1d4ed8" opacity="0.85"/>
+<circle cx="346.2" cy="101.8" r="5" fill="#0f766e" opacity="0.85"/>
+<circle cx="365.2" cy="88.5" r="5" fill="#b45309" opacity="0.85"/>
+<circle cx="331.0" cy="86.6" r="5" fill="#0f766e" opacity="0.85"/>
+<circle cx="359.5" cy="113.2" r="5" fill="#b45309" opacity="0.85"/>
+<polygon points="321.5,117.5 330.5,126.5 321.5,135.5 312.5,126.5" fill="#0f766e" stroke="#334155" stroke-width="2"/>
+<polygon points="372.8,174.5 381.8,183.5 372.8,192.5 363.8,183.5" fill="#1d4ed8" stroke="#334155" stroke-width="2"/>
+<polygon points="369.0,127.0 378.0,136.0 369.0,145.0 360.0,136.0" fill="#b45309" stroke="#334155" stroke-width="2"/>
+<text x="350.0" y="276" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">each point joins the closest one</text>
+<rect x="480" y="60" width="190" height="190" rx="4" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="575.0" y="42" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">3. Update</text>
+<circle cx="527.5" cy="193.0" r="5" fill="#0f766e" opacity="0.85"/>
+<circle cx="540.8" cy="208.2" r="5" fill="#0f766e" opacity="0.85"/>
+<circle cx="518.0" cy="170.2" r="5" fill="#0f766e" opacity="0.85"/>
+<circle cx="546.5" cy="177.8" r="5" fill="#0f766e" opacity="0.85"/>
+<circle cx="531.3" cy="155.0" r="5" fill="#0f766e" opacity="0.85"/>
+<circle cx="613.0" cy="196.8" r="5" fill="#1d4ed8" opacity="0.85"/>
+<circle cx="628.2" cy="177.8" r="5" fill="#1d4ed8" opacity="0.85"/>
+<circle cx="635.8" cy="208.2" r="5" fill="#1d4ed8" opacity="0.85"/>
+<circle cx="616.8" cy="164.5" r="5" fill="#1d4ed8" opacity="0.85"/>
+<circle cx="571.2" cy="101.8" r="5" fill="#b45309" opacity="0.85"/>
+<circle cx="590.2" cy="88.5" r="5" fill="#b45309" opacity="0.85"/>
+<circle cx="556.0" cy="86.6" r="5" fill="#b45309" opacity="0.85"/>
+<circle cx="584.5" cy="113.2" r="5" fill="#b45309" opacity="0.85"/>
+<polygon points="533.2,172.60000000000002 542.2,181.60000000000002 533.2,190.60000000000002 524.2,181.60000000000002" fill="#0f766e" stroke="#334155" stroke-width="2"/>
+<polygon points="624.4,178.3 633.4,187.3 624.4,196.3 615.4,187.3" fill="#1d4ed8" stroke="#334155" stroke-width="2"/>
+<polygon points="575.0,89.0 584.0,98.0 575.0,107.0 566.0,98.0" fill="#b45309" stroke="#334155" stroke-width="2"/>
+<text x="575.0" y="276" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">centroids move to the mean</text>
+<rect x="705" y="60" width="190" height="190" rx="4" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="800.0" y="42" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">4. Iteration</text>
+<circle cx="752.5" cy="193.0" r="5" fill="#0f766e" opacity="0.85"/>
+<circle cx="765.8" cy="208.2" r="5" fill="#0f766e" opacity="0.85"/>
+<circle cx="743.0" cy="170.2" r="5" fill="#0f766e" opacity="0.85"/>
+<circle cx="771.5" cy="177.8" r="5" fill="#0f766e" opacity="0.85"/>
+<circle cx="756.3" cy="155.0" r="5" fill="#0f766e" opacity="0.85"/>
+<circle cx="838.0" cy="196.8" r="5" fill="#1d4ed8" opacity="0.85"/>
+<circle cx="853.2" cy="177.8" r="5" fill="#1d4ed8" opacity="0.85"/>
+<circle cx="860.8" cy="208.2" r="5" fill="#1d4ed8" opacity="0.85"/>
+<circle cx="841.8" cy="164.5" r="5" fill="#1d4ed8" opacity="0.85"/>
+<circle cx="796.2" cy="101.8" r="5" fill="#b45309" opacity="0.85"/>
+<circle cx="815.2" cy="88.5" r="5" fill="#b45309" opacity="0.85"/>
+<circle cx="781.0" cy="86.6" r="5" fill="#b45309" opacity="0.85"/>
+<circle cx="809.5" cy="113.2" r="5" fill="#b45309" opacity="0.85"/>
+<circle cx="757.8" cy="180.8" r="42.5" fill="none" stroke="#0f766e" stroke-width="2" stroke-dasharray="5 4"/>
+<circle cx="848.5" cy="186.8" r="38.7" fill="none" stroke="#1d4ed8" stroke-width="2" stroke-dasharray="5 4"/>
+<circle cx="800.5" cy="97.5" r="36.3" fill="none" stroke="#b45309" stroke-width="2" stroke-dasharray="5 4"/>
+<polygon points="758.2,172.60000000000002 767.2,181.60000000000002 758.2,190.60000000000002 749.2,181.60000000000002" fill="#0f766e" stroke="#334155" stroke-width="2"/>
+<polygon points="849.4,178.3 858.4,187.3 849.4,196.3 840.4,187.3" fill="#1d4ed8" stroke="#334155" stroke-width="2"/>
+<polygon points="800.0,89.0 809.0,98.0 800.0,107.0 791.0,98.0" fill="#b45309" stroke="#334155" stroke-width="2"/>
+<text x="800.0" y="276" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">repeat until nothing moves</text>
+</svg>

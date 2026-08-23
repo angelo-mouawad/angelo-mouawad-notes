@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 870 290" width="870" height="290" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="870" height="290" fill="#ffffff"/>
+<text x="435.0" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#1f2933" text-anchor="middle" font-weight="bold">How GPT lays out the drive</text>
+<rect x="20" y="100" width="90" height="86" rx="0" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="65.0" y="134" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Protective</text>
+<text x="65.0" y="152" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">MBR</text>
+<rect x="110" y="100" width="110" height="86" rx="0" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="165.0" y="134" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Primary GPT</text>
+<text x="165.0" y="152" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">header</text>
+<rect x="220" y="100" width="90" height="86" rx="0" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="265.0" y="134" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Entries</text>
+<text x="265.0" y="152" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">1 to 4</text>
+<rect x="310" y="100" width="110" height="86" rx="0" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="365.0" y="134" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Entries</text>
+<text x="365.0" y="152" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">5 to 128</text>
+<rect x="420" y="100" width="140" height="86" rx="0" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="490.0" y="143" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Partition 1</text>
+<rect x="560" y="100" width="180" height="86" rx="0" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="650.0" y="134" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Partition 2 and</text>
+<text x="650.0" y="152" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">the rest</text>
+<rect x="740" y="100" width="110" height="86" rx="0" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="795.0" y="134" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Secondary GPT</text>
+<text x="795.0" y="152" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">header</text>
+<path d="M 130,100 L 130,76 L 795,76 L 795,98" fill="none" stroke="#0f766e" stroke-width="2"/>
+<polygon points="789,87.8 801,87.8 795,98" fill="#0f766e"/>
+<text x="462" y="66" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="normal">the header is copied to the end of the drive as a backup</text>
+<text x="435.0" y="226" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">a header holds a signature, where the table is, where the backup is,</text>
+<text x="435.0" y="248" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">how many partitions there are and how big each entry is</text>
+<text x="435.0" y="274" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">GPT is what lets you put two operating systems on one drive</text>
+</svg>

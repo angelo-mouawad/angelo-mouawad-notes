@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 340" width="860" height="340" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="860" height="340" fill="#ffffff"/>
+<text x="430" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Batch waits and collects, real time reacts</text>
+<text x="70" y="74" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#0f766e" text-anchor="start" font-weight="bold">Batch</text>
+<line x1="70" y1="132" x2="790" y2="132" stroke="#334155" stroke-width="2"/>
+<circle cx="86" cy="112" r="5" fill="#0f766e" opacity="0.75"/>
+<circle cx="104" cy="112" r="5" fill="#0f766e" opacity="0.75"/>
+<circle cx="122" cy="112" r="5" fill="#0f766e" opacity="0.75"/>
+<circle cx="140" cy="112" r="5" fill="#0f766e" opacity="0.75"/>
+<circle cx="158" cy="112" r="5" fill="#0f766e" opacity="0.75"/>
+<line x1="180" y1="120" x2="180" y2="146" stroke="#334155" stroke-width="2" stroke-dasharray="4 3"/>
+<rect x="120" y="148" width="120" height="32" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="180.0" y="169.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">run job</text>
+<circle cx="256" cy="112" r="5" fill="#0f766e" opacity="0.75"/>
+<circle cx="274" cy="112" r="5" fill="#0f766e" opacity="0.75"/>
+<circle cx="292" cy="112" r="5" fill="#0f766e" opacity="0.75"/>
+<circle cx="310" cy="112" r="5" fill="#0f766e" opacity="0.75"/>
+<circle cx="328" cy="112" r="5" fill="#0f766e" opacity="0.75"/>
+<line x1="350" y1="120" x2="350" y2="146" stroke="#334155" stroke-width="2" stroke-dasharray="4 3"/>
+<rect x="290" y="148" width="120" height="32" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="350.0" y="169.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">run job</text>
+<circle cx="426" cy="112" r="5" fill="#0f766e" opacity="0.75"/>
+<circle cx="444" cy="112" r="5" fill="#0f766e" opacity="0.75"/>
+<circle cx="462" cy="112" r="5" fill="#0f766e" opacity="0.75"/>
+<circle cx="480" cy="112" r="5" fill="#0f766e" opacity="0.75"/>
+<circle cx="498" cy="112" r="5" fill="#0f766e" opacity="0.75"/>
+<line x1="520" y1="120" x2="520" y2="146" stroke="#334155" stroke-width="2" stroke-dasharray="4 3"/>
+<rect x="460" y="148" width="120" height="32" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="520.0" y="169.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">run job</text>
+<circle cx="596" cy="112" r="5" fill="#0f766e" opacity="0.75"/>
+<circle cx="614" cy="112" r="5" fill="#0f766e" opacity="0.75"/>
+<circle cx="632" cy="112" r="5" fill="#0f766e" opacity="0.75"/>
+<circle cx="650" cy="112" r="5" fill="#0f766e" opacity="0.75"/>
+<circle cx="668" cy="112" r="5" fill="#0f766e" opacity="0.75"/>
+<line x1="690" y1="120" x2="690" y2="146" stroke="#334155" stroke-width="2" stroke-dasharray="4 3"/>
+<rect x="630" y="148" width="120" height="32" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="690.0" y="169.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">run job</text>
+<text x="430" y="202" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">scheduled intervals, hourly, daily, weekly, over historical data</text>
+<text x="70" y="244" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1d4ed8" text-anchor="start" font-weight="bold">Real time</text>
+<line x1="70" y1="290" x2="790" y2="290" stroke="#334155" stroke-width="2"/>
+<circle cx="92" cy="272" r="5" fill="#1d4ed8" opacity="0.8"/>
+<line x1="92" y1="280" x2="92" y2="300" stroke="#1d4ed8" stroke-width="1.5"/>
+<circle cx="121" cy="272" r="5" fill="#1d4ed8" opacity="0.8"/>
+<line x1="121" y1="280" x2="121" y2="300" stroke="#1d4ed8" stroke-width="1.5"/>
+<circle cx="150" cy="272" r="5" fill="#1d4ed8" opacity="0.8"/>
+<line x1="150" y1="280" x2="150" y2="300" stroke="#1d4ed8" stroke-width="1.5"/>
+<circle cx="179" cy="272" r="5" fill="#1d4ed8" opacity="0.8"/>
+<line x1="179" y1="280" x2="179" y2="300" stroke="#1d4ed8" stroke-width="1.5"/>
+<circle cx="208" cy="272" r="5" fill="#1d4ed8" opacity="0.8"/>
+<line x1="208" y1="280" x2="208" y2="300" stroke="#1d4ed8" stroke-width="1.5"/>
+<circle cx="237" cy="272" r="5" fill="#1d4ed8" opacity="0.8"/>
+<line x1="237" y1="280" x2="237" y2="300" stroke="#1d4ed8" stroke-width="1.5"/>
+<circle cx="266" cy="272" r="5" fill="#1d4ed8" opacity="0.8"/>
+<line x1="266" y1="280" x2="266" y2="300" stroke="#1d4ed8" stroke-width="1.5"/>
+<circle cx="295" cy="272" r="5" fill="#1d4ed8" opacity="0.8"/>
+<line x1="295" y1="280" x2="295" y2="300" stroke="#1d4ed8" stroke-width="1.5"/>
+<circle cx="324" cy="272" r="5" fill="#1d4ed8" opacity="0.8"/>
+<line x1="324" y1="280" x2="324" y2="300" stroke="#1d4ed8" stroke-width="1.5"/>
+<circle cx="353" cy="272" r="5" fill="#1d4ed8" opacity="0.8"/>
+<line x1="353" y1="280" x2="353" y2="300" stroke="#1d4ed8" stroke-width="1.5"/>
+<circle cx="382" cy="272" r="5" fill="#1d4ed8" opacity="0.8"/>
+<line x1="382" y1="280" x2="382" y2="300" stroke="#1d4ed8" stroke-width="1.5"/>
+<circle cx="411" cy="272" r="5" fill="#1d4ed8" opacity="0.8"/>
+<line x1="411" y1="280" x2="411" y2="300" stroke="#1d4ed8" stroke-width="1.5"/>
+<circle cx="440" cy="272" r="5" fill="#1d4ed8" opacity="0.8"/>
+<line x1="440" y1="280" x2="440" y2="300" stroke="#1d4ed8" stroke-width="1.5"/>
+<circle cx="469" cy="272" r="5" fill="#1d4ed8" opacity="0.8"/>
+<line x1="469" y1="280" x2="469" y2="300" stroke="#1d4ed8" stroke-width="1.5"/>
+<circle cx="498" cy="272" r="5" fill="#1d4ed8" opacity="0.8"/>
+<line x1="498" y1="280" x2="498" y2="300" stroke="#1d4ed8" stroke-width="1.5"/>
+<circle cx="527" cy="272" r="5" fill="#1d4ed8" opacity="0.8"/>
+<line x1="527" y1="280" x2="527" y2="300" stroke="#1d4ed8" stroke-width="1.5"/>
+<circle cx="556" cy="272" r="5" fill="#1d4ed8" opacity="0.8"/>
+<line x1="556" y1="280" x2="556" y2="300" stroke="#1d4ed8" stroke-width="1.5"/>
+<circle cx="585" cy="272" r="5" fill="#1d4ed8" opacity="0.8"/>
+<line x1="585" y1="280" x2="585" y2="300" stroke="#1d4ed8" stroke-width="1.5"/>
+<circle cx="614" cy="272" r="5" fill="#1d4ed8" opacity="0.8"/>
+<line x1="614" y1="280" x2="614" y2="300" stroke="#1d4ed8" stroke-width="1.5"/>
+<circle cx="643" cy="272" r="5" fill="#1d4ed8" opacity="0.8"/>
+<line x1="643" y1="280" x2="643" y2="300" stroke="#1d4ed8" stroke-width="1.5"/>
+<circle cx="672" cy="272" r="5" fill="#1d4ed8" opacity="0.8"/>
+<line x1="672" y1="280" x2="672" y2="300" stroke="#1d4ed8" stroke-width="1.5"/>
+<circle cx="701" cy="272" r="5" fill="#1d4ed8" opacity="0.8"/>
+<line x1="701" y1="280" x2="701" y2="300" stroke="#1d4ed8" stroke-width="1.5"/>
+<circle cx="730" cy="272" r="5" fill="#1d4ed8" opacity="0.8"/>
+<line x1="730" y1="280" x2="730" y2="300" stroke="#1d4ed8" stroke-width="1.5"/>
+<circle cx="759" cy="272" r="5" fill="#1d4ed8" opacity="0.8"/>
+<line x1="759" y1="280" x2="759" y2="300" stroke="#1d4ed8" stroke-width="1.5"/>
+<text x="430" y="322" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">processed within seconds or milliseconds, over live streaming data</text>
+</svg>

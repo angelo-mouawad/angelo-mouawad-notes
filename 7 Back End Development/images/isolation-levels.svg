@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" width="900" height="340" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="900" height="340" fill="#ffffff"/>
+<text x="450" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Each level up prevents one more anomaly, and costs performance</text>
+<rect x="60" y="50" width="220" height="42" rx="4" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="170" y="77" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">isolation level</text>
+<rect x="280" y="50" width="200" height="42" rx="4" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="380.0" y="77" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">Dirty read</text>
+<rect x="480" y="50" width="200" height="42" rx="4" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="580.0" y="77" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">Non repeatable read</text>
+<rect x="680" y="50" width="200" height="42" rx="4" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="780.0" y="77" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">Phantom read</text>
+<rect x="60" y="92" width="220" height="46" rx="0" fill="#f1f5f9" stroke="#334155" stroke-width="1"/>
+<text x="170" y="121" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">READ_UNCOMMITTED</text>
+<rect x="280" y="92" width="200" height="46" rx="0" fill="#fee2e2" stroke="#334155" stroke-width="1"/>
+<text x="380.0" y="121" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#b91c1c" text-anchor="middle" font-weight="normal">possible</text>
+<rect x="480" y="92" width="200" height="46" rx="0" fill="#fee2e2" stroke="#334155" stroke-width="1"/>
+<text x="580.0" y="121" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#b91c1c" text-anchor="middle" font-weight="normal">possible</text>
+<rect x="680" y="92" width="200" height="46" rx="0" fill="#fee2e2" stroke="#334155" stroke-width="1"/>
+<text x="780.0" y="121" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#b91c1c" text-anchor="middle" font-weight="normal">possible</text>
+<rect x="60" y="138" width="220" height="46" rx="0" fill="#f1f5f9" stroke="#334155" stroke-width="1"/>
+<text x="170" y="167" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">READ_COMMITTED</text>
+<rect x="280" y="138" width="200" height="46" rx="0" fill="#ccfbf1" stroke="#334155" stroke-width="1"/>
+<text x="380.0" y="167" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="normal">prevented</text>
+<rect x="480" y="138" width="200" height="46" rx="0" fill="#fee2e2" stroke="#334155" stroke-width="1"/>
+<text x="580.0" y="167" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#b91c1c" text-anchor="middle" font-weight="normal">possible</text>
+<rect x="680" y="138" width="200" height="46" rx="0" fill="#fee2e2" stroke="#334155" stroke-width="1"/>
+<text x="780.0" y="167" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#b91c1c" text-anchor="middle" font-weight="normal">possible</text>
+<rect x="60" y="184" width="220" height="46" rx="0" fill="#f1f5f9" stroke="#334155" stroke-width="1"/>
+<text x="170" y="213" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">REPEATABLE_READ</text>
+<rect x="280" y="184" width="200" height="46" rx="0" fill="#ccfbf1" stroke="#334155" stroke-width="1"/>
+<text x="380.0" y="213" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="normal">prevented</text>
+<rect x="480" y="184" width="200" height="46" rx="0" fill="#ccfbf1" stroke="#334155" stroke-width="1"/>
+<text x="580.0" y="213" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="normal">prevented</text>
+<rect x="680" y="184" width="200" height="46" rx="0" fill="#fee2e2" stroke="#334155" stroke-width="1"/>
+<text x="780.0" y="213" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#b91c1c" text-anchor="middle" font-weight="normal">possible</text>
+<rect x="60" y="230" width="220" height="46" rx="0" fill="#f1f5f9" stroke="#334155" stroke-width="1"/>
+<text x="170" y="259" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">SERIALIZABLE</text>
+<rect x="280" y="230" width="200" height="46" rx="0" fill="#ccfbf1" stroke="#334155" stroke-width="1"/>
+<text x="380.0" y="259" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="normal">prevented</text>
+<rect x="480" y="230" width="200" height="46" rx="0" fill="#ccfbf1" stroke="#334155" stroke-width="1"/>
+<text x="580.0" y="259" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="normal">prevented</text>
+<rect x="680" y="230" width="200" height="46" rx="0" fill="#ccfbf1" stroke="#334155" stroke-width="1"/>
+<text x="780.0" y="259" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="normal">prevented</text>
+<text x="450" y="314" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">stricter as you go down, and slower with it, the default in most databases is READ_COMMITTED</text>
+</svg>

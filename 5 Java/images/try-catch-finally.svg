@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 380" width="880" height="380" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="880" height="380" fill="#ffffff"/>
+<text x="440" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Which block runs, and when</text>
+<rect x="340" y="60" width="200" height="46" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="440.0" y="88.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="normal">try</text>
+<path d="M 400,106 L 400,128 L 200,128 L 200,150" fill="none" stroke="#0f766e" stroke-width="2"/>
+<polygon points="195.0,140.0 205.0,140.0 200,150" fill="#0f766e"/>
+<text x="230" y="122" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#0f766e" text-anchor="middle" font-weight="normal">no problem</text>
+<path d="M 480,106 L 480,128 L 660,128 L 660,150" fill="none" stroke="#b91c1c" stroke-width="2"/>
+<polygon points="655.0,140.0 665.0,140.0 660,150" fill="#b91c1c"/>
+<text x="660" y="122" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#b91c1c" text-anchor="middle" font-weight="normal">something threw</text>
+<rect x="110" y="152" width="180" height="46" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="200.0" y="180.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">the rest of try</text>
+<rect x="570" y="152" width="180" height="46" rx="6" fill="#fecaca" stroke="#334155" stroke-width="2"/>
+<text x="660.0" y="180.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="normal">catch</text>
+<text x="540" y="224" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="end" font-weight="normal">the rest of try is skipped</text>
+<path d="M 200,198 L 200,248 L 390,248 L 390,262" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="385.0,252.0 395.0,252.0 390,262" fill="#334155"/>
+<path d="M 660,198 L 660,248 L 470,248 L 470,262" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="465.0,252.0 475.0,252.0 470,262" fill="#334155"/>
+<rect x="330" y="264" width="200" height="46" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="430.0" y="292.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="normal">finally</text>
+<text x="430" y="334" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">runs either way, even after a return</text>
+<rect x="40" y="352" width="800" height="0" rx="6" fill="#ffffff" stroke="#ffffff" stroke-width="0"/>
+<text x="440" y="366" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">for closing a file or a connection, try-with-resources does it for you</text>
+</svg>

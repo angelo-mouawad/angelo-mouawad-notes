@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 380" width="880" height="380" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="880" height="380" fill="#ffffff"/>
+<text x="440" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Arrange, act, assert</text>
+<rect x="40" y="62" width="160" height="62" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="120" y="92" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">Arrange</text>
+<text x="120" y="112" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#1f2933" text-anchor="middle" font-weight="normal">set up the input</text>
+<path d="M 202,93 L 228,93" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="218.0,88.0 218.0,98.0 228,93" fill="#334155"/>
+<rect x="236" y="62" width="360" height="62" rx="6" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="256" y="99" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">int input = 3;</text>
+<rect x="40" y="138" width="160" height="62" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="120" y="168" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">Act</text>
+<text x="120" y="188" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#1f2933" text-anchor="middle" font-weight="normal">call the method</text>
+<path d="M 202,169 L 228,169" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="218.0,164.0 218.0,174.0 228,169" fill="#334155"/>
+<rect x="236" y="138" width="360" height="62" rx="6" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="256" y="175" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">int result = addThree(input);</text>
+<rect x="40" y="214" width="160" height="62" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="120" y="244" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">Assert</text>
+<text x="120" y="264" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#1f2933" text-anchor="middle" font-weight="normal">check the outcome</text>
+<path d="M 202,245 L 228,245" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="218.0,240.0 218.0,250.0 228,245" fill="#334155"/>
+<rect x="236" y="214" width="360" height="62" rx="6" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="256" y="251" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">assertEquals(6, result);</text>
+<rect x="616" y="62" width="224" height="214" rx="8" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="728" y="88" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="bold">two tests per method</text>
+<rect x="636" y="104" width="184" height="74" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="728" y="130" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#0f766e" text-anchor="middle" font-weight="bold">positive</text>
+<text x="728" y="154" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">the normal input works</text>
+<rect x="636" y="190" width="184" height="74" rx="6" fill="#fecaca" stroke="#334155" stroke-width="2"/>
+<text x="728" y="216" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#b91c1c" text-anchor="middle" font-weight="bold">negative</text>
+<text x="728" y="240" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">the bad input throws</text>
+<rect x="40" y="300" width="800" height="62" rx="8" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="440" y="326" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">a test that never fails is not testing anything</text>
+<text x="440" y="348" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">break the method on purpose once, and check the test goes red</text>
+</svg>

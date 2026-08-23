@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 810 310" width="810" height="310" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="810" height="310" fill="#ffffff"/>
+<text x="405.0" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#1f2933" text-anchor="middle" font-weight="bold">Cache hit and cache miss</text>
+<rect x="30" y="100" width="110" height="90" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="85.0" y="150.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="bold">CPU</text>
+<rect x="175" y="100" width="110" height="90" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="230.0" y="141.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="bold">L1</text>
+<text x="230.0" y="160.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#64748b" text-anchor="middle" font-weight="normal">smallest, fastest</text>
+<rect x="320" y="100" width="110" height="90" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="375.0" y="141.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="bold">L2</text>
+<text x="375.0" y="160.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#64748b" text-anchor="middle" font-weight="normal">bigger</text>
+<rect x="465" y="100" width="110" height="90" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="520.0" y="141.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="bold">L3</text>
+<text x="520.0" y="160.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#64748b" text-anchor="middle" font-weight="normal">shared</text>
+<rect x="620" y="100" width="160" height="90" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="700.0" y="141.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="bold">RAM</text>
+<text x="700.0" y="160.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#64748b" text-anchor="middle" font-weight="normal">slowest of the four</text>
+<path d="M 140,152 L 175,152" fill="none" stroke="#b91c1c" stroke-width="2"/>
+<polygon points="164.8,146 164.8,158 175,152" fill="#b91c1c"/>
+<text x="157.5" y="140" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#b91c1c" text-anchor="middle" font-weight="normal">miss</text>
+<path d="M 285,152 L 320,152" fill="none" stroke="#b91c1c" stroke-width="2"/>
+<polygon points="309.8,146 309.8,158 320,152" fill="#b91c1c"/>
+<text x="302.5" y="140" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#b91c1c" text-anchor="middle" font-weight="normal">miss</text>
+<path d="M 430,152 L 465,152" fill="none" stroke="#b91c1c" stroke-width="2"/>
+<polygon points="454.8,146 454.8,158 465,152" fill="#b91c1c"/>
+<text x="447.5" y="140" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#b91c1c" text-anchor="middle" font-weight="normal">miss</text>
+<path d="M 575,152 L 620,152" fill="none" stroke="#b91c1c" stroke-width="2"/>
+<polygon points="609.8,146 609.8,158 620,152" fill="#b91c1c"/>
+<text x="597.5" y="140" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#b91c1c" text-anchor="middle" font-weight="normal">miss</text>
+<path d="M 230,190 L 230,232 L 85,232 L 85,192" fill="none" stroke="#0f766e" stroke-width="2"/>
+<polygon points="79,202.2 91,202.2 85,192" fill="#0f766e"/>
+<text x="300" y="252" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="start" font-weight="normal">hit, the data was already in the cache and comes straight back</text>
+<text x="405.0" y="290" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">each core usually has its own L1 and L2, and L3 is shared across the cores</text>
+</svg>

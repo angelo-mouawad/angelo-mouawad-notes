@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 320" width="820" height="320" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="820" height="320" fill="#ffffff"/>
+<text x="410" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Reading a cron expression</text>
+<rect x="55" y="60" width="130" height="52" rx="4" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="120" y="96" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="34" fill="#0f766e" text-anchor="middle" font-weight="bold">*</text>
+<path d="M 120,112 L 120,134" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="115,124 125,124 120,134" fill="#334155"/>
+<rect x="55" y="136" width="130" height="56" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="120.0" y="161.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">minute</text>
+<text x="120.0" y="181.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">0 - 59</text>
+<rect x="200" y="60" width="130" height="52" rx="4" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="265" y="96" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="34" fill="#0f766e" text-anchor="middle" font-weight="bold">*</text>
+<path d="M 265,112 L 265,134" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="260,124 270,124 265,134" fill="#334155"/>
+<rect x="200" y="136" width="130" height="56" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="265.0" y="161.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">hour</text>
+<text x="265.0" y="181.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">0 - 23</text>
+<rect x="345" y="60" width="130" height="52" rx="4" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="410" y="96" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="34" fill="#0f766e" text-anchor="middle" font-weight="bold">*</text>
+<path d="M 410,112 L 410,134" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="405,124 415,124 410,134" fill="#334155"/>
+<rect x="345" y="136" width="130" height="56" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="410.0" y="161.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">day of month</text>
+<text x="410.0" y="181.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">1 - 31</text>
+<rect x="490" y="60" width="130" height="52" rx="4" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="555" y="96" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="34" fill="#0f766e" text-anchor="middle" font-weight="bold">*</text>
+<path d="M 555,112 L 555,134" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="550,124 560,124 555,134" fill="#334155"/>
+<rect x="490" y="136" width="130" height="56" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="555.0" y="161.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">month</text>
+<text x="555.0" y="181.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">1 - 12</text>
+<rect x="635" y="60" width="130" height="52" rx="4" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="700" y="96" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="34" fill="#0f766e" text-anchor="middle" font-weight="bold">*</text>
+<path d="M 700,112 L 700,134" fill="none" stroke="#334155" stroke-width="2"/>
+<polygon points="695,124 705,124 700,134" fill="#334155"/>
+<rect x="635" y="136" width="130" height="56" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="700.0" y="161.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">day of week</text>
+<text x="700.0" y="181.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">0 - 7</text>
+<text x="410" y="224" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">a star means every value of that field</text>
+<rect x="120" y="240" width="580" height="60" rx="6" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="410" y="262" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" fill="#0f766e" text-anchor="middle" font-weight="bold">0 6-20 * * *</text>
+<text x="410" y="288" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">at minute zero, every hour from 6 to 20, every day</text>
+</svg>

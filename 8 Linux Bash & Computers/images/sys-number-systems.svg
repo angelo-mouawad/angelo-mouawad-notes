@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 320" width="780" height="320" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="780" height="320" fill="#ffffff"/>
+<text x="390.0" y="36" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#1f2933" text-anchor="middle" font-weight="bold">The four number systems</text>
+<rect x="30" y="62" width="165" height="76" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="112.5" y="96.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="bold">Binary</text>
+<text x="112.5" y="115.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">base 2</text>
+<text x="112" y="162" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">0 1</text>
+<rect x="210" y="62" width="165" height="76" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="292.5" y="96.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="bold">Octal</text>
+<text x="292.5" y="115.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">base 8</text>
+<text x="292" y="162" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">0 to 7</text>
+<rect x="390" y="62" width="165" height="76" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="472.5" y="96.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="bold">Decimal</text>
+<text x="472.5" y="115.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">base 10</text>
+<text x="472" y="162" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">0 to 9</text>
+<rect x="570" y="62" width="165" height="76" rx="6" fill="#ede9fe" stroke="#334155" stroke-width="2"/>
+<text x="652.5" y="96.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="bold">Hexadecimal</text>
+<text x="652.5" y="115.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#64748b" text-anchor="middle" font-weight="normal">base 16</text>
+<text x="652" y="162" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">0 to 9 then A to F</text>
+<rect x="30" y="190" width="720" height="50" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="390.0" y="220.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">To decimal: multiply every digit by the base to the power of its position, then add</text>
+<rect x="30" y="250" width="720" height="50" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="390.0" y="280.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">From decimal: divide by the base over and over, then read the remainders bottom to top</text>
+</svg>

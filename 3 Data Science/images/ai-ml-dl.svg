@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380" width="640" height="380" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="640" height="380" fill="#ffffff"/>
+<rect x="60" y="40" width="420" height="300" rx="6" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+<text x="270" y="68" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">Artificial Intelligence</text>
+<text x="270" y="88" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">systems doing tasks that need human intelligence</text>
+<rect x="105" y="105" width="330" height="215" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="270" y="133" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">Machine Learning</text>
+<text x="270" y="153" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">learning from data instead of being programmed</text>
+<rect x="150" y="170" width="240" height="130" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="270" y="198" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">Deep Learning</text>
+<text x="270" y="218" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">multilayered neural</text>
+<text x="270" y="234" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">networks</text>
+<rect x="510" y="150" width="110" height="90" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="565.0" y="192.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">Data</text>
+<text x="565.0" y="212.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Analysis</text>
+<text x="565" y="260" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">sits next to</text>
+<text x="565" y="276" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">all of this</text>
+</svg>

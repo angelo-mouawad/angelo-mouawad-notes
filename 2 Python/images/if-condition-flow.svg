@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 420" width="520" height="420" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="520" height="420" fill="#ffffff"/>
+<rect x="130" y="20" width="160" height="44" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="210.0" y="47.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle">instruction A</text>
+<line x1="210" y1="64" x2="210" y2="100" stroke="#334155" stroke-width="2"/>
+<polygon points="205,90 215,90 210,100" fill="#334155"/>
+<rect x="130" y="100" width="160" height="44" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="210.0" y="127.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle">condition</text>
+<line x1="210" y1="144" x2="210" y2="180" stroke="#0f766e" stroke-width="2"/>
+<polygon points="205,170 215,170 210,180" fill="#0f766e"/>
+<text x="240" y="168" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="normal">True</text>
+<rect x="130" y="180" width="160" height="44" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="210.0" y="207.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle">instruction B</text>
+<line x1="210" y1="224" x2="210" y2="260" stroke="#334155" stroke-width="2"/>
+<polygon points="205,250 215,250 210,260" fill="#334155"/>
+<rect x="130" y="260" width="160" height="44" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="210.0" y="287.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle">instruction C</text>
+<line x1="210" y1="304" x2="210" y2="340" stroke="#334155" stroke-width="2"/>
+<polygon points="205,330 215,330 210,340" fill="#334155"/>
+<rect x="130" y="340" width="160" height="44" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="210.0" y="367.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle">instruction D</text>
+<path d="M 290,122 L 440,122 L 440,362 L 296,362" fill="none" stroke="#b91c1c" stroke-width="2"/>
+<polygon points="306,357 306,367 296,362" fill="#b91c1c"/>
+<text x="370" y="112" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#b91c1c" text-anchor="middle" font-weight="normal">False</text>
+</svg>
