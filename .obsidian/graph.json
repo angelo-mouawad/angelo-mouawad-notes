@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"1 General Documents\"  ",
+      "query": "path:\"1 General Notes\"  ",
       "color": {
         "a": 1,
         "rgb": 14048348
@@ -22,42 +22,42 @@
       }
     },
     {
-      "query": "path:\"4 Databases\"  ",
+      "query": "path:\"3 Data Science\"  ",
       "color": {
         "a": 1,
         "rgb": 11392604
       }
     },
     {
-      "query": "path:\"5 Java\"  ",
+      "query": "path:\"4 Databases\"  ",
       "color": {
         "a": 1,
         "rgb": 6084188
       }
     },
     {
-      "query": "path:\"6 Front End Development\"  ",
+      "query": "path:\"5 Java\"  ",
       "color": {
         "a": 1,
         "rgb": 6084269
       }
     },
     {
-      "query": "path:\"7 Back End Development\"  ",
+      "query": "path:\"6 Front End Development\"  ",
       "color": {
         "a": 1,
         "rgb": 6073814
       }
     },
     {
-      "query": "path:\"3 Data Science\"  ",
+      "query": "path:\"7 Back End Development\"  ",
       "color": {
         "a": 1,
         "rgb": 6053078
       }
     },
     {
-      "query": "path:\"8 Linux Bash & Computers/images\"  ",
+      "query": "path:\"8 Linux Bash And Computers\"  ",
       "color": {
         "a": 1,
         "rgb": 11361494
@@ -67,27 +67,97 @@
       "query": "path:\"9 Linux Server Management\"  ",
       "color": {
         "a": 1,
-        "rgb": 4330180
+        "rgb": 10254017
+      }
+    },
+    {
+      "query": "file:General Notes",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "file:Python",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "file:Data Science",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "file:Databases",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "file:Java",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "file:Front End Development",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "file:Back End Development",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "file:Linux Bash And Computers",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
+    },
+    {
+      "query": "file:Linux Server Management",
+      "color": {
+        "a": 1,
+        "rgb": 10057409
       }
     },
     {
       "query": "path:\"10 History\"  ",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "file:History",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -2,
+  "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 1.00456940054345,
-  "lineSizeMultiplier": 2.04064449064449,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.560805190484113,
-  "repelStrength": 16.9758812615955,
+  "centerStrength": 0.543059945655188,
+  "repelStrength": 14.8979591836735,
   "linkStrength": 1,
-  "linkDistance": 417,
-  "scale": 0.41873947418513907,
+  "linkDistance": 355,
+  "scale": 0.5074968300927364,
   "close": true
 }

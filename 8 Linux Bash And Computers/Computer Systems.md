@@ -8,7 +8,7 @@ This file covers how a computer counts, what the parts inside the case actually 
 
 A computer only ever stores ones and zeros, so everything else is just a different way of writing the same value. Four bases come up all the time.
 
-![The four number systems](images/sys-number-systems.svg)
+![The four number systems](sys-number-systems.svg)
 
 - **Binary**, base 2, digits `0` and `1`.
 - **Octal**, base 8, digits `0` to `7`.
@@ -28,7 +28,7 @@ Octal and hexadecimal exist because writing long strings of bits by hand is pain
 
 Every position in a binary number is worth a power of two, starting at 2 to the power of 0 on the right. Multiply each bit by its position value and add everything up.
 
-![Binary to decimal](images/sys-binary-to-decimal.svg)
+![Binary to decimal](sys-binary-to-decimal.svg)
 
 So `1010` is `(1 x 8) + (0 x 4) + (1 x 2) + (0 x 1)`, which is `10`.
 
@@ -40,7 +40,7 @@ The same trick works for any base. For octal the positions are powers of 8, for 
 
 Going the other way you divide instead of multiply. Divide by the base over and over, write down the remainder each time, and stop when the division gives 0.
 
-![Decimal to binary](images/sys-decimal-to-binary.svg)
+![Decimal to binary](sys-decimal-to-binary.svg)
 
 The remainders come out backwards, so you read them from the bottom up. That gives `164` in decimal as `10100100` in binary.
 
@@ -56,7 +56,7 @@ Same idea for the other bases, only the divisor changes.
 
 These two are the easy ones because you never touch decimal at all. You just chop the binary into groups and translate each group on its own.
 
-![Grouping bits](images/sys-bit-grouping.svg)
+![Grouping bits](sys-bit-grouping.svg)
 
 Group from the right, and pad the leftmost group with zeros if it comes up short.
 
@@ -139,7 +139,7 @@ It works, but it means a processor would need separate circuits for adding and f
 
 Instead of subtracting, you make the second number negative and then add. That way one adder circuit handles both jobs.
 
-![Two's complement](images/sys-twos-complement.svg)
+![Two's complement](sys-twos-complement.svg)
 
 Turning `0011` into its negative takes two steps.
 
@@ -187,7 +187,7 @@ Anything beyond the Latin alphabet needs **Unicode**, usually stored as UTF-8, w
 
 Everything plugs into the motherboard and talks through it. Each part is bad at what the others are good at, which is the whole reason there are so many of them.
 
-![What sits inside the case](images/sys-hardware.svg)
+![What sits inside the case](sys-hardware.svg)
 
 ### Storage components
 
@@ -229,7 +229,7 @@ Why bother.
 
 ### Types of virtualization
 
-![Type 1 and type 2 hypervisors](images/sys-hypervisor-types.svg)
+![Type 1 and type 2 hypervisors](sys-hypervisor-types.svg)
 
 - **Type 1, bare metal.** The hypervisor runs straight on the physical hardware. Nothing sits underneath it. This is what servers and data centres use.
 - **Type 2, hosted.** The hypervisor runs on top of a normal host operating system, so there is an extra layer in the way. This is VirtualBox or VMware Workstation on your own laptop.
@@ -279,7 +279,7 @@ A snapshot backs up a VM at one moment in time. If you break something you just 
 
 A hard drive stores data on spinning platters. Each platter has **tracks** running around it, and each track is cut into **sectors**.
 
-![How a hard drive stores a sector](images/sys-disk-sector.svg)
+![How a hard drive stores a sector](sys-disk-sector.svg)
 
 A sector is the smallest thing the drive can read or write, and the classic size is 512 bytes of data. Those 512 bytes are not alone on the disk though, they are wrapped in a header and a tail.
 
@@ -342,7 +342,7 @@ RAID is divided into levels according to reliability and time saving.
 
 The three you will actually meet are 0, 1 and 5, with 6 turning up on bigger arrays.
 
-![The RAID levels](images/sys-raid-levels.svg)
+![The RAID levels](sys-raid-levels.svg)
 
 - **Striping, level 0.** Splits the data between the disks. Fast, and no redundancy at all, so losing one disk loses everything.
 - **Mirroring, level 1.** Writes the same data to another disk. Safe, but you pay for double the storage.
@@ -389,7 +389,7 @@ The one weakness is that flash cells wear out after a certain number of writes, 
 
 **GPT** divides an HDD or SSD into logical blocks, and it is what lets you install two operating systems on one drive.
 
-![How GPT lays out the drive](images/sys-gpt-layout.svg)
+![How GPT lays out the drive](sys-gpt-layout.svg)
 
 GPT always sits at the beginning of the drive, and it always keeps a copy at the end as a backup in case of faulty sectors.
 
@@ -421,7 +421,7 @@ FAT works by linking. A file is represented by a **linked list of blocks**, wher
 
 Linux mainly uses **EXT4**. It splits the volume into four standard block types.
 
-![The four blocks of an EXT file system](images/sys-ext-blocks.svg)
+![The four blocks of an EXT file system](sys-ext-blocks.svg)
 
 - **Boot block**, used to start the system.
 - **Super block**, describes the volume itself, so size, block count and state.
@@ -456,7 +456,7 @@ The scheduler is the part of the operating system that decides which process get
 
 Three of them, on the same three processes, so you can see what the choice actually costs.
 
-![Three schedulers](images/sys-scheduling.svg)
+![Three schedulers](sys-scheduling.svg)
 
 ### First come first serve
 
@@ -496,7 +496,7 @@ Memory splits into two families depending on whether the CPU works out of it dir
 
 Lined up by speed they form a hierarchy, and price per GB runs the opposite way to speed.
 
-![The memory hierarchy](images/sys-memory-hierarchy.svg)
+![The memory hierarchy](sys-memory-hierarchy.svg)
 
 From slowest and cheapest to fastest and most expensive, that is magnetic tape, hard drive, solid state drive, disk cache, RAM, then L3, L2 and L1 cache.
 
@@ -618,7 +618,7 @@ Cache memory speeds up processor performance by reducing wait time. The data you
 
 It is faster than RAM and it does not need constant refreshing, because it is built from static RAM.
 
-![Cache hit and cache miss](images/sys-cache-hit-miss.svg)
+![Cache hit and cache miss](sys-cache-hit-miss.svg)
 
 There are three levels of SRAM cache.
 
@@ -651,7 +651,7 @@ When RAM fills up, the system starts using a portion of SSD memory through the *
 
 **Swapping** is the process of moving pages between the virtual memory inside the SSD and RAM. The SSD file used for this is called the **swap file**.
 
-![Virtual memory and swapping](images/sys-virtual-memory.svg)
+![Virtual memory and swapping](sys-virtual-memory.svg)
 
 The page table is the link between the RAM and the SSD, since it is what records where each page currently lives.
 
@@ -663,7 +663,7 @@ Swapping saves you from an out of memory crash, but it is orders of magnitude sl
 
 Ohm's law ties the three basic quantities together, and the power formula sits right next to it.
 
-![The two triangles](images/sys-ohms-law.svg)
+![The two triangles](sys-ohms-law.svg)
 
 - `I` is **current**, in amperes.
 - `U` is **voltage**, in volts.

@@ -28,7 +28,7 @@ angelo@laptop:~$
 
 Every command follows the same pattern, and once you see it the rest is just vocabulary.
 
-![The shape of every command](images/bash-command-anatomy.svg)
+![The shape of every command](bash-command-anatomy.svg)
 
 ```text
 ls -l /home/user
@@ -55,7 +55,7 @@ sudo apt update && sudo apt upgrade
 
 Linux has no drive letters. Everything hangs off a single root, written `/`, and extra disks get mounted into that tree rather than sitting beside it.
 
-![Where things live on a Linux box](images/bash-filesystem-tree.svg)
+![Where things live on a Linux box](bash-filesystem-tree.svg)
 
 The directories you will actually run into.
 
@@ -250,7 +250,7 @@ diff -u file1 file2     # unified format, the one patches are written in
 
 This is the idea the whole shell is built on. Every command reads from standard input and writes to standard output, and you get to rewire both.
 
-![Pipes and redirection](images/bash-pipes-redirects.svg)
+![Pipes and redirection](bash-pipes-redirects.svg)
 
 ```bash
 ls -l | grep group              # the pipe feeds one command's output into the next
@@ -278,7 +278,7 @@ That one line reads the log, keeps the error lines, pulls out the fifth field, c
 
 After `ls -l` the terminal shows a list of files in a fixed format, and the first ten characters are the permissions.
 
-![Reading the output of ls -l](images/bash-permissions.svg)
+![Reading the output of ls -l](bash-permissions.svg)
 
 ```text
 -rw-r--r--   1  angelo  staff  4096  Jan 12  notes.txt
@@ -385,7 +385,7 @@ Higher priority swap areas get used first.
 
 Creating a swap file from scratch runs in a fixed order, and every step needs `sudo`.
 
-![Setting up a swap file](images/bash-swap-setup.svg)
+![Setting up a swap file](bash-swap-setup.svg)
 
 ```bash
 sudo fallocate -l 2G /swapfile      # makes a 2 GB file
@@ -490,7 +490,7 @@ openssl enc -d -aes-256-cbc -in cipher.enc -out plain2.txt -pass file:aes.key
 
 Here there are two keys, and which one you use depends on which direction you are going.
 
-![Which openssl key does which job](images/bash-openssl-keys.svg)
+![Which openssl key does which job](bash-openssl-keys.svg)
 
 Generate the private key, then derive the public one from it.
 

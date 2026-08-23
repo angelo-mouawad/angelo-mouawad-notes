@@ -21,7 +21,7 @@ There are two kinds of address you will be handed.
 
 An address on its own does not say where the network stops and the device starts. Internal IP addresses are split into a **network part** and a **host part**, and the subnet mask is what marks the border.
 
-![What a subnet mask actually splits](images/net-ip-anatomy.svg)
+![What a subnet mask actually splits](net-ip-anatomy.svg)
 
 There are two notations for the same thing.
 
@@ -63,7 +63,7 @@ A single `/24` taken out of one of them, like `192.168.1.0/24`, is what a home r
 
 The demand for IP addresses is clearly higher than the number available, and this is where **network address translation** comes in.
 
-![NAT](images/net-nat.svg)
+![NAT](net-nat.svg)
 
 - NAT helps preserve the limited amount of IPv4 addresses.
 - It translates private IP addresses into public ones inside the router, and back again on the way in.
@@ -165,7 +165,7 @@ Network protocols define a common set of rules. Each protocol has its own functi
 
 There are two models for describing the same journey. TCP/IP is what the internet actually runs on, and OSI is the teaching model with the layers broken up more finely.
 
-![The two models side by side](images/net-osi-tcpip.svg)
+![The two models side by side](net-osi-tcpip.svg)
 
 The mapping is straightforward. The OSI application, presentation and session layers all collapse into the single TCP/IP application layer, and the OSI data link and physical layers collapse into network access.
 
@@ -191,7 +191,7 @@ Each layer encapsulates the data from the layer above it, starting at L7 and end
 
 This is the same idea drawn out, because it is worth seeing the headers stack up.
 
-![What each layer wraps around the data](images/net-encapsulation.svg)
+![What each layer wraps around the data](net-encapsulation.svg)
 
 Going down the stack.
 
@@ -213,7 +213,7 @@ Layer 2 is the only one that adds something at both ends, a MAC header at the fr
 
 Putting the maths together on a concrete address.
 
-![Counting the addresses in a /24](images/net-ipv4-subnet.svg)
+![Counting the addresses in a /24](net-ipv4-subnet.svg)
 
 ```text
 IP address       192.168.1.0
@@ -252,7 +252,7 @@ Borrowing 3 bits gives you 8 subnets, and every borrowed bit halves the hosts yo
 
 An IPv6 address is 128 bits instead of 32, written as eight groups of four hex digits. The first 64 bits are the prefix and the last 64 are the interface ID.
 
-![An IPv6 address](images/net-ipv6-format.svg)
+![An IPv6 address](net-ipv6-format.svg)
 
 Two rules cut the length down.
 
@@ -281,7 +281,7 @@ There is no broadcast in IPv6 at all. Multicast does that job instead.
 
 Unlike IPv4 devices that get one address, an IPv6 device normally carries two at once.
 
-![How a device gets its IPv6 addresses](images/net-ipv6-dynamic.svg)
+![How a device gets its IPv6 addresses](net-ipv6-dynamic.svg)
 
 ### Global unicast address
 
@@ -387,7 +387,7 @@ The point is that the hosts keep pointing at one gateway address, and the router
 
 The transport layer consists of two protocols, and the difference is whether anyone is keeping score.
 
-![TCP keeps score, UDP does not](images/net-tcp-vs-udp.svg)
+![TCP keeps score, UDP does not](net-tcp-vs-udp.svg)
 
 ### TCP
 
@@ -421,7 +421,7 @@ The source port is picked more or less at random by your machine, and it is what
 
 VLANs help you subdivide a LAN even further, for better performance and smaller broadcast domains.
 
-![VLANs cut one LAN into several](images/net-vlans.svg)
+![VLANs cut one LAN into several](net-vlans.svg)
 
 - Devices on the same VLAN can talk to each other directly, even if they are plugged into different switches. That is layer 2 work.
 - Devices on different VLANs need a router to communicate. That is layer 3 work.
@@ -441,7 +441,7 @@ The link between two switches that carries several VLANs at once is a **trunk**,
 
 Three ways to get traffic from one VLAN to another, in the order they were invented.
 
-![Three ways to route between VLANs](images/net-inter-vlan.svg)
+![Three ways to route between VLANs](net-inter-vlan.svg)
 
 ### Legacy routing
 
@@ -469,7 +469,7 @@ A loop in an ethernet LAN can cause problems and infinite transmission of ethern
 
 The **spanning tree protocol** is a loop prevention protocol that still allows redundancy. It works by blocking a specific port in the loop, and if failures happen on the working ports, STP knows it should automatically reopen the port it blocked.
 
-![STP picks one port to block](images/net-stp.svg)
+![STP picks one port to block](net-stp.svg)
 
 ### Steps to block the loop
 
@@ -521,7 +521,7 @@ Different VLANs will have their own STP instances and their own root bridge, whi
 
 EtherChannel bundles up multiple physical links between two devices into one logical link, to increase bandwidth and provide redundancy.
 
-![EtherChannel bundles the links](images/net-etherchannel.svg)
+![EtherChannel bundles the links](net-etherchannel.svg)
 
 It is like saying that instead of one lane, let us group four ethernet lanes into a fat highway, but to the network it still looks like one logical interface.
 
@@ -565,7 +565,7 @@ Worth separating two names that look alike. An `LSA` is a link state advertiseme
 
 Two routers walk through these states before they are fully adjacent.
 
-![The OSPF neighbour states in order](images/net-ospf-states.svg)
+![The OSPF neighbour states in order](net-ospf-states.svg)
 
 - **Down state.** No Hello packets received, so the router starts sending its own. Transitions to Init.
 - **Init state.** Hello packets received from a sender, and they contain the router id of that sender. Transitions to Two way.
@@ -604,7 +604,7 @@ A loopback is the usual choice in practice, because a loopback interface never g
 
 In multiaccess networks, OSPF elects a DR and a BDR so that every router does not have to form an adjacency with every other router.
 
-![DR and BDR on a multiaccess network](images/net-ospf-dr.svg)
+![DR and BDR on a multiaccess network](net-ospf-dr.svg)
 
 - The DR is responsible for collecting and distributing the LSA packets sent and received.
 - All other routers are **DROthers**. They send their updates to the multicast address `224.0.0.6`, which only the DR and the BDR listen on.
@@ -665,7 +665,7 @@ When network traffic passes through an interface configured with an ACL, the rou
 
 ### Where to put them
 
-![Where to put each kind of ACL](images/net-acl-placement.svg)
+![Where to put each kind of ACL](net-acl-placement.svg)
 
 - **Extended ACLs** should be located as close to the source of the traffic as possible, so unwanted traffic dies before it crosses the network.
 - **Standard ACLs** should be located as close to the destination as possible, because they only see the source address and would otherwise block traffic heading somewhere legitimate too.
@@ -686,7 +686,7 @@ Coming back to NAT now that routing is in place.
 
 NAT provides the translation of private addresses to public addresses, and the router holds a **NAT table** to remember the translations it has made.
 
-![The NAT table and the three flavours](images/net-nat-types.svg)
+![The NAT table and the three flavours](net-nat-types.svg)
 
 ### The NAT table
 
@@ -723,7 +723,7 @@ Encryption addresses the first two. The third one is a network design problem, w
 - **Asymmetric encryption**, public key.
 - **Hashing**, one way only.
 
-![Same key on both sides, or a pair of keys](images/net-symmetric-asymmetric.svg)
+![Same key on both sides, or a pair of keys](net-symmetric-asymmetric.svg)
 
 ---
 
@@ -775,7 +775,7 @@ Asymmetric encryption gives each user one public key they give out and one priva
 
 Hashing only encrypts information, it cannot be decrypted, and it returns a hash value or hash code of a fixed length.
 
-![Hashing only goes one way](images/net-hashing.svg)
+![Hashing only goes one way](net-hashing.svg)
 
 ### Types of hash function
 
@@ -809,7 +809,7 @@ This is what HTTPS does on every page you load.
 
 A public key on its own proves nothing, since anybody can generate one and claim it belongs to a bank. A **certificate** is a public key with an identity attached and a signature from somebody you already trust.
 
-![Self signed against signed by a CA](images/net-certificates.svg)
+![Self signed against signed by a CA](net-certificates.svg)
 
 - A **self signed certificate** is signed with its own private key, so the issuer and the subject are the same. Verification fails against any trust store, which is fine for a lab and useless in public.
 - A **CA signed certificate** is signed by a **certificate authority**. The issuer is the CA and the subject is the server, so they differ, and verification against the CA certificate succeeds.
