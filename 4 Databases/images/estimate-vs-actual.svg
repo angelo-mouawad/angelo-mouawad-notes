@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 330" width="800" height="330" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="800" height="330" fill="#ffffff"/>
+<text x="400" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Misestimates: compare estimated rows against actual rows</text>
+<rect x="50" y="60" width="700" height="96" rx="8" fill="#fee2e2" stroke="#334155" stroke-width="2"/>
+<text x="70" y="86" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="start" font-weight="bold">Plan C: Nested Loop</text>
+<rect x="70" y="100" width="150" height="28" rx="14.0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="145.0" y="118.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">estimated 3</text>
+<polyline points="232,114 268,114" fill="none" stroke="#334155" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="268,114 260,107 260,121" fill="#334155"/>
+<rect x="278" y="100" width="160" height="28" rx="14.0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="358.0" y="118.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#b91c1c" text-anchor="middle" font-weight="normal">actual 39204</text>
+<text x="460" y="118" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#b91c1c" text-anchor="start" font-weight="normal">13000x out, the plan choice was fiction</text>
+<text x="70" y="146" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">execution 1842 ms</text>
+<rect x="50" y="180" width="700" height="96" rx="8" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="70" y="206" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="start" font-weight="bold">Plan D: Hash Join</text>
+<rect x="70" y="220" width="150" height="28" rx="14.0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="145.0" y="238.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">estimated 40000</text>
+<polyline points="232,234 268,234" fill="none" stroke="#334155" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="268,234 260,227 260,241" fill="#334155"/>
+<rect x="278" y="220" width="160" height="28" rx="14.0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="358.0" y="238.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="normal">actual 39204</text>
+<text x="460" y="238" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="start" font-weight="normal">accurate, so the cost estimate is trustworthy</text>
+<text x="70" y="266" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">execution 98 ms</text>
+<text x="400" y="312" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">cost tells you what the planner believed, the comparison tells you if it was true</text>
+</svg>

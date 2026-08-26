@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 340" width="820" height="340" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="820" height="340" fill="#ffffff"/>
+<text x="410" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">Timing decides what you are allowed to change</text>
+<line x1="70" y1="130" x2="750" y2="130" stroke="#334155" stroke-width="2.5"/>
+<rect x="330" y="108" width="160" height="44" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="410.0" y="135.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">the row is written</text>
+<rect x="80" y="108" width="190" height="44" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="175.0" y="135.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">BEFORE</text>
+<rect x="550" y="108" width="190" height="44" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="645.0" y="135.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">AFTER</text>
+<text x="175" y="186" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">modify NEW to change what is stored</text>
+<text x="175" y="210" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">return NULL to cancel the write</text>
+<text x="175" y="234" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">validation and normalisation live here</text>
+<text x="645" y="186" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">NEW is read only now</text>
+<text x="645" y="210" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">the return value is ignored</text>
+<text x="645" y="234" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">logging and derived values live here</text>
+<rect x="70" y="268" width="680" height="56" rx="8" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="410" y="292" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">OLD is NULL on INSERT, NEW is NULL on DELETE, both exist on UPDATE</text>
+<text x="410" y="314" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#b91c1c" text-anchor="middle" font-weight="normal">forgetting RETURN NEW in a BEFORE row trigger silently cancels the operation</text>
+</svg>

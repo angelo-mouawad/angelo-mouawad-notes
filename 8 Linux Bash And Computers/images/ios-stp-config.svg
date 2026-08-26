@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 390" width="820" height="390" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="820" height="390" fill="#ffffff"/>
+<text x="410" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">Choosing the root bridge rather than letting it happen</text>
+<rect x="320" y="60" width="180" height="56" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="410.0" y="93.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">Root bridge</text>
+<rect x="60" y="190" width="180" height="56" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="150.0" y="223.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">Switch B</text>
+<line x1="150" y1="190" x2="410" y2="116" stroke="#64748b" stroke-width="1.8"/>
+<text x="150" y="268" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="normal">root port</text>
+<rect x="580" y="190" width="180" height="56" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="670.0" y="223.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">Switch C</text>
+<line x1="670" y1="190" x2="410" y2="116" stroke="#64748b" stroke-width="1.8"/>
+<text x="670" y="268" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="normal">root port</text>
+<line x1="240" y1="218" x2="580" y2="218" stroke="#b91c1c" stroke-width="2.5" stroke-dasharray="6 4"/>
+<rect x="340" y="204" width="140" height="28" rx="14.0" fill="#fee2e2" stroke="#334155" stroke-width="1.5"/>
+<text x="410.0" y="222.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#b91c1c" text-anchor="middle" font-weight="normal">blocked</text>
+<rect x="60" y="288" width="700" height="84" rx="8" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="80" y="312" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#0f766e" text-anchor="start" font-weight="normal">spanning-tree vlan 10 root primary</text>
+<text x="80" y="336" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">sets the priority low enough to win, and doing it per VLAN spreads the load</text>
+<text x="80" y="360" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="start" font-weight="normal">the bridge id is priority plus MAC, so the MAC only decides when priorities tie</text>
+</svg>

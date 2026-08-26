@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 344" width="780" height="344" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="780" height="344" fill="#ffffff"/>
+<text x="390" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Privileges attach to job functions, not to people</text>
+<rect x="280" y="56" width="220" height="48" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="390.0" y="85.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="normal">analyst</text>
+<text x="390" y="120" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">a role with no LOGIN, used as a group</text>
+<rect x="250" y="140" width="280" height="26" rx="13.0" fill="#ccfbf1" stroke="#334155" stroke-width="1.5"/>
+<text x="390.0" y="157.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="normal">USAGE ON SCHEMA public</text>
+<rect x="250" y="172" width="280" height="26" rx="13.0" fill="#ccfbf1" stroke="#334155" stroke-width="1.5"/>
+<text x="390.0" y="189.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="normal">SELECT ON ALL TABLES</text>
+<polyline points="390,204 390,224" fill="none" stroke="#334155" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="390,224 383,216 397,216" fill="#334155"/>
+<text x="560" y="214" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">GRANT analyst TO ana;</text>
+<polyline points="390,224 390,236 180,236 180,252" fill="none" stroke="#334155" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="180,252 173,244 187,244" fill="#334155"/>
+<rect x="120" y="256" width="120" height="40" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="180.0" y="281.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">ana</text>
+<polyline points="390,224 390,236 390,236 390,252" fill="none" stroke="#334155" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="390,252 383,244 397,244" fill="#334155"/>
+<rect x="330" y="256" width="120" height="40" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="390.0" y="281.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">ben</text>
+<polyline points="390,224 390,236 600,236 600,252" fill="none" stroke="#334155" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="600,252 593,244 607,244" fill="#334155"/>
+<rect x="540" y="256" width="120" height="40" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="600.0" y="281.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">cleo</text>
+<text x="390" y="330" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">add a privilege to the group once and all three members gain it</text>
+</svg>

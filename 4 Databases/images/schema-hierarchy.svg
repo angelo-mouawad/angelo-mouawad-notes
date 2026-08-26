@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 400" width="760" height="400" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="760" height="400" fill="#ffffff"/>
+<rect x="260" y="14" width="240" height="56" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="380.0" y="39.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="normal">Server</text>
+<text x="380.0" y="59.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">one PostgreSQL instance, port 5432</text>
+<polyline points="380,74 380,96" fill="none" stroke="#334155" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="380,96 373,88 387,88" fill="#334155"/>
+<rect x="280" y="100" width="200" height="40" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="380.0" y="125.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">Database: university</text>
+<polyline points="380,148 380,168 130,168 130,190" fill="none" stroke="#334155" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="130,190 123,182 137,182" fill="#334155"/>
+<rect x="40" y="194" width="180" height="40" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="130.0" y="219.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">Schema: public</text>
+<rect x="60" y="252" width="140" height="34" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="130.0" y="274.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">students</text>
+<rect x="60" y="296" width="140" height="34" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="130.0" y="318.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">courses</text>
+<polyline points="380,148 380,168 380,168 380,190" fill="none" stroke="#334155" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="380,190 373,182 387,182" fill="#334155"/>
+<rect x="290" y="194" width="180" height="40" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="380.0" y="219.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">Schema: staging</text>
+<rect x="310" y="252" width="140" height="34" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="380.0" y="274.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">students</text>
+<text x="380" y="304" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#b91c1c" text-anchor="middle" font-weight="normal">same name, different table</text>
+<polyline points="380,148 380,168 630,168 630,190" fill="none" stroke="#334155" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="630,190 623,182 637,182" fill="#334155"/>
+<rect x="540" y="194" width="180" height="40" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="630.0" y="219.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">Schema: hr</text>
+<rect x="560" y="252" width="140" height="34" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="630.0" y="274.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">employees</text>
+<rect x="560" y="296" width="140" height="34" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="630.0" y="318.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">salaries</text>
+<text x="380" y="380" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="normal">full name of any table is  database.schema.table</text>
+</svg>

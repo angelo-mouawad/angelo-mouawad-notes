@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 400" width="840" height="400" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="840" height="400" fill="#ffffff"/>
+<text x="420" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">An ACL is read top to bottom, and it stops at the first match</text>
+<rect x="60" y="70" width="380" height="46" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="80" y="99" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">10  permit 192.168.10.5</text>
+<text x="460" y="99" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="start" font-weight="normal">matches, so permitted, and reading stops here</text>
+<polyline points="250,116 250,132" fill="none" stroke="#334155" stroke-width="1.6" stroke-linejoin="round"/>
+<polygon points="250,132 243,124 257,124" fill="#334155"/>
+<rect x="60" y="132" width="380" height="46" rx="6" fill="#fee2e2" stroke="#334155" stroke-width="2"/>
+<text x="80" y="161" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">20  deny  192.168.10.0 0.0.0.255</text>
+<text x="460" y="161" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="start" font-weight="normal">the rest of that subnet</text>
+<polyline points="250,178 250,194" fill="none" stroke="#334155" stroke-width="1.6" stroke-linejoin="round"/>
+<polygon points="250,194 243,186 257,186" fill="#334155"/>
+<rect x="60" y="194" width="380" height="46" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="80" y="223" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">30  permit any</text>
+<text x="460" y="223" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="start" font-weight="normal">everything else</text>
+<polyline points="250,240 250,256" fill="none" stroke="#334155" stroke-width="1.6" stroke-linejoin="round"/>
+<polygon points="250,256 243,248 257,248" fill="#334155"/>
+<rect x="60" y="256" width="380" height="46" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2" stroke-dasharray="5 4"/>
+<text x="80" y="285" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">     deny any (invisible)</text>
+<text x="460" y="285" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#b91c1c" text-anchor="start" font-weight="normal">always there, always last</text>
+<rect x="60" y="326" width="720" height="60" rx="8" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="420" y="350" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">order matters, a specific permit must come before the broader deny</text>
+<text x="420" y="372" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#b91c1c" text-anchor="middle" font-weight="normal">an ACL of permits only still blocks everything you forgot to mention</text>
+</svg>

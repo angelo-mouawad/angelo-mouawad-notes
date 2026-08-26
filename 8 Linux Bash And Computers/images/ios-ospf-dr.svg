@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 350" width="800" height="350" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="800" height="350" fill="#ffffff"/>
+<text x="400" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">Who becomes DR, in order</text>
+<rect x="60" y="80" width="40" height="34" rx="17.0" fill="#e2e8f0" stroke="#334155" stroke-width="1.5"/>
+<text x="80.0" y="101.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">1</text>
+<rect x="120" y="66" width="300" height="62" rx="8" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="270" y="103" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">highest priority</text>
+<text x="450" y="103" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#64748b" text-anchor="start" font-weight="normal">ip ospf priority 200</text>
+<rect x="60" y="154" width="40" height="34" rx="17.0" fill="#e2e8f0" stroke="#334155" stroke-width="1.5"/>
+<text x="80.0" y="175.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">2</text>
+<rect x="120" y="140" width="300" height="62" rx="8" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="270" y="177" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">highest router id</text>
+<text x="450" y="177" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="start" font-weight="normal">used only if priorities tie</text>
+<rect x="60" y="228" width="40" height="34" rx="17.0" fill="#e2e8f0" stroke="#334155" stroke-width="1.5"/>
+<text x="80.0" y="249.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">3</text>
+<rect x="120" y="214" width="300" height="62" rx="8" fill="#fee2e2" stroke="#334155" stroke-width="2"/>
+<text x="270" y="251" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">priority 0</text>
+<text x="450" y="251" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="start" font-weight="normal">never DR or BDR at all</text>
+<rect x="60" y="290" width="680" height="46" rx="8" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="400" y="318" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">adding a new router does not trigger a new election, the current DR keeps the job</text>
+</svg>

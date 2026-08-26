@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="800" height="400" fill="#ffffff"/>
+<text x="400" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">A recursive CTE iterates, it does not really recurse</text>
+<rect x="40" y="68" width="130" height="30" rx="15.0" fill="#fde68a" stroke="#334155" stroke-width="1.5"/>
+<text x="105.0" y="87.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">anchor</text>
+<rect x="200" y="62" width="136" height="40" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="268.0" y="87.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">CEO</text>
+<text x="520" y="86" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#64748b" text-anchor="start" font-weight="normal">runs once</text>
+<polyline points="120,102 120,124" fill="none" stroke="#334155" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="120,124 113,116 127,116" fill="#334155"/>
+<rect x="40" y="140" width="130" height="30" rx="15.0" fill="#f1f5f9" stroke="#334155" stroke-width="1.5"/>
+<text x="105.0" y="159.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">iteration 1</text>
+<rect x="200" y="134" width="136" height="40" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="268.0" y="159.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">VP Sales</text>
+<rect x="350" y="134" width="136" height="40" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="418.0" y="159.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">VP Eng</text>
+<text x="520" y="158" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#64748b" text-anchor="start" font-weight="normal">direct reports of the previous round</text>
+<polyline points="120,174 120,196" fill="none" stroke="#334155" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="120,196 113,188 127,188" fill="#334155"/>
+<rect x="40" y="212" width="130" height="30" rx="15.0" fill="#f1f5f9" stroke="#334155" stroke-width="1.5"/>
+<text x="105.0" y="231.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">iteration 2</text>
+<rect x="200" y="206" width="136" height="40" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="268.0" y="231.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">Manager A</text>
+<rect x="350" y="206" width="136" height="40" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="418.0" y="231.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">Manager B</text>
+<text x="520" y="230" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#64748b" text-anchor="start" font-weight="normal">direct reports of the previous round</text>
+<polyline points="120,246 120,268" fill="none" stroke="#334155" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="120,268 113,260 127,260" fill="#334155"/>
+<rect x="40" y="284" width="130" height="30" rx="15.0" fill="#f1f5f9" stroke="#334155" stroke-width="1.5"/>
+<text x="105.0" y="303.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">iteration 3</text>
+<rect x="200" y="278" width="286" height="40" rx="6" fill="#fee2e2" stroke="#334155" stroke-width="2"/>
+<text x="343.0" y="303.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#b91c1c" text-anchor="middle" font-weight="normal">zero rows</text>
+<text x="520" y="302" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#64748b" text-anchor="start" font-weight="normal">produces nothing, so it stops</text>
+<rect x="40" y="342" width="720" height="44" rx="8" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="400" y="370" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="normal">each round sees only the previous round's rows, which is why it terminates</text>
+</svg>

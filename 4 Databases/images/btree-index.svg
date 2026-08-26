@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 400" width="820" height="400" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="820" height="400" fill="#ffffff"/>
+<text x="410" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Index and heap are two separate structures</text>
+<rect x="330" y="50" width="160" height="40" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="410.0" y="75.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">40 | 80</text>
+<polyline points="410,90 410,108 170,108 170,128" fill="none" stroke="#334155" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="170,128 163,120 177,120" fill="#334155"/>
+<rect x="90" y="132" width="160" height="40" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="170.0" y="157.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">10 | 25</text>
+<polyline points="410,90 410,108 410,108 410,128" fill="none" stroke="#334155" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="410,128 403,120 417,120" fill="#334155"/>
+<rect x="330" y="132" width="160" height="40" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="410.0" y="157.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">50 | 65</text>
+<polyline points="410,90 410,108 650,108 650,128" fill="none" stroke="#334155" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="650,128 643,120 657,120" fill="#334155"/>
+<rect x="570" y="132" width="160" height="40" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="650.0" y="157.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">90 | 120</text>
+<text x="410" y="200" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">leaves are sorted and linked, so ranges and ORDER BY work too</text>
+<line x1="90" y1="214" x2="730" y2="214" stroke="#0f766e" stroke-width="2" stroke-dasharray="6 4"/>
+<rect x="90" y="280" width="64" height="40" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="122.0" y="305.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">65</text>
+<rect x="170" y="280" width="64" height="40" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="202.0" y="305.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">10</text>
+<rect x="250" y="280" width="64" height="40" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="282.0" y="305.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">120</text>
+<rect x="330" y="280" width="64" height="40" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="362.0" y="305.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">25</text>
+<rect x="410" y="280" width="64" height="40" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="442.0" y="305.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">90</text>
+<rect x="490" y="280" width="64" height="40" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="522.0" y="305.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">50</text>
+<rect x="570" y="280" width="64" height="40" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="602.0" y="305.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">80</text>
+<rect x="650" y="280" width="64" height="40" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="682.0" y="305.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">40</text>
+<text x="410" y="260" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">heap: an unordered pile of rows</text>
+<text x="410" y="348" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">an index entry points at a row, following the pointer is the heap fetch</text>
+<text x="410" y="378" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="bold">lookup cost is O(log n) instead of O(n)</text>
+</svg>

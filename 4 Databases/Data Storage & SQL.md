@@ -394,7 +394,7 @@ It completes the logical data model with technical details, like the data type o
 
 ## Common Data Types
 
-The notes stop at "pick a data type", so here are the ones actually used.
+Data types most commonly used.
 
 - `INTEGER`, `BIGINT` for whole numbers.
 - `DECIMAL(p, s)` for exact numbers with decimals. Money goes here, never in a float.
@@ -488,7 +488,7 @@ SUM(col)                        -- total
 COUNT(col)                      -- number of non NULL values in col
 COUNT(*)                        -- number of rows
 LOWER(col)   UPPER(col)         -- case conversion
-SUBSTRING(col FROM 3)           -- everything from position 3, that position included
+SUBSTRING(col FROM 3)           -- everything from pos 3, that position included
 ```
 
 `COUNT(col)` and `COUNT(*)` are not the same thing, and the difference is NULLs. `COUNT(*)` counts rows. `COUNT(col)` skips the rows where that column is empty. The same is true of the others: `AVG` divides by the number of non NULL values, not by the number of rows.
@@ -507,8 +507,8 @@ Getting these the wrong way round is the classic first error. `"London"` asks fo
 ## FROM
 
 ```sql
-FROM schema_name.table_name         -- one table
-FROM table1, table2                 -- implicit join
+FROM schema_name.table_name                  -- one table
+FROM table1, table2                          -- implicit join
 FROM table1 JOIN table2 ON t1.col = t2.col   -- explicit join
 ```
 

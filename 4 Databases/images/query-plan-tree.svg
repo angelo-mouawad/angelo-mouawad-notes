@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 400" width="820" height="400" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="820" height="400" fill="#ffffff"/>
+<text x="410" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">A plan is a tree, printed root first, executed leaves first</text>
+<rect x="240" y="56" width="340" height="46" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="410.0" y="76.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="normal">Hash Join</text>
+<text x="410.0" y="96.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">cost=13.50..312.75  rows=430</text>
+<polyline points="410,102 410,124 180,124 180,146" fill="none" stroke="#334155" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="180,146 173,138 187,138" fill="#334155"/>
+<polyline points="410,102 410,124 640,124 640,146" fill="none" stroke="#334155" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="640,146 633,138 647,138" fill="#334155"/>
+<rect x="50" y="150" width="260" height="46" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="180.0" y="170.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">Seq Scan on bookings</text>
+<text x="180.0" y="190.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">cost=0.00..245.00  rows=4044</text>
+<rect x="510" y="150" width="260" height="46" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="640.0" y="170.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">Hash</text>
+<text x="640.0" y="190.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">cost=11.00..11.00  rows=200</text>
+<polyline points="640,196 640,224" fill="none" stroke="#334155" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="640,224 633,216 647,216" fill="#334155"/>
+<rect x="510" y="228" width="260" height="46" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="640.0" y="248.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">Seq Scan on facilities</text>
+<text x="640.0" y="268.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">cost=0.00..11.00  rows=9</text>
+<text x="180" y="236" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">runs second</text>
+<text x="640" y="296" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">runs first</text>
+<rect x="50" y="306" width="720" height="76" rx="8" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="70" y="330" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#0f766e" text-anchor="start" font-weight="bold">cost=13.50..312.75</text>
+<text x="240" y="330" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">startup cost .. total cost, in arbitrary planner units</text>
+<text x="70" y="356" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">a parent's cost already includes its children, so never add the numbers up</text>
+<text x="70" y="376" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">rows = estimated output rows, width = estimated bytes per row</text>
+</svg>

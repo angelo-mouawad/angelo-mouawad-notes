@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 340" width="780" height="340" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="780" height="340" fill="#ffffff"/>
+<text x="390" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">Every PL/pgSQL block has the same four part shape</text>
+<rect x="60" y="62" width="190" height="48" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="155" y="92" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">DECLARE</text>
+<text x="270" y="84" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="start" font-weight="normal">optional</text>
+<text x="270" y="102" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">announce your variables before using them</text>
+<rect x="60" y="124" width="190" height="48" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="155" y="154" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">BEGIN</text>
+<text x="270" y="146" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="start" font-weight="normal">mandatory</text>
+<text x="270" y="164" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">the statements that actually run</text>
+<rect x="60" y="186" width="190" height="48" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="155" y="216" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">EXCEPTION</text>
+<text x="270" y="208" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="start" font-weight="normal">optional</text>
+<text x="270" y="226" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">error handlers, implicitly a savepoint</text>
+<rect x="60" y="248" width="190" height="48" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="155" y="278" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">END;</text>
+<text x="270" y="270" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="start" font-weight="normal">mandatory</text>
+<text x="270" y="288" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">closes the block, semicolon included</text>
+<rect x="60" y="314" width="660" height="0" rx="6" fill="#ffffff" stroke="#ffffff" stroke-width="2"/>
+<text x="390" y="326" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#b91c1c" text-anchor="middle" font-weight="normal">this BEGIN marks a code block, it is not the transaction BEGIN</text>
+</svg>

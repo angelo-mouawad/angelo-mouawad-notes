@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 330" width="780" height="330" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="780" height="330" fill="#ffffff"/>
+<text x="390" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">The arrow you use decides what type comes back</text>
+<rect x="240" y="54" width="300" height="40" rx="6" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="390.0" y="79.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">{"specs": {"ram": 16}}</text>
+<polyline points="390,94 390,112 200,112 200,134" fill="none" stroke="#0f766e" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="200,134 193,126 207,126" fill="#0f766e"/>
+<polyline points="390,94 390,112 580,112 580,134" fill="none" stroke="#1d4ed8" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="580,134 573,126 587,126" fill="#1d4ed8"/>
+<rect x="80" y="138" width="240" height="44" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="200.0" y="165.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">-&gt; 'specs'</text>
+<rect x="460" y="138" width="240" height="44" rx="6" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="580.0" y="165.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">-&gt;&gt; 'specs'</text>
+<text x="200" y="202" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="bold">returns JSONB</text>
+<text x="580" y="202" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1d4ed8" text-anchor="middle" font-weight="bold">returns TEXT</text>
+<text x="200" y="224" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">so you can keep chaining</text>
+<text x="580" y="224" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">so you can compare or display</text>
+<rect x="40" y="248" width="700" height="66" rx="8" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="60" y="274" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#0f766e" text-anchor="start" font-weight="bold">metadata -&gt; 'specs' -&gt;&gt; 'ram'</text>
+<text x="60" y="300" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">single arrows in the middle of a chain, a double arrow at the end</text>
+</svg>

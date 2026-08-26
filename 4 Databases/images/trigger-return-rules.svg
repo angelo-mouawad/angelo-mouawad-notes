@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 280" width="780" height="280" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="780" height="280" fill="#ffffff"/>
+<text x="390" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">What to return, and what happens if you do not</text>
+<rect x="50" y="62" width="240" height="26" rx="0" fill="#e2e8f0" stroke="#334155" stroke-width="1.5"/>
+<text x="170.0" y="79.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">Trigger</text>
+<rect x="290" y="62" width="180" height="26" rx="0" fill="#e2e8f0" stroke="#334155" stroke-width="1.5"/>
+<text x="380.0" y="79.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">Return</text>
+<rect x="470" y="62" width="240" height="26" rx="0" fill="#e2e8f0" stroke="#334155" stroke-width="1.5"/>
+<text x="590.0" y="79.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">Effect</text>
+<rect x="50" y="88" width="240" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="170.0" y="105.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">BEFORE ... FOR EACH ROW</text>
+<rect x="290" y="88" width="180" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="380.0" y="105.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">NEW</text>
+<rect x="470" y="88" width="240" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="590.0" y="105.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">the write goes ahead</text>
+<rect x="50" y="114" width="240" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="170.0" y="131.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">BEFORE ... FOR EACH ROW</text>
+<rect x="290" y="114" width="180" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="380.0" y="131.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">modified NEW</text>
+<rect x="470" y="114" width="240" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="590.0" y="131.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">the write goes ahead, changed</text>
+<rect x="50" y="140" width="240" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="170.0" y="157.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">BEFORE ... FOR EACH ROW</text>
+<rect x="290" y="140" width="180" height="26" rx="0" fill="#fee2e2" stroke="#334155" stroke-width="1.5"/>
+<text x="380.0" y="157.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">NULL</text>
+<rect x="470" y="140" width="240" height="26" rx="0" fill="#fee2e2" stroke="#334155" stroke-width="1.5"/>
+<text x="590.0" y="157.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">the write is cancelled, silently</text>
+<rect x="50" y="166" width="240" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="170.0" y="183.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">BEFORE DELETE ... ROW</text>
+<rect x="290" y="166" width="180" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="380.0" y="183.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">OLD</text>
+<rect x="470" y="166" width="240" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="590.0" y="183.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">the delete goes ahead</text>
+<rect x="50" y="192" width="240" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="170.0" y="209.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">AFTER anything</text>
+<rect x="290" y="192" width="180" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="380.0" y="209.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">ignored</text>
+<rect x="470" y="192" width="240" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="590.0" y="209.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">return NULL by convention</text>
+<rect x="50" y="218" width="240" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="170.0" y="235.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">FOR EACH STATEMENT</text>
+<rect x="290" y="218" width="180" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="380.0" y="235.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">ignored</text>
+<rect x="470" y="218" width="240" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="590.0" y="235.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">return NULL by convention</text>
+<text x="390" y="258" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">FOR EACH ROW runs once per affected row, FOR EACH STATEMENT runs once in total</text>
+</svg>

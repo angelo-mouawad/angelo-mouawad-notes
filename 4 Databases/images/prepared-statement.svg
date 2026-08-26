@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 300" width="820" height="300" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="820" height="300" fill="#ffffff"/>
+<text x="410" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">Prepared execution skips the first three stages on repeat</text>
+<text x="60" y="66" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="start" font-weight="bold">Ad hoc, every execution</text>
+<rect x="60" y="80" width="150" height="44" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="135.0" y="107.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">Parse</text>
+<polyline points="210,102 232,102" fill="none" stroke="#334155" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="232,102 224,95 224,109" fill="#334155"/>
+<rect x="235" y="80" width="150" height="44" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="310.0" y="107.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">Analyse</text>
+<polyline points="385,102 407,102" fill="none" stroke="#334155" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="407,102 399,95 399,109" fill="#334155"/>
+<rect x="410" y="80" width="150" height="44" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="485.0" y="107.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">Plan</text>
+<polyline points="560,102 582,102" fill="none" stroke="#334155" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="582,102 574,95 574,109" fill="#334155"/>
+<rect x="585" y="80" width="150" height="44" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="660.0" y="107.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">Execute</text>
+<text x="280" y="144" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#b91c1c" text-anchor="middle" font-weight="normal">repeated in full every single time</text>
+<text x="60" y="176" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="start" font-weight="bold">Prepared, second execution onward</text>
+<rect x="60" y="190" width="150" height="44" rx="6" fill="#e2e8f0" stroke="#64748b" stroke-width="2" stroke-dasharray="5 4"/>
+<text x="135.0" y="217.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#64748b" text-anchor="middle" font-weight="normal">Parse</text>
+<polyline points="210,212 232,212" fill="none" stroke="#64748b" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="232,212 224,205 224,219" fill="#64748b"/>
+<rect x="235" y="190" width="150" height="44" rx="6" fill="#e2e8f0" stroke="#64748b" stroke-width="2" stroke-dasharray="5 4"/>
+<text x="310.0" y="217.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#64748b" text-anchor="middle" font-weight="normal">Analyse</text>
+<polyline points="385,212 407,212" fill="none" stroke="#64748b" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="407,212 399,205 399,219" fill="#64748b"/>
+<rect x="410" y="190" width="150" height="44" rx="6" fill="#e2e8f0" stroke="#64748b" stroke-width="2" stroke-dasharray="5 4"/>
+<text x="485.0" y="217.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#64748b" text-anchor="middle" font-weight="normal">Plan</text>
+<polyline points="560,212 582,212" fill="none" stroke="#64748b" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="582,212 574,205 574,219" fill="#64748b"/>
+<rect x="585" y="190" width="150" height="44" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="660.0" y="217.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="normal">Execute</text>
+<text x="280" y="254" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">done once, then cached</text>
+<text x="410" y="282" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="normal">the parameter is bound into an already parsed statement, so it can never become SQL syntax</text>
+</svg>

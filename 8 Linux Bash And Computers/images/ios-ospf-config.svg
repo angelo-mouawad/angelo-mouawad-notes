@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 400" width="840" height="400" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="840" height="400" fill="#ffffff"/>
+<text x="420" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">What each OSPF command actually decides</text>
+<rect x="50" y="60" width="340" height="62" rx="8" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="220" y="97" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">router ospf 10</text>
+<text x="410" y="86" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">the process id, locally significant only,</text>
+<text x="410" y="106" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="start" font-weight="normal">it need not match the neighbour</text>
+<rect x="50" y="142" width="340" height="62" rx="8" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="220" y="179" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">router-id 1.1.1.1</text>
+<text x="410" y="168" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">sets the id by hand, which beats a loopback,</text>
+<text x="410" y="188" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="start" font-weight="normal">which beats the highest interface address</text>
+<rect x="50" y="224" width="340" height="62" rx="8" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="220" y="261" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">network 10.0.0.0 0.0.0.255 area 0</text>
+<text x="410" y="250" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">which interfaces take part, chosen by</text>
+<text x="410" y="270" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="start" font-weight="normal">matching their address against a wildcard</text>
+<rect x="50" y="306" width="340" height="62" rx="8" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="220" y="343" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">passive-interface g0/0</text>
+<text x="410" y="332" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">still advertises the network but sends</text>
+<text x="410" y="352" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="start" font-weight="normal">no hellos out of it, used on LAN ports</text>
+<rect x="50" y="392" width="0" height="0" rx="6" fill="#ffffff" stroke="#ffffff" stroke-width="2"/>
+<text x="420" y="386" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="normal">the area number must match on both sides of a link, the process id must not</text>
+</svg>

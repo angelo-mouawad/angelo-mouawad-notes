@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 300" width="840" height="300" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="840" height="300" fill="#ffffff"/>
+<line x1="70" y1="120" x2="780" y2="120" stroke="#334155" stroke-width="2.5"/>
+<circle cx="70" cy="120" r="7" fill="#0f766e" stroke="#334155" stroke-width="2"/>
+<text x="70" y="100" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">BEGIN</text>
+<circle cx="220" cy="120" r="7" fill="#0f766e" stroke="#334155" stroke-width="2"/>
+<text x="220" y="100" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">INSERT Eve</text>
+<circle cx="360" cy="120" r="7" fill="#0f766e" stroke="#334155" stroke-width="2"/>
+<text x="360" y="100" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">SAVEPOINT sp1</text>
+<circle cx="500" cy="120" r="7" fill="#0f766e" stroke="#334155" stroke-width="2"/>
+<text x="500" y="100" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">bad UPDATE</text>
+<circle cx="620" cy="120" r="7" fill="#0f766e" stroke="#334155" stroke-width="2"/>
+<text x="620" y="100" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">ROLLBACK TO sp1</text>
+<circle cx="770" cy="120" r="7" fill="#0f766e" stroke="#334155" stroke-width="2"/>
+<text x="770" y="100" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">COMMIT</text>
+<rect x="360" y="140" width="260" height="46" rx="8" fill="#fee2e2" stroke="#b91c1c" stroke-width="2" stroke-dasharray="5 4"/>
+<text x="490" y="168" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#b91c1c" text-anchor="middle" font-weight="normal">this stretch is undone</text>
+<polyline points="620,140 620,132" fill="none" stroke="#b91c1c" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="620,132 613,140 627,140" fill="#b91c1c"/>
+<rect x="70" y="200" width="290" height="46" rx="8" fill="#ccfbf1" stroke="#0f766e" stroke-width="2"/>
+<text x="215" y="228" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="normal">this stretch survives</text>
+<text x="420" y="274" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">ROLLBACK TO does not end the transaction, you carry on from the marker</text>
+<text x="420" y="60" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">One transaction, partial undo</text>
+</svg>

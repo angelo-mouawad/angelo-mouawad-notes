@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" width="800" height="360" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="800" height="360" fill="#ffffff"/>
+<text x="400" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">LATERAL runs the subquery once per left row</text>
+<text x="150" y="70" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">facilities</text>
+<rect x="40" y="84" width="70" height="26" rx="0" fill="#e2e8f0" stroke="#334155" stroke-width="1.5"/>
+<text x="75.0" y="101.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">facid</text>
+<rect x="110" y="84" width="160" height="26" rx="0" fill="#e2e8f0" stroke="#334155" stroke-width="1.5"/>
+<text x="190.0" y="101.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">name</text>
+<rect x="40" y="110" width="70" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="75.0" y="127.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">1</text>
+<rect x="110" y="110" width="160" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="190.0" y="127.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Tennis Court 1</text>
+<rect x="40" y="136" width="70" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="75.0" y="153.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">2</text>
+<rect x="110" y="136" width="160" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="190.0" y="153.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Tennis Court 2</text>
+<rect x="40" y="162" width="70" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="75.0" y="179.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">3</text>
+<rect x="110" y="162" width="160" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="190.0" y="179.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Squash Court</text>
+<polyline points="276,123 336,123" fill="none" stroke="#0f766e" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="336,123 328,116 328,130" fill="#0f766e"/>
+<polyline points="276,149 336,149" fill="none" stroke="#0f766e" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="336,149 328,142 328,156" fill="#0f766e"/>
+<polyline points="276,175 336,175" fill="none" stroke="#0f766e" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="336,175 328,168 328,182" fill="#0f766e"/>
+<rect x="346" y="92" width="260" height="108" rx="8" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="476" y="116" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">the subquery, with</text>
+<text x="476" y="136" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="normal">f.facid plugged in</text>
+<text x="476" y="162" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">ORDER BY starttime DESC</text>
+<text x="476" y="182" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">LIMIT 3</text>
+<polyline points="616,146 660,146" fill="none" stroke="#0f766e" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="660,146 652,139 652,153" fill="#0f766e"/>
+<text x="700" y="120" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">3 rows</text>
+<text x="700" y="146" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">3 rows</text>
+<text x="700" y="172" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">3 rows</text>
+<rect x="40" y="226" width="720" height="112" rx="8" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="60" y="252" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="start" font-weight="bold">the LIMIT applies per facility, not to the whole result</text>
+<text x="60" y="280" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">a plain subquery in FROM cannot see f, the items in FROM are evaluated independently</text>
+<text x="60" y="302" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">LATERAL lifts that restriction, so the subquery may reference earlier tables</text>
+<text x="60" y="324" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">the cost is a nested loop, one subquery execution per left row</text>
+</svg>

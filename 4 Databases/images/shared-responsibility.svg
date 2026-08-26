@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 340" width="800" height="340" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="800" height="340" fill="#ffffff"/>
+<text x="400" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">Managed services remove operational work, not design work</text>
+<rect x="40" y="56" width="340" height="216" rx="10" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="210" y="84" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">The provider manages</text>
+<line x1="60" y1="96" x2="360" y2="96" stroke="#334155" stroke-width="1.5"/>
+<text x="210" y="122" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">hardware and data centres</text>
+<text x="210" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">OS and engine patching</text>
+<text x="210" y="178" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">automated backups and PITR</text>
+<text x="210" y="206" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">replication and failover</text>
+<text x="210" y="234" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">storage encryption</text>
+<rect x="420" y="56" width="340" height="216" rx="10" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="590" y="84" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">You still manage</text>
+<line x1="440" y1="96" x2="740" y2="96" stroke="#334155" stroke-width="1.5"/>
+<text x="590" y="122" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">schema and data model</text>
+<text x="590" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">indexes and query tuning</text>
+<text x="590" y="178" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">users, roles and privileges</text>
+<text x="590" y="206" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">instance sizing and cost</text>
+<text x="590" y="234" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">when to take a major upgrade</text>
+<text x="400" y="302" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#0f766e" text-anchor="middle" font-weight="bold">the provider secures the cloud, you secure what you put in it</text>
+<text x="400" y="326" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">running PostgreSQL yourself on a rented VM is still self managed</text>
+</svg>

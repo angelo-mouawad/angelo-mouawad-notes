@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" width="800" height="320" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="800" height="320" fill="#ffffff"/>
+<text x="400" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">A foreign table stores a definition, not rows</text>
+<rect x="40" y="56" width="340" height="220" rx="10" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="210" y="82" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">Your PostgreSQL database</text>
+<rect x="70" y="98" width="130" height="44" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="135.0" y="125.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">members</text>
+<text x="135" y="158" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#64748b" text-anchor="middle" font-weight="normal">local table</text>
+<rect x="220" y="98" width="130" height="44" rx="6" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="285.0" y="125.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">bookings_csv</text>
+<text x="285" y="158" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#64748b" text-anchor="middle" font-weight="normal">foreign table</text>
+<rect x="70" y="190" width="280" height="40" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="210.0" y="215.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">one query joins both</text>
+<text x="210" y="254" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#64748b" text-anchor="middle" font-weight="normal">no special syntax, the planner treats it as another relation</text>
+<polyline points="390,120 450,120" fill="none" stroke="#334155" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="450,120 442,113 442,127" fill="#334155"/>
+<text x="420" y="106" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="normal">FDW</text>
+<rect x="460" y="56" width="300" height="220" rx="10" fill="#e2e8f0" stroke="#334155" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="610" y="82" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">Outside the database</text>
+<rect x="490" y="98" width="240" height="40" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="610.0" y="123.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">bookings.csv</text>
+<rect x="490" y="148" width="240" height="40" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="610.0" y="173.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">another PostgreSQL server</text>
+<rect x="490" y="198" width="240" height="40" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="610.0" y="223.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">MySQL, Oracle, an API</text>
+<text x="400" y="302" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="normal">pushdown means sending the WHERE to the source instead of fetching everything back</text>
+</svg>

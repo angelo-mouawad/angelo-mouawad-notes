@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 320" width="820" height="320" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="820" height="320" fill="#ffffff"/>
+<rect x="30" y="50" width="230" height="230" rx="10" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="145" y="78" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Run T1, then T2</text>
+<line x1="48" y1="90" x2="242" y2="90" stroke="#334155" stroke-width="1.5"/>
+<text x="145" y="114" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">T1 sees 2 on duty</text>
+<text x="145" y="138" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Alice goes off</text>
+<text x="145" y="162" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">T2 sees 1 on duty</text>
+<text x="145" y="186" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">T2 must stay</text>
+<line x1="48" y1="224" x2="242" y2="224" stroke="#334155" stroke-width="1.5"/>
+<text x="145" y="254" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#0f766e" text-anchor="middle" font-weight="bold">1 on duty</text>
+<rect x="290" y="50" width="230" height="230" rx="10" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="405" y="78" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Run T2, then T1</text>
+<line x1="308" y1="90" x2="502" y2="90" stroke="#334155" stroke-width="1.5"/>
+<text x="405" y="114" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">T2 sees 2 on duty</text>
+<text x="405" y="138" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Bob goes off</text>
+<text x="405" y="162" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">T1 sees 1 on duty</text>
+<text x="405" y="186" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">T1 must stay</text>
+<line x1="308" y1="224" x2="502" y2="224" stroke="#334155" stroke-width="1.5"/>
+<text x="405" y="254" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#0f766e" text-anchor="middle" font-weight="bold">1 on duty</text>
+<rect x="550" y="50" width="230" height="230" rx="10" fill="#fee2e2" stroke="#334155" stroke-width="2"/>
+<text x="665" y="78" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Interleaved</text>
+<line x1="568" y1="90" x2="762" y2="90" stroke="#334155" stroke-width="1.5"/>
+<text x="665" y="114" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">both see 2 on duty</text>
+<text x="665" y="138" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Alice goes off</text>
+<text x="665" y="162" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Bob goes off</text>
+<text x="665" y="186" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">neither saw the other</text>
+<line x1="568" y1="224" x2="762" y2="224" stroke="#334155" stroke-width="1.5"/>
+<text x="665" y="254" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#b91c1c" text-anchor="middle" font-weight="bold">0 on duty</text>
+<text x="410" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">Rule: at least one doctor must stay on duty</text>
+<text x="410" y="306" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#b91c1c" text-anchor="middle" font-weight="normal">no serial ordering produces zero on duty, so that outcome is not serializable</text>
+</svg>

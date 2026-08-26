@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 300" width="880" height="300" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="880" height="300" fill="#ffffff"/>
+<text x="440" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">Each model appeared because the previous one hit a wall</text>
+<rect x="20" y="70" width="156" height="140" rx="8" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="98" y="96" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">Hierarchical</text>
+<text x="98" y="116" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#64748b" text-anchor="middle" font-weight="normal">1960s</text>
+<line x1="36" y1="128" x2="160" y2="128" stroke="#334155" stroke-width="1.2"/>
+<text x="98" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">trees, one parent</text>
+<text x="98" y="180" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#64748b" text-anchor="middle" font-weight="normal">limit:</text>
+<text x="98" y="196" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#b91c1c" text-anchor="middle" font-weight="normal">no many to many</text>
+<polyline points="176,140 192,140" fill="none" stroke="#334155" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="192,140 184,133 184,147" fill="#334155"/>
+<rect x="192" y="70" width="156" height="140" rx="8" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="270" y="96" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">Network</text>
+<text x="270" y="116" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#64748b" text-anchor="middle" font-weight="normal">1970s</text>
+<line x1="208" y1="128" x2="332" y2="128" stroke="#334155" stroke-width="1.2"/>
+<text x="270" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">graphs of pointers</text>
+<text x="270" y="180" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#64748b" text-anchor="middle" font-weight="normal">limit:</text>
+<text x="270" y="196" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#b91c1c" text-anchor="middle" font-weight="normal">navigated by hand</text>
+<polyline points="348,140 364,140" fill="none" stroke="#334155" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="364,140 356,133 356,147" fill="#334155"/>
+<rect x="364" y="70" width="156" height="140" rx="8" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="442" y="96" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">Relational</text>
+<text x="442" y="116" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#64748b" text-anchor="middle" font-weight="normal">1970s on</text>
+<line x1="380" y1="128" x2="504" y2="128" stroke="#334155" stroke-width="1.2"/>
+<text x="442" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">tables and keys</text>
+<text x="442" y="180" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#64748b" text-anchor="middle" font-weight="normal">limit:</text>
+<text x="442" y="196" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#b91c1c" text-anchor="middle" font-weight="normal">rigid schema</text>
+<polyline points="520,140 536,140" fill="none" stroke="#334155" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="536,140 528,133 528,147" fill="#334155"/>
+<rect x="536" y="70" width="156" height="140" rx="8" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="614" y="96" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">NoSQL</text>
+<text x="614" y="116" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#64748b" text-anchor="middle" font-weight="normal">2000s</text>
+<line x1="552" y1="128" x2="676" y2="128" stroke="#334155" stroke-width="1.2"/>
+<text x="614" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">documents, graphs, KV</text>
+<text x="614" y="180" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#64748b" text-anchor="middle" font-weight="normal">limit:</text>
+<text x="614" y="196" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#b91c1c" text-anchor="middle" font-weight="normal">weaker consistency</text>
+<polyline points="692,140 708,140" fill="none" stroke="#334155" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="708,140 700,133 700,147" fill="#334155"/>
+<rect x="708" y="70" width="156" height="140" rx="8" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="786" y="96" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">NewSQL</text>
+<text x="786" y="116" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#64748b" text-anchor="middle" font-weight="normal">2010s</text>
+<line x1="724" y1="128" x2="848" y2="128" stroke="#334155" stroke-width="1.2"/>
+<text x="786" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#1f2933" text-anchor="middle" font-weight="normal">scale plus ACID</text>
+<text x="786" y="180" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#64748b" text-anchor="middle" font-weight="normal">limit:</text>
+<text x="786" y="196" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#b91c1c" text-anchor="middle" font-weight="normal">young, complex</text>
+<text x="440" y="244" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="normal">the relational model won because it separated what you ask for from how it is fetched</text>
+<text x="440" y="270" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">and modern relational databases absorbed the NoSQL features anyway, JSONB being the example</text>
+</svg>

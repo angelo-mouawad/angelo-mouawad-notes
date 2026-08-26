@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 340" width="800" height="340" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="800" height="340" fill="#ffffff"/>
+<text x="400" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">A wildcard mask is the subnet mask turned inside out</text>
+<rect x="90" y="70" width="170" height="32" rx="0" fill="#e2e8f0" stroke="#334155" stroke-width="1.5"/>
+<text x="175.0" y="90.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold"></text>
+<rect x="260" y="70" width="220" height="32" rx="0" fill="#e2e8f0" stroke="#334155" stroke-width="1.5"/>
+<text x="370.0" y="90.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">value</text>
+<rect x="480" y="70" width="230" height="32" rx="0" fill="#e2e8f0" stroke="#334155" stroke-width="1.5"/>
+<text x="595.0" y="90.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">meaning of the bits</text>
+<rect x="90" y="102" width="170" height="32" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="175.0" y="122.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">subnet mask</text>
+<rect x="260" y="102" width="220" height="32" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="370.0" y="122.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">255.255.255.0</text>
+<rect x="480" y="102" width="230" height="32" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="595.0" y="122.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">1 means match</text>
+<rect x="90" y="134" width="170" height="32" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="175.0" y="154.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">wildcard mask</text>
+<rect x="260" y="134" width="220" height="32" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="370.0" y="154.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">0.0.0.255</text>
+<rect x="480" y="134" width="230" height="32" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="595.0" y="154.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">0 means match</text>
+<text x="400" y="196" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="normal">subtract each octet from 255 and you have it</text>
+<rect x="90" y="216" width="620" height="104" rx="8" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="110" y="242" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">255.255.255.255  minus  255.255.255.0   gives   0.0.0.255</text>
+<text x="110" y="272" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#0f766e" text-anchor="start" font-weight="bold">network 192.168.10.0 0.0.0.255 area 0</text>
+<text x="110" y="300" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="start" font-weight="normal">used by OSPF network statements and by every ACL</text>
+</svg>

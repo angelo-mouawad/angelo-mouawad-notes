@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 340" width="800" height="340" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="800" height="340" fill="#ffffff"/>
+<text x="400" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">Where should the logic live</text>
+<rect x="40" y="56" width="340" height="200" rx="10" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="210" y="84" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Put it in the database</text>
+<line x1="60" y1="96" x2="360" y2="96" stroke="#334155" stroke-width="1.5"/>
+<text x="210" y="122" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">data integrity constraints</text>
+<text x="210" y="148" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">audit logging</text>
+<text x="210" y="174" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">denormalised value maintenance</text>
+<text x="210" y="200" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">bulk data transformation</text>
+<text x="210" y="226" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">rules that must hold for everyone</text>
+<rect x="420" y="56" width="340" height="200" rx="10" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="590" y="84" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Put it in the application</text>
+<line x1="440" y1="96" x2="740" y2="96" stroke="#334155" stroke-width="1.5"/>
+<text x="590" y="122" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">business workflows</text>
+<text x="590" y="148" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">UI logic and formatting</text>
+<text x="590" y="174" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">external API calls</text>
+<text x="590" y="200" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">complex algorithms</text>
+<text x="590" y="226" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">anything needing heavy testing</text>
+<rect x="40" y="272" width="720" height="52" rx="8" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="400" y="304" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">the sorting question: would it be a disaster if some client bypassed this rule</text>
+</svg>

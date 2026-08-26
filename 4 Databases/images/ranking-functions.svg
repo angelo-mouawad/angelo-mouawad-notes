@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 300" width="700" height="300" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="700" height="300" fill="#ffffff"/>
+<text x="350" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Three ways to number rows, and ties are what separate them</text>
+<rect x="80" y="66" width="110" height="26" rx="0" fill="#e2e8f0" stroke="#334155" stroke-width="1.5"/>
+<text x="135.0" y="83.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">salary</text>
+<rect x="190" y="66" width="140" height="26" rx="0" fill="#e2e8f0" stroke="#334155" stroke-width="1.5"/>
+<text x="260.0" y="83.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">ROW_NUMBER</text>
+<rect x="330" y="66" width="140" height="26" rx="0" fill="#e2e8f0" stroke="#334155" stroke-width="1.5"/>
+<text x="400.0" y="83.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">RANK</text>
+<rect x="470" y="66" width="140" height="26" rx="0" fill="#e2e8f0" stroke="#334155" stroke-width="1.5"/>
+<text x="540.0" y="83.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">DENSE_RANK</text>
+<rect x="80" y="92" width="110" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="135.0" y="109.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">100</text>
+<rect x="190" y="92" width="140" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="260.0" y="109.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">1</text>
+<rect x="330" y="92" width="140" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="400.0" y="109.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">1</text>
+<rect x="470" y="92" width="140" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="540.0" y="109.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">1</text>
+<rect x="80" y="118" width="110" height="26" rx="0" fill="#ccfbf1" stroke="#334155" stroke-width="1.5"/>
+<text x="135.0" y="135.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">90</text>
+<rect x="190" y="118" width="140" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="260.0" y="135.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">2</text>
+<rect x="330" y="118" width="140" height="26" rx="0" fill="#ccfbf1" stroke="#334155" stroke-width="1.5"/>
+<text x="400.0" y="135.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">2</text>
+<rect x="470" y="118" width="140" height="26" rx="0" fill="#ccfbf1" stroke="#334155" stroke-width="1.5"/>
+<text x="540.0" y="135.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">2</text>
+<rect x="80" y="144" width="110" height="26" rx="0" fill="#ccfbf1" stroke="#334155" stroke-width="1.5"/>
+<text x="135.0" y="161.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">90</text>
+<rect x="190" y="144" width="140" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="260.0" y="161.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">3</text>
+<rect x="330" y="144" width="140" height="26" rx="0" fill="#ccfbf1" stroke="#334155" stroke-width="1.5"/>
+<text x="400.0" y="161.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">2</text>
+<rect x="470" y="144" width="140" height="26" rx="0" fill="#ccfbf1" stroke="#334155" stroke-width="1.5"/>
+<text x="540.0" y="161.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">2</text>
+<rect x="80" y="170" width="110" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="135.0" y="187.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">80</text>
+<rect x="190" y="170" width="140" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="260.0" y="187.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">4</text>
+<rect x="330" y="170" width="140" height="26" rx="0" fill="#fde68a" stroke="#334155" stroke-width="1.5"/>
+<text x="400.0" y="187.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">4</text>
+<rect x="470" y="170" width="140" height="26" rx="0" fill="#fde68a" stroke="#334155" stroke-width="1.5"/>
+<text x="540.0" y="187.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">3</text>
+<text x="350" y="216" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle" font-weight="normal">the tie is the whole story</text>
+<text x="350" y="240" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">ROW_NUMBER never ties, it breaks them arbitrarily</text>
+<text x="350" y="260" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">RANK shares the rank then skips, so 2, 2, then 4</text>
+<text x="350" y="280" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">DENSE_RANK shares the rank and does not skip, so 2, 2, then 3</text>
+</svg>

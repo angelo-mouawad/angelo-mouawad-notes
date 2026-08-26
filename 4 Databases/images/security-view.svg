@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 380" width="820" height="380" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="820" height="380" fill="#ffffff"/>
+<text x="410" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">Revoke the table, grant the view</text>
+<text x="220" y="68" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">employees</text>
+<rect x="40" y="80" width="50" height="26" rx="0" fill="#e2e8f0" stroke="#334155" stroke-width="1.5"/>
+<text x="65.0" y="97.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">id</text>
+<rect x="90" y="80" width="80" height="26" rx="0" fill="#e2e8f0" stroke="#334155" stroke-width="1.5"/>
+<text x="130.0" y="97.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">name</text>
+<rect x="170" y="80" width="80" height="26" rx="0" fill="#e2e8f0" stroke="#334155" stroke-width="1.5"/>
+<text x="210.0" y="97.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">dept</text>
+<rect x="250" y="80" width="90" height="26" rx="0" fill="#e2e8f0" stroke="#334155" stroke-width="1.5"/>
+<text x="295.0" y="97.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">salary</text>
+<rect x="340" y="80" width="110" height="26" rx="0" fill="#e2e8f0" stroke="#334155" stroke-width="1.5"/>
+<text x="395.0" y="97.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">national_id</text>
+<rect x="40" y="106" width="50" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="65.0" y="123.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">1</text>
+<rect x="90" y="106" width="80" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="130.0" y="123.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Ana</text>
+<rect x="170" y="106" width="80" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="210.0" y="123.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Sales</text>
+<rect x="250" y="106" width="90" height="26" rx="0" fill="#fee2e2" stroke="#334155" stroke-width="1.5"/>
+<text x="295.0" y="123.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">48000</text>
+<rect x="340" y="106" width="110" height="26" rx="0" fill="#fee2e2" stroke="#334155" stroke-width="1.5"/>
+<text x="395.0" y="123.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">BE1234</text>
+<rect x="40" y="132" width="50" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="65.0" y="149.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">2</text>
+<rect x="90" y="132" width="80" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="130.0" y="149.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Ben</text>
+<rect x="170" y="132" width="80" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="210.0" y="149.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Sales</text>
+<rect x="250" y="132" width="90" height="26" rx="0" fill="#fee2e2" stroke="#334155" stroke-width="1.5"/>
+<text x="295.0" y="149.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">56000</text>
+<rect x="340" y="132" width="110" height="26" rx="0" fill="#fee2e2" stroke="#334155" stroke-width="1.5"/>
+<text x="395.0" y="149.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">BE9876</text>
+<rect x="40" y="158" width="50" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="65.0" y="175.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">3</text>
+<rect x="90" y="158" width="80" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="130.0" y="175.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Cleo</text>
+<rect x="170" y="158" width="80" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="210.0" y="175.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">IT</text>
+<rect x="250" y="158" width="90" height="26" rx="0" fill="#fee2e2" stroke="#334155" stroke-width="1.5"/>
+<text x="295.0" y="175.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">68000</text>
+<rect x="340" y="158" width="110" height="26" rx="0" fill="#fee2e2" stroke="#334155" stroke-width="1.5"/>
+<text x="395.0" y="175.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">BE5555</text>
+<text x="220" y="214" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#b91c1c" text-anchor="middle" font-weight="normal">sensitive columns</text>
+<polyline points="300,202 330,190" fill="none" stroke="#b91c1c" stroke-width="1.8" stroke-linejoin="round" stroke-dasharray="4 3"/>
+<polygon points="330,190 322,183 322,197" fill="#b91c1c"/>
+<polyline points="490,140 540,140" fill="none" stroke="#0f766e" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="540,140 532,133 532,147" fill="#0f766e"/>
+<text x="515" y="126" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="normal">view</text>
+<text x="660" y="68" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">employee_directory</text>
+<rect x="560" y="80" width="60" height="26" rx="0" fill="#e2e8f0" stroke="#334155" stroke-width="1.5"/>
+<text x="590.0" y="97.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">id</text>
+<rect x="620" y="80" width="90" height="26" rx="0" fill="#e2e8f0" stroke="#334155" stroke-width="1.5"/>
+<text x="665.0" y="97.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">name</text>
+<rect x="710" y="80" width="90" height="26" rx="0" fill="#e2e8f0" stroke="#334155" stroke-width="1.5"/>
+<text x="755.0" y="97.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">dept</text>
+<rect x="560" y="106" width="60" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="590.0" y="123.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">1</text>
+<rect x="620" y="106" width="90" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="665.0" y="123.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Ana</text>
+<rect x="710" y="106" width="90" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="755.0" y="123.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Sales</text>
+<rect x="560" y="132" width="60" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="590.0" y="149.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">2</text>
+<rect x="620" y="132" width="90" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="665.0" y="149.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Ben</text>
+<rect x="710" y="132" width="90" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="755.0" y="149.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Sales</text>
+<rect x="560" y="158" width="60" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="590.0" y="175.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">3</text>
+<rect x="620" y="158" width="90" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="665.0" y="175.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">Cleo</text>
+<rect x="710" y="158" width="90" height="26" rx="0" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+<text x="755.0" y="175.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">IT</text>
+<rect x="40" y="248" width="740" height="104" rx="8" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+<text x="60" y="274" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">REVOKE ALL ON employees FROM analyst;</text>
+<text x="60" y="298" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">GRANT SELECT ON employee_directory TO analyst;</text>
+<text x="60" y="332" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="start" font-weight="normal">the view runs with its owner's privileges, which is why the caller never needs the table</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 320" width="780" height="320" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="780" height="320" fill="#ffffff"/>
+<text x="390" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">When does an index actually win</text>
+<text x="60" y="86" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">WHERE email = 'ana@x.com'</text>
+<rect x="60" y="96" width="480" height="26" rx="4" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<rect x="60" y="96" width="5" height="26" rx="4" fill="#0f766e" stroke="#334155" stroke-width="2"/>
+<text x="560" y="114" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">1% of the table</text>
+<text x="560" y="132" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="start" font-weight="normal">index scan wins</text>
+<text x="60" y="164" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">WHERE country = 'BE'</text>
+<rect x="60" y="174" width="480" height="26" rx="4" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<rect x="60" y="174" width="120" height="26" rx="4" fill="#fde68a" stroke="#334155" stroke-width="2"/>
+<text x="560" y="192" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">25% of the table</text>
+<text x="560" y="210" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#b45309" text-anchor="start" font-weight="normal">planner decides, often a bitmap scan</text>
+<text x="60" y="242" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="start" font-weight="normal">WHERE active = true</text>
+<rect x="60" y="252" width="480" height="26" rx="4" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<rect x="60" y="252" width="432" height="26" rx="4" fill="#b91c1c" stroke="#334155" stroke-width="2"/>
+<text x="560" y="270" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start" font-weight="normal">90% of the table</text>
+<text x="560" y="288" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#b91c1c" text-anchor="start" font-weight="normal">sequential scan wins</text>
+<text x="390" y="300" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="normal">rough threshold: below about 5 to 10 percent of the table, the index pays off</text>
+</svg>

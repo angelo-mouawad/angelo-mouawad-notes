@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 340" width="800" height="340" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="800" height="340" fill="#ffffff"/>
+<text x="400" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Both are persistent objects, only one holds data</text>
+<rect x="40" y="56" width="350" height="250" rx="10" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="215" y="84" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="bold">View</text>
+<rect x="100" y="100" width="230" height="44" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="215.0" y="127.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">stores the query text</text>
+<polyline points="215,144 215,176" fill="none" stroke="#0f766e" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="215,176 208,168 222,168" fill="#0f766e"/>
+<text x="300" y="166" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#64748b" text-anchor="middle" font-weight="normal">on every read</text>
+<rect x="100" y="180" width="230" height="44" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="215.0" y="207.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">runs against base tables</text>
+<text x="215" y="250" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#0f766e" text-anchor="middle" font-weight="bold">always current</text>
+<text x="215" y="274" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">no storage, no index of its own</text>
+<text x="215" y="294" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">cost equals the query's cost</text>
+<rect x="410" y="56" width="350" height="250" rx="10" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="585" y="84" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#1f2933" text-anchor="middle" font-weight="bold">Materialized View</text>
+<rect x="470" y="100" width="230" height="44" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="585.0" y="127.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">stores the result rows</text>
+<polyline points="585,144 585,176" fill="none" stroke="#1d4ed8" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="585,176 578,168 592,168" fill="#1d4ed8"/>
+<text x="672" y="166" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#64748b" text-anchor="middle" font-weight="normal">on REFRESH only</text>
+<rect x="470" y="180" width="230" height="44" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="585.0" y="207.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">reads stored rows directly</text>
+<text x="585" y="250" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#b91c1c" text-anchor="middle" font-weight="bold">stale until refreshed</text>
+<text x="585" y="274" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">takes disk space, can be indexed</text>
+<text x="585" y="294" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">fast, and read only</text>
+</svg>

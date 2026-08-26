@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="800" height="300" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="800" height="300" fill="#ffffff"/>
+<text x="400" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">An EXCEPTION block is a savepoint underneath</text>
+<rect x="60" y="58" width="680" height="160" rx="10" fill="#f1f5f9" stroke="#334155" stroke-width="2"/>
+<text x="400" y="84" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">BEGIN</text>
+<rect x="120" y="100" width="260" height="40" rx="6" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="250.0" y="125.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">an implicit savepoint is set</text>
+<polyline points="390,120 424,120" fill="none" stroke="#334155" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="424,120 416,113 416,127" fill="#334155"/>
+<rect x="430" y="100" width="250" height="40" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="555.0" y="125.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">your statements run</text>
+<polyline points="555,140 555,158" fill="none" stroke="#b91c1c" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="555,158 548,150 562,150" fill="#b91c1c"/>
+<rect x="360" y="162" width="320" height="40" rx="6" fill="#fee2e2" stroke="#334155" stroke-width="2"/>
+<text x="520.0" y="187.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#b91c1c" text-anchor="middle" font-weight="normal">an error rolls back to the savepoint</text>
+<text x="220" y="182" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">then the handler runs</text>
+<text x="400" y="244" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="normal">which is why the transaction survives instead of being poisoned</text>
+<text x="400" y="270" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">and also why wrapping a tight loop in one is not free</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" width="800" height="320" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="800" height="320" fill="#ffffff"/>
+<text x="400" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">A trigger is always two separate objects</text>
+<rect x="40" y="56" width="340" height="180" rx="10" fill="#ccfbf1" stroke="#334155" stroke-width="2"/>
+<text x="210" y="82" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">1. The trigger function</text>
+<rect x="70" y="100" width="280" height="36" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="210.0" y="123.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="normal">RETURNS TRIGGER</text>
+<text x="210" y="158" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">the code that runs</text>
+<text x="210" y="180" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">takes no parameters</text>
+<text x="210" y="208" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="normal">gets OLD, NEW and TG_OP for free</text>
+<rect x="420" y="56" width="340" height="180" rx="10" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="590" y="82" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">2. The trigger itself</text>
+<rect x="450" y="100" width="280" height="36" rx="6" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<text x="590.0" y="123.0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">CREATE TRIGGER ... ON tbl</text>
+<text x="590" y="158" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">the binding</text>
+<text x="590" y="180" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="normal">which table, which events, when</text>
+<text x="590" y="208" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#1d4ed8" text-anchor="middle" font-weight="normal">EXECUTE FUNCTION names the code</text>
+<text x="400" y="268" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">you never call a trigger, the database calls it for every writer</text>
+<text x="400" y="296" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#0f766e" text-anchor="middle" font-weight="normal">an application can be bypassed, a trigger cannot</text>
+</svg>

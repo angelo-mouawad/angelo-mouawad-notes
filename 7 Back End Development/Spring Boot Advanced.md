@@ -249,7 +249,7 @@ There are mainly three problems that isolation levels prevent.
 
 ![What each level prevents](images/isolation-levels.svg)
 
-### READ_UNCOMMITTED
+### READ UNCOMMITTED
 
 The lowest level. It allows dirty reads, so the current transaction can see the result of another uncommitted unit of work.
 
@@ -257,7 +257,7 @@ The lowest level. It allows dirty reads, so the current transaction can see the 
 @Transactional(isolation = Isolation.READ_UNCOMMITTED)
 ```
 
-### READ_COMMITTED
+### READ COMMITTED
 
 Does not allow dirty reads, so only committed information can be read. It is the default in most databases, but you can also state it explicitly.
 
@@ -265,7 +265,7 @@ Does not allow dirty reads, so only committed information can be read. It is the
 @Transactional(isolation = Isolation.READ_COMMITTED)
 ```
 
-### REPEATABLE_READ
+### REPEATABLE READ
 
 Prevents dirty reads and non repeatable reads. Used when you want reads to be stable inside a transaction.
 
