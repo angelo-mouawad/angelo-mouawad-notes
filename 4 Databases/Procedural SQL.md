@@ -16,7 +16,7 @@ SELECT name FROM students WHERE year = 2 ORDER BY name;
 
 Nothing in that statement is an instruction. It is a specification of the desired result, and the planner is free to satisfy it however it likes. That freedom is exactly why two people can write the same query differently and get the same plan.
 
-Procedural SQL is the opposite. You write steps, and they run in the order you wrote them. The database cannot reorder or optimise them, because you have taken control of the how.
+Procedural SQL is the opposite. You write steps, and they run in the order you wrote them. The database cannot reorder or optimize them, because you have taken control of the how.
 
 ```sql
 DO $$
