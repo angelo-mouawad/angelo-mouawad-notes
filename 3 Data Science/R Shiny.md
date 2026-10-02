@@ -83,7 +83,7 @@ my-app/
 
 ## How A Shiny App Works
 
-Before writing bigger apps it helps to know what physically happens, because it explains a lot of behaviour later on.
+Before writing bigger apps it helps to know what physically happens, because it explains a lot of behavior later on.
 
 ![Browser and R process connected by a WebSocket](images/shiny-architecture.svg)
 
