@@ -1,6 +1,9 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./images",
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "Letter",

@@ -79,7 +79,7 @@ If you want to just look at a categoric variable, you can use a count plot, also
 
 It is important to understand what the Mat Plot Library calls every element of its graphs in order to customize them.
 
-![Mat Plot Lib](mat-plot-lib.png)
+![Mat Plot Lib](images/mat-plot-lib.png)
 
 Plots are made on a `Figure` object. A `Figure` object can contain multiple `Axes`. `Axes` are the things you are plotting on. Instead of using `plt.plotType` as we have done previously, we will explicitly make a `Figure` and plot on the axis. This allows us to configure the `Figure`.
 ```python

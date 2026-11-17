@@ -93,7 +93,7 @@ You can think of static methods as functions outside a class that should be incl
 
 Inheritance provides a mechanism for code reuse and for structuring code hierarchies, by allowing a subclass to inherit attributes and methods from a superclass.
 
-![Inheritance hierarchy](inheritance-hierarchy.svg)
+![Inheritance hierarchy](images/inheritance-hierarchy.svg)
 
 ```python
 class Shape:
@@ -123,7 +123,7 @@ One thing to remember. Calling a method that exists in both the child and the su
 
 Abstract methods are methods that are declared in a base class but do not contain any implementation. They are meant to be implemented by the subclasses, so they serve as a blueprint, and any subclass of that base class must implement them.
 
-![Abstract base class and polymorphism](abstract-polymorphism.svg)
+![Abstract base class and polymorphism](images/abstract-polymorphism.svg)
 
 ```python
 from abc import ABC, abstractmethod
@@ -312,7 +312,7 @@ def name(my_list):
     filtered_list = [element for element in my_list if condition]
 ```
 
-![Anatomy of a list comprehension](comprehension-anatomy.svg)
+![Anatomy of a list comprehension](images/comprehension-anatomy.svg)
 
 ---
 
@@ -379,7 +379,7 @@ for language in languages():
 
 Yield acts like return, except it remembers its position, so the next time a value is asked for the function carries on from where it stopped.
 
-![List versus generator](list-vs-generator.svg)
+![List versus generator](images/list-vs-generator.svg)
 
 A few things worth remembering.
 - Generators use way less memory because the values are not stored like they are in an iterable.
@@ -424,7 +424,7 @@ def factorial(n):
 
 The first part is the base case, the part that stops everything. The second part is the recursive case.
 
-![How the factorial recursion unwinds](recursion-factorial.svg)
+![How the factorial recursion unwinds](images/recursion-factorial.svg)
 
 ---
 
@@ -666,7 +666,7 @@ That third way is the one you will see everywhere, since writing `pandas` on eve
 
 Pandas is a fundamental package in Python for data manipulation and analysis. It provides high performance data structures and data analysis tools. The two structures you use are Series and DataFrames.
 
-![Series versus DataFrame](series-vs-dataframe.svg)
+![Series versus DataFrame](images/series-vs-dataframe.svg)
 
 ---
 
@@ -763,7 +763,7 @@ my_df = pd.DataFrame(data, columns=c)
 
 This is the part that gets mixed up the most, so it is worth learning as three separate tools.
 
-![Selecting a column, a row and a cell](dataframe-selection.svg)
+![Selecting a column, a row and a cell](images/dataframe-selection.svg)
 
 ```python
 my_df['col']                    # returns the column
@@ -862,7 +862,7 @@ import pandas as pd
 
 The figure is the whole picture, the axes is the plot inside it.
 
-![Figure and axes](matplotlib-anatomy.svg)
+![Figure and axes](images/matplotlib-anatomy.svg)
 
 ```python
 fig, ax = plt.subplots()              # returns a figure with one axes

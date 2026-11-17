@@ -217,7 +217,7 @@ if condition:
 instruction D
 ```
 
-![If condition flow](if-condition-flow.svg)
+![If condition flow](images/if-condition-flow.svg)
 
 Keep in mind that a return statement cuts the function short. Everything written after the return statement will not be read or processed.
 
@@ -235,7 +235,7 @@ else:
 instruction D
 ```
 
-![If else flow](if-else-flow.svg)
+![If else flow](images/if-else-flow.svg)
 
 ---
 
@@ -254,7 +254,7 @@ else:
     instruction C
 ```
 
-![Elif flow](elif-flow.svg)
+![Elif flow](images/elif-flow.svg)
 
 So the choice between elif and a stack of ifs comes down to this.
 - If you want only the first True condition to return a value and the rest to be ignored, use elif.
@@ -412,7 +412,7 @@ Indexing is accessing a specific character in the string. The characters have in
 
 Slicing is selecting a group of characters using `string[start_index:end_index:step]`. The start index is included, the end index is excluded, and the step lets you skip characters.
 
-![String indexing and slicing](string-indexing.svg)
+![String indexing and slicing](images/string-indexing.svg)
 
 ```python
 s = "abcde"
@@ -464,7 +464,7 @@ Every algorithm you will ever write is made out of three building blocks.
 - Selection, specifying whether certain steps should be executed or skipped based on conditions using if.
 - Iteration, repeating certain steps using loops.
 
-![Algorithm building blocks](algorithm-blocks.svg)
+![Algorithm building blocks](images/algorithm-blocks.svg)
 
 ---
 
@@ -801,7 +801,7 @@ s.update(value, value)   # adds multiple items at once
 
 This is where sets get genuinely useful.
 
-![Set operations](set-operations.svg)
+![Set operations](images/set-operations.svg)
 
 ```python
 s1.intersection(s2, s3)   # or s1 & s2, returns the common elements
@@ -880,7 +880,7 @@ my_dict.get(key)   # works exactly like my_dict[key], but returns None instead o
 
 This is the quick comparison of the four, which is usually all you need to pick the right one.
 
-![Comparison of the four data structures](data-structures.svg)
+![Comparison of the four data structures](images/data-structures.svg)
 
 ---
 
