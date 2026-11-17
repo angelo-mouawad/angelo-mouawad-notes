@@ -1,0 +1,31 @@
+# Tells the website repo to rebuild whenever the notes change,
+# so new or edited notes appear on the site without touching the website repo.
+name: Rebuild website
+
+on:
+  push:
+    branches: [main]
+    # Obsidian's own settings don't change what the site shows
+    paths-ignore:
+      - ".obsidian/**"
+  workflow_dispatch:
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send notes-updated to the website repo
+        env:
+          TOKEN: ${{ secrets.SITE_DISPATCH_TOKEN }}
+        run: |
+          if [ -z "$TOKEN" ]; then
+            echo "::error::Add a SITE_DISPATCH_TOKEN secret under Settings > Secrets and variables > Actions"
+            exit 1
+          fi
+          curl --fail-with-body -sS -X POST \
+            -H "Authorization: Bearer $TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            https://api.github.com/repos/angelo-mouawad/angelo-mouawad-website/dispatches \
+            -d '{"event_type":"notes-updated"}'
+          echo "Website rebuild requested"
