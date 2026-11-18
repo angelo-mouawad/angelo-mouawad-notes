@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420">
+<rect x="0" y="0" width="900" height="420" fill="#ffffff"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#334155"/></marker><marker id="aht" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0f766e"/></marker><marker id="ahr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#be123c"/></marker><marker id="ahb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1d4ed8"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#64748b"/></marker></defs>
+<text x="450" y="30" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="18" font-weight="bold" fill="#0f766e" text-anchor="middle">f : R≥0 → R,   f(x) = √x</text>
+<ellipse cx="160" cy="235" rx="110" ry="140" fill="#dbeafe" fill-opacity="1" stroke="#64748b" stroke-width="1.5"/>
+<text x="160" y="52" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="15" font-weight="bold" fill="#334155" text-anchor="middle">domain  R≥0</text>
+<text x="160" y="70" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#64748b" text-anchor="middle">allowed inputs</text>
+<ellipse cx="700" cy="235" rx="170" ry="155" fill="#ffe4e6" fill-opacity="1" stroke="#64748b" stroke-width="1.5"/>
+<text x="700" y="42" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="15" font-weight="bold" fill="#334155" text-anchor="middle">codomain  R</text>
+<text x="700" y="60" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#64748b" text-anchor="middle">where outputs are allowed to land</text>
+<ellipse cx="670" cy="240" rx="90" ry="110" fill="#d1fae5" fill-opacity="1" stroke="#0f766e" stroke-width="2"/>
+<text x="670" y="158" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="14" font-weight="bold" fill="#0f766e" text-anchor="middle">image  R≥0</text>
+<text x="670" y="175" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="normal" fill="#64748b" text-anchor="middle">outputs actually hit</text>
+<line x1="178" y1="160" x2="640" y2="205" stroke="#334155" stroke-width="1.6" marker-end="url(#ah)"/>
+<circle cx="160" cy="160" r="16" fill="#ffffff" fill-opacity="1" stroke="#64748b" stroke-width="1.2"/>
+<text x="160" y="165" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">0</text>
+<circle cx="660" cy="205" r="16" fill="#ffffff" fill-opacity="1" stroke="#0f766e" stroke-width="1.5"/>
+<text x="660" y="210" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">0</text>
+<line x1="178" y1="230" x2="640" y2="255" stroke="#334155" stroke-width="1.6" marker-end="url(#ah)"/>
+<circle cx="160" cy="230" r="16" fill="#ffffff" fill-opacity="1" stroke="#64748b" stroke-width="1.2"/>
+<text x="160" y="235" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">4</text>
+<circle cx="660" cy="255" r="16" fill="#ffffff" fill-opacity="1" stroke="#0f766e" stroke-width="1.5"/>
+<text x="660" y="260" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">2</text>
+<line x1="178" y1="300" x2="640" y2="305" stroke="#334155" stroke-width="1.6" marker-end="url(#ah)"/>
+<circle cx="160" cy="300" r="16" fill="#ffffff" fill-opacity="1" stroke="#64748b" stroke-width="1.2"/>
+<text x="160" y="305" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">25</text>
+<circle cx="660" cy="305" r="16" fill="#ffffff" fill-opacity="1" stroke="#0f766e" stroke-width="1.5"/>
+<text x="660" y="310" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">5</text>
+<circle cx="820" cy="160" r="20" fill="#ffffff" fill-opacity="1" stroke="#be123c" stroke-width="1.5" stroke-dasharray="3 3"/>
+<text x="820" y="165" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" fill="#be123c" text-anchor="middle">−1</text>
+<circle cx="815" cy="280" r="20" fill="#ffffff" fill-opacity="1" stroke="#be123c" stroke-width="1.5" stroke-dasharray="3 3"/>
+<text x="815" y="285" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" fill="#be123c" text-anchor="middle">−3.7</text>
+<text x="815" y="240" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#be123c" text-anchor="middle">never reached</text>
+<rect x="330" y="350" width="240" height="52" rx="8" fill="#f8fafc" fill-opacity="1" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="450" y="372" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" fill="#be123c" text-anchor="middle">−1 is not in the domain:</text>
+<text x="450" y="392" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#64748b" text-anchor="middle">√(−1) is not a real number</text>
+</svg>

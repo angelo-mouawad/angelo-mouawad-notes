@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330">
+<rect x="0" y="0" width="900" height="330" fill="#ffffff"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#334155"/></marker><marker id="aht" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0f766e"/></marker><marker id="ahr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#be123c"/></marker><marker id="ahb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1d4ed8"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#64748b"/></marker></defs>
+<text x="450" y="28" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#334155" text-anchor="middle">Joint distribution of X (housing) and Y (smoking), 51 students</text>
+<rect x="125" y="50" width="220" height="46" rx="0" fill="#0f766e" fill-opacity="1" stroke="#cbd5e1" stroke-width="1"/>
+<text x="235.0" y="77.9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle">X \ Y</text>
+<rect x="345" y="50" width="140" height="46" rx="0" fill="#0f766e" fill-opacity="1" stroke="#cbd5e1" stroke-width="1"/>
+<text x="415.0" y="77.9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle">smoker</text>
+<rect x="485" y="50" width="140" height="46" rx="0" fill="#0f766e" fill-opacity="1" stroke="#cbd5e1" stroke-width="1"/>
+<text x="555.0" y="77.9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle">non-smoker</text>
+<rect x="625" y="50" width="150" height="46" rx="0" fill="#0f766e" fill-opacity="1" stroke="#cbd5e1" stroke-width="1"/>
+<text x="700.0" y="77.9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle">P(X = x)</text>
+<rect x="125" y="96" width="220" height="46" rx="0" fill="#ffffff" fill-opacity="1" stroke="#cbd5e1" stroke-width="1"/>
+<text x="235.0" y="123.9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">student housing</text>
+<rect x="345" y="96" width="140" height="46" rx="0" fill="#fef3c7" fill-opacity="1" stroke="#cbd5e1" stroke-width="1"/>
+<text x="415.0" y="123.9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#334155" text-anchor="middle">5/51</text>
+<rect x="485" y="96" width="140" height="46" rx="0" fill="#ffffff" fill-opacity="1" stroke="#cbd5e1" stroke-width="1"/>
+<text x="555.0" y="123.9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#334155" text-anchor="middle">16/51</text>
+<rect x="625" y="96" width="150" height="46" rx="0" fill="#d1fae5" fill-opacity="1" stroke="#cbd5e1" stroke-width="1"/>
+<text x="700.0" y="123.9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#334155" text-anchor="middle">21/51</text>
+<rect x="125" y="142" width="220" height="46" rx="0" fill="#f8fafc" fill-opacity="1" stroke="#cbd5e1" stroke-width="1"/>
+<text x="235.0" y="169.9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">not in housing</text>
+<rect x="345" y="142" width="140" height="46" rx="0" fill="#f8fafc" fill-opacity="1" stroke="#cbd5e1" stroke-width="1"/>
+<text x="415.0" y="169.9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#334155" text-anchor="middle">8/51</text>
+<rect x="485" y="142" width="140" height="46" rx="0" fill="#f8fafc" fill-opacity="1" stroke="#cbd5e1" stroke-width="1"/>
+<text x="555.0" y="169.9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#334155" text-anchor="middle">22/51</text>
+<rect x="625" y="142" width="150" height="46" rx="0" fill="#d1fae5" fill-opacity="1" stroke="#cbd5e1" stroke-width="1"/>
+<text x="700.0" y="169.9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#334155" text-anchor="middle">30/51</text>
+<rect x="125" y="188" width="220" height="46" rx="0" fill="#dbeafe" fill-opacity="1" stroke="#cbd5e1" stroke-width="1"/>
+<text x="235.0" y="215.9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">P(Y = y)</text>
+<rect x="345" y="188" width="140" height="46" rx="0" fill="#dbeafe" fill-opacity="1" stroke="#cbd5e1" stroke-width="1"/>
+<text x="415.0" y="215.9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#334155" text-anchor="middle">13/51</text>
+<rect x="485" y="188" width="140" height="46" rx="0" fill="#dbeafe" fill-opacity="1" stroke="#cbd5e1" stroke-width="1"/>
+<text x="555.0" y="215.9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#334155" text-anchor="middle">38/51</text>
+<rect x="625" y="188" width="150" height="46" rx="0" fill="#dbeafe" fill-opacity="1" stroke="#cbd5e1" stroke-width="1"/>
+<text x="700.0" y="215.9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#334155" text-anchor="middle">51/51</text>
+<text x="125" y="270.0" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="13" font-weight="normal" fill="#334155" text-anchor="start">■ joint probability: housing AND smoker = 5/51 ≈ 10%</text>
+<text x="125" y="287.55" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="13" font-weight="normal" fill="#334155" text-anchor="start">■ margins (row and column sums): the distribution of X alone and of Y alone</text>
+<text x="125" y="305.1" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="13" font-weight="normal" fill="#334155" text-anchor="start">■ conditional: P(smoker | housing) = (5/51) / (21/51) = 5/21 ≈ 24%</text>
+</svg>

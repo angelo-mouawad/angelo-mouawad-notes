@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="290" viewBox="0 0 880 290">
+<rect x="0" y="0" width="880" height="290" fill="#ffffff"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#334155"/></marker><marker id="aht" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0f766e"/></marker><marker id="ahr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#be123c"/></marker><marker id="ahb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1d4ed8"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#64748b"/></marker></defs>
+<rect x="35" y="20" width="170" height="36" rx="8" fill="#d1fae5" fill-opacity="1" stroke="#64748b" stroke-width="1.5"/>
+<text x="120" y="44" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#334155" text-anchor="middle">KEEP</text>
+<rect x="245" y="20" width="170" height="36" rx="8" fill="#dbeafe" fill-opacity="1" stroke="#64748b" stroke-width="1.5"/>
+<text x="330" y="44" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#334155" text-anchor="middle">CHANGE</text>
+<rect x="455" y="20" width="170" height="36" rx="8" fill="#ffe4e6" fill-opacity="1" stroke="#64748b" stroke-width="1.5"/>
+<text x="540" y="44" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#334155" text-anchor="middle">FLIP</text>
+<rect x="675" y="20" width="170" height="36" rx="8" fill="#fef3c7" fill-opacity="1" stroke="#64748b" stroke-width="1.5"/>
+<text x="760" y="44" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#334155" text-anchor="middle">RESULT</text>
+<text x="120" y="114" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="normal" fill="#334155" text-anchor="middle">2</text>
+<line x1="108.94" y1="122" x2="131.06" y2="122" stroke="#334155" stroke-width="2"/>
+<text x="120" y="148" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="normal" fill="#334155" text-anchor="middle">3</text>
+<text x="330" y="135" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="34" font-weight="normal" fill="#334155" text-anchor="middle">÷</text>
+<text x="540" y="114" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="normal" fill="#334155" text-anchor="middle">5</text>
+<line x1="528.94" y1="122" x2="551.06" y2="122" stroke="#334155" stroke-width="2"/>
+<text x="540" y="148" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="normal" fill="#334155" text-anchor="middle">4</text>
+<text x="120" y="219" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="bold" fill="#0f766e" text-anchor="middle">2</text>
+<line x1="108.94" y1="227" x2="131.06" y2="227" stroke="#0f766e" stroke-width="2"/>
+<text x="120" y="253" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="bold" fill="#0f766e" text-anchor="middle">3</text>
+<text x="330" y="240" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="bold" fill="#0f766e" text-anchor="middle">·</text>
+<text x="540" y="219" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="bold" fill="#0f766e" text-anchor="middle">4</text>
+<line x1="528.94" y1="227" x2="551.06" y2="227" stroke="#0f766e" stroke-width="2"/>
+<text x="540" y="253" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="bold" fill="#0f766e" text-anchor="middle">5</text>
+<text x="655" y="240" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="normal" fill="#334155" text-anchor="middle">=</text>
+<text x="760" y="219" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="bold" fill="#0f766e" text-anchor="middle">8</text>
+<line x1="740.88" y1="227" x2="779.12" y2="227" stroke="#0f766e" stroke-width="2"/>
+<text x="760" y="253" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="bold" fill="#0f766e" text-anchor="middle">15</text>
+<line x1="120" y1="158" x2="120" y2="186" stroke="#64748b" stroke-width="1.5" marker-end="url(#ahg)"/>
+<line x1="330" y1="158" x2="330" y2="200" stroke="#64748b" stroke-width="1.5" marker-end="url(#ahg)"/>
+<path d="M520,160 Q470,180 520,198" fill="none" stroke="#be123c" stroke-width="1.6" marker-end="url(#ahr)"/>
+<path d="M560,160 Q610,180 560,198" fill="none" stroke="#be123c" stroke-width="1.6" marker-end="url(#ahr)"/>
+<text x="120" y="280" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#64748b" text-anchor="middle">first fraction stays</text>
+<text x="330" y="280" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#64748b" text-anchor="middle">÷ becomes ·</text>
+<text x="540" y="280" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#64748b" text-anchor="middle">numerator and denominator swap</text>
+<text x="760" y="280" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#64748b" text-anchor="middle">multiply straight across</text>
+</svg>

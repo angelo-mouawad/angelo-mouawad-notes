@@ -146,6 +146,20 @@
         "a": 1,
         "rgb": 16711680
       }
+    },
+    {
+      "query": "path:\"11 Mathemathics\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3231879
+      }
+    },
+    {
+      "query": "file:Mathemathics",
+      "color": {
+        "a": 1,
+        "rgb": 3231879
+      }
     }
   ],
   "collapse-display": false,
@@ -158,6 +172,6 @@
   "repelStrength": 14.8979591836735,
   "linkStrength": 1,
   "linkDistance": 355,
-  "scale": 0.4329760758236103,
-  "close": true
+  "scale": 0.2202817247467274,
+  "close": false
 }

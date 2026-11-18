@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="330" viewBox="0 0 940 330">
+<rect x="0" y="0" width="940" height="330" fill="#ffffff"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#334155"/></marker><marker id="aht" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0f766e"/></marker><marker id="ahr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#be123c"/></marker><marker id="ahb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1d4ed8"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#64748b"/></marker></defs>
+<rect x="43.92" y="144" width="52.16" height="32" rx="16" fill="#f8fafc" fill-opacity="1" stroke="#64748b" stroke-width="1.5"/>
+<text x="70" y="165" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="13" font-weight="bold" fill="#334155" text-anchor="middle">deck</text>
+<rect x="243.76" y="64" width="112.47999999999999" height="32" rx="16" fill="#ffe4e6" fill-opacity="1" stroke="#be123c" stroke-width="1.5"/>
+<text x="300" y="85" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="13" font-weight="bold" fill="#334155" text-anchor="middle">1st: red ace</text>
+<rect x="236.22" y="224" width="127.55999999999999" height="32" rx="16" fill="#f8fafc" fill-opacity="1" stroke="#334155" stroke-width="1.5"/>
+<text x="300" y="245" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="13" font-weight="bold" fill="#334155" text-anchor="middle">1st: black ace</text>
+<line x1="98.0" y1="160" x2="243.76" y2="80" stroke="#64748b" stroke-width="1.6"/>
+<rect x="154.168" y="104.0" width="48" height="22" rx="4" fill="#ffffff" fill-opacity="1" stroke="#ffffff" stroke-width="1.5"/>
+<text x="178.168" y="120.0" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="13" font-weight="bold" fill="#1d4ed8" text-anchor="middle">2/52</text>
+<line x1="98.0" y1="160" x2="236.22" y2="240" stroke="#64748b" stroke-width="1.6"/>
+<rect x="150.02100000000002" y="192.0" width="48" height="22" rx="4" fill="#ffffff" fill-opacity="1" stroke="#ffffff" stroke-width="1.5"/>
+<text x="174.02100000000002" y="208.0" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="13" font-weight="bold" fill="#1d4ed8" text-anchor="middle">2/52</text>
+<rect x="518.84" y="64" width="82.32" height="32" rx="16" fill="#ffffff" fill-opacity="1" stroke="#64748b" stroke-width="1.5"/>
+<text x="560" y="85" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="13" font-weight="bold" fill="#334155" text-anchor="middle">2nd: red</text>
+<rect x="518.84" y="224" width="82.32" height="32" rx="16" fill="#ffffff" fill-opacity="1" stroke="#64748b" stroke-width="1.5"/>
+<text x="560" y="245" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="13" font-weight="bold" fill="#334155" text-anchor="middle">2nd: red</text>
+<line x1="356.24" y1="80" x2="518.84" y2="80" stroke="#64748b" stroke-width="1.6"/>
+<rect x="421.67" y="68.0" width="48" height="22" rx="4" fill="#ffffff" fill-opacity="1" stroke="#ffffff" stroke-width="1.5"/>
+<text x="445.67" y="84.0" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="13" font-weight="bold" fill="#1d4ed8" text-anchor="middle">25/51</text>
+<line x1="363.78" y1="240" x2="518.84" y2="240" stroke="#64748b" stroke-width="1.6"/>
+<rect x="425.063" y="228.0" width="48" height="22" rx="4" fill="#ffffff" fill-opacity="1" stroke="#ffffff" stroke-width="1.5"/>
+<text x="449.063" y="244.0" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="13" font-weight="bold" fill="#1d4ed8" text-anchor="middle">26/51</text>
+<text x="640" y="85" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="13" font-weight="bold" fill="#334155" text-anchor="start">2/52 · 25/51</text>
+<text x="640" y="245" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="13" font-weight="bold" fill="#334155" text-anchor="start">2/52 · 26/51</text>
+<text x="300" y="128" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#be123c" text-anchor="middle">one red card already gone</text>
+<text x="300" y="288" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#64748b" text-anchor="middle">all 26 red cards still there</text>
+<rect x="640" y="130" width="270" height="64" rx="8" fill="#d1fae5" fill-opacity="1" stroke="#0f766e" stroke-width="1.5"/>
+<text x="775" y="155.0" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="14" font-weight="bold" fill="#0f766e" text-anchor="middle">sum = 2(25 + 26) / (52 · 51)</text>
+<text x="775" y="173.9" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="14" font-weight="bold" fill="#0f766e" text-anchor="middle">= 2/52 = 1/26</text>
+<text x="470" y="20" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#64748b" text-anchor="middle">"first an ace, then red": split the ace by colour so every branch has a known value</text>
+</svg>

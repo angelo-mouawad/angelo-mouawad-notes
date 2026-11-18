@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="400" viewBox="0 0 980 400">
+<rect x="0" y="0" width="980" height="400" fill="#ffffff"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#334155"/></marker><marker id="aht" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0f766e"/></marker><marker id="ahr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#be123c"/></marker><marker id="ahb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1d4ed8"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#64748b"/></marker></defs>
+<rect x="43.92" y="174" width="52.16" height="32" rx="16" fill="#f8fafc" fill-opacity="1" stroke="#64748b" stroke-width="1.5"/>
+<text x="70" y="195" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="13" font-weight="bold" fill="#334155" text-anchor="middle">item</text>
+<rect x="255.07" y="84" width="89.86" height="32" rx="16" fill="#dbeafe" fill-opacity="1" stroke="#64748b" stroke-width="1.5"/>
+<text x="300" y="105" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="13" font-weight="bold" fill="#334155" text-anchor="middle">machine 1</text>
+<rect x="255.07" y="274" width="89.86" height="32" rx="16" fill="#dbeafe" fill-opacity="1" stroke="#64748b" stroke-width="1.5"/>
+<text x="300" y="295" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="13" font-weight="bold" fill="#334155" text-anchor="middle">machine 2</text>
+<line x1="98.0" y1="190" x2="255.07" y2="100" stroke="#64748b" stroke-width="1.6"/>
+<rect x="160.38850000000002" y="128.5" width="48" height="22" rx="4" fill="#ffffff" fill-opacity="1" stroke="#ffffff" stroke-width="1.5"/>
+<text x="184.38850000000002" y="144.5" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="13" font-weight="bold" fill="#1d4ed8" text-anchor="middle">0.7</text>
+<line x1="98.0" y1="190" x2="255.07" y2="290" stroke="#64748b" stroke-width="1.6"/>
+<rect x="160.38850000000002" y="233.0" width="48" height="22" rx="4" fill="#ffffff" fill-opacity="1" stroke="#ffffff" stroke-width="1.5"/>
+<text x="184.38850000000002" y="249.0" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="13" font-weight="bold" fill="#1d4ed8" text-anchor="middle">0.3</text>
+<rect x="495.07" y="34" width="89.86" height="32" rx="16" fill="#ffe4e6" fill-opacity="1" stroke="#be123c" stroke-width="1.5"/>
+<text x="540" y="55" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="13" font-weight="bold" fill="#334155" text-anchor="middle">defective</text>
+<line x1="344.93" y1="100" x2="495.07" y2="50" stroke="#64748b" stroke-width="1.6"/>
+<rect x="403.507" y="60.5" width="48" height="22" rx="4" fill="#ffffff" fill-opacity="1" stroke="#ffffff" stroke-width="1.5"/>
+<text x="427.507" y="76.5" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="13" font-weight="bold" fill="#1d4ed8" text-anchor="middle">0.02</text>
+<text x="610" y="55" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="13" font-weight="bold" fill="#be123c" text-anchor="start">0.7 · 0.02 = 0.014</text>
+<rect x="513.92" y="134" width="52.16" height="32" rx="16" fill="#ffffff" fill-opacity="1" stroke="#64748b" stroke-width="1.5"/>
+<text x="540" y="155" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="13" font-weight="bold" fill="#334155" text-anchor="middle">fine</text>
+<line x1="344.93" y1="100" x2="513.92" y2="150" stroke="#64748b" stroke-width="1.6"/>
+<rect x="413.8745" y="115.5" width="48" height="22" rx="4" fill="#ffffff" fill-opacity="1" stroke="#ffffff" stroke-width="1.5"/>
+<text x="437.8745" y="131.5" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="13" font-weight="bold" fill="#1d4ed8" text-anchor="middle">0.98</text>
+<text x="610" y="155" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="13" font-weight="normal" fill="#64748b" text-anchor="start">0.7 · 0.98 = 0.686</text>
+<rect x="495.07" y="224" width="89.86" height="32" rx="16" fill="#ffe4e6" fill-opacity="1" stroke="#be123c" stroke-width="1.5"/>
+<text x="540" y="245" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="13" font-weight="bold" fill="#334155" text-anchor="middle">defective</text>
+<line x1="344.93" y1="290" x2="495.07" y2="240" stroke="#64748b" stroke-width="1.6"/>
+<rect x="403.507" y="250.5" width="48" height="22" rx="4" fill="#ffffff" fill-opacity="1" stroke="#ffffff" stroke-width="1.5"/>
+<text x="427.507" y="266.5" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="13" font-weight="bold" fill="#1d4ed8" text-anchor="middle">0.03</text>
+<text x="610" y="245" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="13" font-weight="bold" fill="#be123c" text-anchor="start">0.3 · 0.03 = 0.009</text>
+<rect x="513.92" y="324" width="52.16" height="32" rx="16" fill="#ffffff" fill-opacity="1" stroke="#64748b" stroke-width="1.5"/>
+<text x="540" y="345" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="13" font-weight="bold" fill="#334155" text-anchor="middle">fine</text>
+<line x1="344.93" y1="290" x2="513.92" y2="340" stroke="#64748b" stroke-width="1.6"/>
+<rect x="413.8745" y="305.5" width="48" height="22" rx="4" fill="#ffffff" fill-opacity="1" stroke="#ffffff" stroke-width="1.5"/>
+<text x="437.8745" y="321.5" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="13" font-weight="bold" fill="#1d4ed8" text-anchor="middle">0.97</text>
+<text x="610" y="345" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="13" font-weight="normal" fill="#64748b" text-anchor="start">0.3 · 0.97 = 0.291</text>
+<rect x="790" y="70" width="175" height="250" rx="10" fill="#f8fafc" fill-opacity="1" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="878" y="100.0" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="13" font-weight="bold" fill="#334155" text-anchor="middle">P(defective)</text>
+<text x="878" y="117.55" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="13" font-weight="bold" fill="#334155" text-anchor="middle">= 0.014 + 0.009</text>
+<text x="878" y="135.1" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="13" font-weight="bold" fill="#334155" text-anchor="middle">= 0.023</text>
+<text x="878" y="152.65" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="13" font-weight="bold" fill="#334155" text-anchor="middle"></text>
+<text x="878" y="170.2" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="13" font-weight="bold" fill="#334155" text-anchor="middle">P(machine 1 | def.)</text>
+<text x="878" y="187.75" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="13" font-weight="bold" fill="#334155" text-anchor="middle">= 0.014 / 0.023</text>
+<text x="878" y="205.3" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="13" font-weight="bold" fill="#334155" text-anchor="middle">≈ 0.609</text>
+<text x="490" y="385" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="13" font-weight="normal" fill="#64748b" text-anchor="middle">multiply along a path for ∩, add the paths you want for ∪, divide for the reverse question</text>
+</svg>

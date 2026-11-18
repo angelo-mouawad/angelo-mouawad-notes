@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="330" viewBox="0 0 760 330">
+<rect x="0" y="0" width="760" height="330" fill="#ffffff"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#334155"/></marker><marker id="aht" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0f766e"/></marker><marker id="ahr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#be123c"/></marker><marker id="ahb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1d4ed8"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#64748b"/></marker></defs>
+<text x="380" y="28" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="15" font-weight="bold" fill="#334155" text-anchor="middle">4 computers × 3 printers = 12 possible pairs</text>
+<rect x="190" y="50" width="130" height="40" rx="8" fill="#dbeafe" fill-opacity="1" stroke="#1d4ed8" stroke-width="1.5"/>
+<text x="255.0" y="74.9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">P1</text>
+<rect x="340" y="50" width="130" height="40" rx="8" fill="#dbeafe" fill-opacity="1" stroke="#1d4ed8" stroke-width="1.5"/>
+<text x="405.0" y="74.9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">P2</text>
+<rect x="490" y="50" width="130" height="40" rx="8" fill="#dbeafe" fill-opacity="1" stroke="#1d4ed8" stroke-width="1.5"/>
+<text x="555.0" y="74.9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">P3</text>
+<rect x="40" y="100" width="120" height="40" rx="8" fill="#d1fae5" fill-opacity="1" stroke="#0f766e" stroke-width="1.5"/>
+<text x="100.0" y="124.9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">C1</text>
+<rect x="190" y="100" width="130" height="40" rx="8" fill="#ffffff" fill-opacity="1" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="255.0" y="124.55" font-family="Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="13" font-weight="normal" fill="#334155" text-anchor="middle">(C1, P1)</text>
+<rect x="340" y="100" width="130" height="40" rx="8" fill="#ffffff" fill-opacity="1" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="405.0" y="124.55" font-family="Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="13" font-weight="normal" fill="#334155" text-anchor="middle">(C1, P2)</text>
+<rect x="490" y="100" width="130" height="40" rx="8" fill="#ffffff" fill-opacity="1" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="555.0" y="124.55" font-family="Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="13" font-weight="normal" fill="#334155" text-anchor="middle">(C1, P3)</text>
+<rect x="40" y="152" width="120" height="40" rx="8" fill="#d1fae5" fill-opacity="1" stroke="#0f766e" stroke-width="1.5"/>
+<text x="100.0" y="176.9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">C2</text>
+<rect x="190" y="152" width="130" height="40" rx="8" fill="#ffffff" fill-opacity="1" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="255.0" y="176.55" font-family="Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="13" font-weight="normal" fill="#334155" text-anchor="middle">(C2, P1)</text>
+<rect x="340" y="152" width="130" height="40" rx="8" fill="#ffffff" fill-opacity="1" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="405.0" y="176.55" font-family="Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="13" font-weight="normal" fill="#334155" text-anchor="middle">(C2, P2)</text>
+<rect x="490" y="152" width="130" height="40" rx="8" fill="#ffffff" fill-opacity="1" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="555.0" y="176.55" font-family="Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="13" font-weight="normal" fill="#334155" text-anchor="middle">(C2, P3)</text>
+<rect x="40" y="204" width="120" height="40" rx="8" fill="#d1fae5" fill-opacity="1" stroke="#0f766e" stroke-width="1.5"/>
+<text x="100.0" y="228.9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">C3</text>
+<rect x="190" y="204" width="130" height="40" rx="8" fill="#ffffff" fill-opacity="1" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="255.0" y="228.55" font-family="Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="13" font-weight="normal" fill="#334155" text-anchor="middle">(C3, P1)</text>
+<rect x="340" y="204" width="130" height="40" rx="8" fill="#ffffff" fill-opacity="1" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="405.0" y="228.55" font-family="Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="13" font-weight="normal" fill="#334155" text-anchor="middle">(C3, P2)</text>
+<rect x="490" y="204" width="130" height="40" rx="8" fill="#ffffff" fill-opacity="1" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="555.0" y="228.55" font-family="Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="13" font-weight="normal" fill="#334155" text-anchor="middle">(C3, P3)</text>
+<rect x="40" y="256" width="120" height="40" rx="8" fill="#d1fae5" fill-opacity="1" stroke="#0f766e" stroke-width="1.5"/>
+<text x="100.0" y="280.9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">C4</text>
+<rect x="190" y="256" width="130" height="40" rx="8" fill="#ffffff" fill-opacity="1" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="255.0" y="280.55" font-family="Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="13" font-weight="normal" fill="#334155" text-anchor="middle">(C4, P1)</text>
+<rect x="340" y="256" width="130" height="40" rx="8" fill="#ffffff" fill-opacity="1" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="405.0" y="280.55" font-family="Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="13" font-weight="normal" fill="#334155" text-anchor="middle">(C4, P2)</text>
+<rect x="490" y="256" width="130" height="40" rx="8" fill="#ffffff" fill-opacity="1" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="555.0" y="280.55" font-family="Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="13" font-weight="normal" fill="#334155" text-anchor="middle">(C4, P3)</text>
+<text x="380" y="322" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#64748b" text-anchor="middle">every choice for step 1 combines with every choice for step 2</text>
+</svg>

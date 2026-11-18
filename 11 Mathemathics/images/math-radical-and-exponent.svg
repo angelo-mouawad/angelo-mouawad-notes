@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="330" viewBox="0 0 940 330">
+<rect x="0" y="0" width="940" height="330" fill="#ffffff"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#334155"/></marker><marker id="aht" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0f766e"/></marker><marker id="ahr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#be123c"/></marker><marker id="ahb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1d4ed8"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#64748b"/></marker></defs>
+<rect x="20" y="20" width="360" height="290" rx="12" fill="#f8fafc" fill-opacity="1" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="200" y="50" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" fill="#0f766e" text-anchor="middle">Radical</text>
+<polyline points="140.0,154.0 148.0,148.0 160.0,179.0 176.0,112.0 227.2,112.0" fill="none" fill-opacity="1" stroke="#334155" stroke-width="2.4" stroke-linejoin="round"/>
+<text x="203.6" y="175" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="60" font-weight="normal" fill="#334155" text-anchor="middle">a</text>
+<text x="148" y="142.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30.0" font-weight="normal" fill="#334155" text-anchor="middle">n</text>
+<line x1="90" y1="105" x2="145" y2="128" stroke="#be123c" stroke-width="1.5" marker-end="url(#ahr)"/>
+<text x="85" y="100" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#be123c" text-anchor="end">index n</text>
+<text x="85" y="118" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#64748b" text-anchor="end">which root</text>
+<line x1="300" y1="230" x2="225" y2="182" stroke="#1d4ed8" stroke-width="1.5" marker-end="url(#ahb)"/>
+<text x="305" y="240" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#1d4ed8" text-anchor="start">radicand a</text>
+<text x="305" y="258" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#64748b" text-anchor="start">the number</text>
+<text x="200" y="292" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#64748b" text-anchor="middle">√a means ²√a: index 2 is left out</text>
+<rect x="400" y="20" width="520" height="290" rx="12" fill="#f8fafc" fill-opacity="1" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="660" y="50" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" fill="#0f766e" text-anchor="middle">Rational exponent</text>
+<text x="470" y="160" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="60" font-weight="normal" fill="#334155" text-anchor="middle">a</text>
+<text x="505" y="112" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="bold" fill="#1d4ed8" text-anchor="middle">m</text>
+<line x1="492" y1="120" x2="522" y2="120" stroke="#334155" stroke-width="2"/>
+<text x="507" y="148" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="bold" fill="#be123c" text-anchor="middle">n</text>
+<text x="575" y="160" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="normal" fill="#334155" text-anchor="middle">=</text>
+<text x="618" y="160" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="60" font-weight="normal" fill="#334155" text-anchor="middle">(</text>
+<rect x="0" y="0" width="0" height="0" rx="8" fill="#f8fafc" fill-opacity="1" stroke="#64748b" stroke-width="1.5"/>
+<polyline points="636.0,142.5 644.0,137.5 656.0,164.0 672.0,107.5 717.0,107.5" fill="none" fill-opacity="1" stroke="#334155" stroke-width="2.4" stroke-linejoin="round"/>
+<text x="696.5" y="160" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="50" font-weight="normal" fill="#334155" text-anchor="middle">a</text>
+<text x="651" y="118" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="bold" fill="#be123c" text-anchor="middle">n</text>
+<text x="745" y="160" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="60" font-weight="normal" fill="#334155" text-anchor="middle">)</text>
+<text x="775" y="120" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="bold" fill="#1d4ed8" text-anchor="middle">m</text>
+<text x="660" y="210" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#1d4ed8" text-anchor="middle">numerator  m  =  the power</text>
+<text x="660" y="234" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#be123c" text-anchor="middle">denominator  n  =  the root</text>
+<text x="660" y="278" font-family="Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="17" font-weight="bold" fill="#0f766e" text-anchor="middle">8^(2/3) = (∛8)² = 2² = 4</text>
+</svg>

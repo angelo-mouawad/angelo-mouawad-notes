@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="290" viewBox="0 0 820 290">
+<rect x="0" y="0" width="820" height="290" fill="#ffffff"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#334155"/></marker><marker id="aht" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0f766e"/></marker><marker id="ahr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#be123c"/></marker><marker id="ahb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1d4ed8"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#64748b"/></marker></defs>
+<ellipse cx="100" cy="149.0" rx="42" ry="89.0" fill="#dbeafe" fill-opacity="1" stroke="#64748b" stroke-width="1.5"/>
+<ellipse cx="300" cy="149.0" rx="42" ry="89.0" fill="#d1fae5" fill-opacity="1" stroke="#64748b" stroke-width="1.5"/>
+<text x="100" y="52" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">A</text>
+<text x="300" y="52" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">B</text>
+<text x="200.0" y="22" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#0f766e" text-anchor="middle">f(x) = x + 1</text>
+<line x1="118" y1="104.5" x2="282" y2="104.5" stroke="#0f766e" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="118" y1="149.0" x2="282" y2="149.0" stroke="#0f766e" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="118" y1="193.5" x2="282" y2="193.5" stroke="#0f766e" stroke-width="1.6" marker-end="url(#ah)"/>
+<circle cx="100" cy="104.5" r="14" fill="#ffffff" fill-opacity="1" stroke="#64748b" stroke-width="1.2"/>
+<text x="100" y="109.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">1</text>
+<circle cx="100" cy="149.0" r="14" fill="#ffffff" fill-opacity="1" stroke="#64748b" stroke-width="1.2"/>
+<text x="100" y="154.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">2</text>
+<circle cx="100" cy="193.5" r="14" fill="#ffffff" fill-opacity="1" stroke="#64748b" stroke-width="1.2"/>
+<text x="100" y="198.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">3</text>
+<circle cx="300" cy="104.5" r="14" fill="#ffffff" fill-opacity="1" stroke="#64748b" stroke-width="1.2"/>
+<text x="300" y="109.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">2</text>
+<circle cx="300" cy="149.0" r="14" fill="#ffffff" fill-opacity="1" stroke="#64748b" stroke-width="1.2"/>
+<text x="300" y="154.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">3</text>
+<circle cx="300" cy="193.5" r="14" fill="#ffffff" fill-opacity="1" stroke="#64748b" stroke-width="1.2"/>
+<text x="300" y="198.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">4</text>
+<ellipse cx="520" cy="149.0" rx="42" ry="89.0" fill="#d1fae5" fill-opacity="1" stroke="#64748b" stroke-width="1.5"/>
+<ellipse cx="720" cy="149.0" rx="42" ry="89.0" fill="#dbeafe" fill-opacity="1" stroke="#64748b" stroke-width="1.5"/>
+<text x="520" y="52" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">B</text>
+<text x="720" y="52" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">A</text>
+<text x="620.0" y="22" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#0f766e" text-anchor="middle">f⁻¹(x) = x − 1</text>
+<line x1="538" y1="104.5" x2="702" y2="104.5" stroke="#1d4ed8" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="538" y1="149.0" x2="702" y2="149.0" stroke="#1d4ed8" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="538" y1="193.5" x2="702" y2="193.5" stroke="#1d4ed8" stroke-width="1.6" marker-end="url(#ah)"/>
+<circle cx="520" cy="104.5" r="14" fill="#ffffff" fill-opacity="1" stroke="#64748b" stroke-width="1.2"/>
+<text x="520" y="109.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">2</text>
+<circle cx="520" cy="149.0" r="14" fill="#ffffff" fill-opacity="1" stroke="#64748b" stroke-width="1.2"/>
+<text x="520" y="154.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">3</text>
+<circle cx="520" cy="193.5" r="14" fill="#ffffff" fill-opacity="1" stroke="#64748b" stroke-width="1.2"/>
+<text x="520" y="198.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">4</text>
+<circle cx="720" cy="104.5" r="14" fill="#ffffff" fill-opacity="1" stroke="#64748b" stroke-width="1.2"/>
+<text x="720" y="109.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">1</text>
+<circle cx="720" cy="149.0" r="14" fill="#ffffff" fill-opacity="1" stroke="#64748b" stroke-width="1.2"/>
+<text x="720" y="154.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">2</text>
+<circle cx="720" cy="193.5" r="14" fill="#ffffff" fill-opacity="1" stroke="#64748b" stroke-width="1.2"/>
+<text x="720" y="198.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">3</text>
+<text x="410" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#64748b" text-anchor="middle">flip every arrow</text>
+<line x1="360" y1="160" x2="460" y2="160" stroke="#64748b" stroke-width="1.5" marker-end="url(#ahg)"/>
+<text x="410" y="278" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" fill="#334155" text-anchor="middle">f⁻¹(f(x)) = x: going there and back returns the original input</text>
+</svg>

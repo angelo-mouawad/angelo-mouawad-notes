@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1020" height="280" viewBox="0 0 1020 280">
+<rect x="0" y="0" width="1020" height="280" fill="#ffffff"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#334155"/></marker><marker id="aht" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0f766e"/></marker><marker id="ahr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#be123c"/></marker><marker id="ahb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1d4ed8"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#64748b"/></marker></defs>
+<polygon points="150.0,40.0 126.0,170.0 174.0,170.0" fill="#cbd5e1" fill-opacity="1" stroke="#64748b" stroke-width="1.5" stroke-linejoin="round"/>
+<line x1="35" y1="40" x2="265" y2="40" stroke="#334155" stroke-width="4"/>
+<line x1="50" y1="40" x2="10" y2="112" stroke="#64748b" stroke-width="1.3"/>
+<line x1="50" y1="40" x2="90" y2="112" stroke="#64748b" stroke-width="1.3"/>
+<path d="M2,112 Q50,136 98,112 z" fill="#dbeafe" stroke="#64748b" stroke-width="1.5"/>
+<rect x="12" y="76" width="76" height="34" rx="6" fill="#ffffff" fill-opacity="1" stroke="#0f766e" stroke-width="1.5"/>
+<text x="50" y="99" font-family="Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="15" font-weight="bold" fill="#334155" text-anchor="middle">2x+5</text>
+<line x1="250" y1="40" x2="210" y2="112" stroke="#64748b" stroke-width="1.3"/>
+<line x1="250" y1="40" x2="290" y2="112" stroke="#64748b" stroke-width="1.3"/>
+<path d="M202,112 Q250,136 298,112 z" fill="#dbeafe" stroke="#64748b" stroke-width="1.5"/>
+<rect x="212" y="76" width="76" height="34" rx="6" fill="#ffffff" fill-opacity="1" stroke="#0f766e" stroke-width="1.5"/>
+<text x="250" y="99" font-family="Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="15" font-weight="bold" fill="#334155" text-anchor="middle">17</text>
+<circle cx="150" cy="40" r="5" fill="#0f766e" fill-opacity="1" stroke="#0f766e" stroke-width="1.5"/>
+<polygon points="510.0,40.0 486.0,170.0 534.0,170.0" fill="#cbd5e1" fill-opacity="1" stroke="#64748b" stroke-width="1.5" stroke-linejoin="round"/>
+<line x1="395" y1="40" x2="625" y2="40" stroke="#334155" stroke-width="4"/>
+<line x1="410" y1="40" x2="370" y2="112" stroke="#64748b" stroke-width="1.3"/>
+<line x1="410" y1="40" x2="450" y2="112" stroke="#64748b" stroke-width="1.3"/>
+<path d="M362,112 Q410,136 458,112 z" fill="#dbeafe" stroke="#64748b" stroke-width="1.5"/>
+<rect x="372" y="76" width="76" height="34" rx="6" fill="#ffffff" fill-opacity="1" stroke="#0f766e" stroke-width="1.5"/>
+<text x="410" y="99" font-family="Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="15" font-weight="bold" fill="#334155" text-anchor="middle">2x</text>
+<line x1="610" y1="40" x2="570" y2="112" stroke="#64748b" stroke-width="1.3"/>
+<line x1="610" y1="40" x2="650" y2="112" stroke="#64748b" stroke-width="1.3"/>
+<path d="M562,112 Q610,136 658,112 z" fill="#dbeafe" stroke="#64748b" stroke-width="1.5"/>
+<rect x="572" y="76" width="76" height="34" rx="6" fill="#ffffff" fill-opacity="1" stroke="#0f766e" stroke-width="1.5"/>
+<text x="610" y="99" font-family="Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="15" font-weight="bold" fill="#334155" text-anchor="middle">12</text>
+<circle cx="510" cy="40" r="5" fill="#0f766e" fill-opacity="1" stroke="#0f766e" stroke-width="1.5"/>
+<polygon points="870.0,40.0 846.0,170.0 894.0,170.0" fill="#cbd5e1" fill-opacity="1" stroke="#64748b" stroke-width="1.5" stroke-linejoin="round"/>
+<line x1="755" y1="40" x2="985" y2="40" stroke="#334155" stroke-width="4"/>
+<line x1="770" y1="40" x2="730" y2="112" stroke="#64748b" stroke-width="1.3"/>
+<line x1="770" y1="40" x2="810" y2="112" stroke="#64748b" stroke-width="1.3"/>
+<path d="M722,112 Q770,136 818,112 z" fill="#dbeafe" stroke="#64748b" stroke-width="1.5"/>
+<rect x="732" y="76" width="76" height="34" rx="6" fill="#ffffff" fill-opacity="1" stroke="#0f766e" stroke-width="1.5"/>
+<text x="770" y="99" font-family="Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="15" font-weight="bold" fill="#334155" text-anchor="middle">x</text>
+<line x1="970" y1="40" x2="930" y2="112" stroke="#64748b" stroke-width="1.3"/>
+<line x1="970" y1="40" x2="1010" y2="112" stroke="#64748b" stroke-width="1.3"/>
+<path d="M922,112 Q970,136 1018,112 z" fill="#dbeafe" stroke="#64748b" stroke-width="1.5"/>
+<rect x="932" y="76" width="76" height="34" rx="6" fill="#ffffff" fill-opacity="1" stroke="#0f766e" stroke-width="1.5"/>
+<text x="970" y="99" font-family="Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="15" font-weight="bold" fill="#334155" text-anchor="middle">6</text>
+<circle cx="870" cy="40" r="5" fill="#0f766e" fill-opacity="1" stroke="#0f766e" stroke-width="1.5"/>
+<line x1="270" y1="180" x2="370" y2="180" stroke="#0f766e" stroke-width="2" marker-end="url(#aht)"/>
+<text x="320" y="168" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" fill="#0f766e" text-anchor="middle">−5</text>
+<text x="320" y="200" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#64748b" text-anchor="middle">both sides</text>
+<line x1="630" y1="180" x2="730" y2="180" stroke="#0f766e" stroke-width="2" marker-end="url(#aht)"/>
+<text x="680" y="168" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" fill="#0f766e" text-anchor="middle">÷2</text>
+<text x="680" y="200" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#64748b" text-anchor="middle">both sides</text>
+<text x="510" y="238" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#334155" text-anchor="middle">The same operation on both pans keeps the scale level, so the equality stays true</text>
+<text x="510" y="264" font-family="Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="14" font-weight="bold" fill="#0f766e" text-anchor="middle">check:  2(6) + 5 = 17</text>
+</svg>

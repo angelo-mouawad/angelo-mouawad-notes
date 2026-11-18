@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="380" viewBox="0 0 760 380">
+<rect x="0" y="0" width="760" height="380" fill="#ffffff"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#334155"/></marker><marker id="aht" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0f766e"/></marker><marker id="ahr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#be123c"/></marker><marker id="ahb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1d4ed8"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#64748b"/></marker></defs>
+<rect x="80.0" y="190.0" width="130.0" height="130.0" rx="0" fill="#d1fae5" fill-opacity="1" stroke="#0f766e" stroke-width="1.4"/>
+<text x="145.0" y="182.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" fill="#0f766e" text-anchor="middle">35%</text>
+<text x="145.0" y="260.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#334155" text-anchor="middle">0.35·900</text>
+<text x="145.0" y="277.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#334155" text-anchor="middle">= 315</text>
+<rect x="210.0" y="97.14285714285717" width="130.0" height="222.85714285714283" rx="0" fill="#d1fae5" fill-opacity="1" stroke="#0f766e" stroke-width="1.4"/>
+<text x="275.0" y="89.14285714285717" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" fill="#0f766e" text-anchor="middle">60%</text>
+<text x="275.0" y="213.57142857142858" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#334155" text-anchor="middle">0.60·900</text>
+<text x="275.0" y="230.57142857142858" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#334155" text-anchor="middle">= 540</text>
+<rect x="340.0" y="152.85714285714283" width="130.0" height="167.14285714285717" rx="0" fill="#d1fae5" fill-opacity="1" stroke="#0f766e" stroke-width="1.4"/>
+<text x="405.0" y="144.85714285714283" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" fill="#0f766e" text-anchor="middle">45%</text>
+<text x="405.0" y="241.42857142857142" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#334155" text-anchor="middle">0.45·900</text>
+<text x="405.0" y="258.42857142857144" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#334155" text-anchor="middle">= 405</text>
+<rect x="470.0" y="227.14285714285714" width="130.0" height="92.85714285714286" rx="0" fill="#d1fae5" fill-opacity="1" stroke="#0f766e" stroke-width="1.4"/>
+<text x="535.0" y="219.14285714285714" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" fill="#0f766e" text-anchor="middle">25%</text>
+<text x="535.0" y="278.57142857142856" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#334155" text-anchor="middle">0.25·900</text>
+<text x="535.0" y="295.57142857142856" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#334155" text-anchor="middle">= 225</text>
+<line x1="76" y1="320.0" x2="612" y2="320.0" stroke="#334155" stroke-width="1.4" marker-end="url(#ah)"/>
+<line x1="80.0" y1="324" x2="80.0" y2="48" stroke="#334155" stroke-width="1.4" marker-end="url(#ah)"/>
+<line x1="80.0" y1="316.0" x2="80.0" y2="324.0" stroke="#334155" stroke-width="1.2"/>
+<text x="80.0" y="338.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#64748b" text-anchor="middle">0</text>
+<line x1="210.0" y1="316.0" x2="210.0" y2="324.0" stroke="#334155" stroke-width="1.2"/>
+<text x="210.0" y="338.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#64748b" text-anchor="middle">15</text>
+<line x1="340.0" y1="316.0" x2="340.0" y2="324.0" stroke="#334155" stroke-width="1.2"/>
+<text x="340.0" y="338.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#64748b" text-anchor="middle">30</text>
+<line x1="470.0" y1="316.0" x2="470.0" y2="324.0" stroke="#334155" stroke-width="1.2"/>
+<text x="470.0" y="338.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#64748b" text-anchor="middle">45</text>
+<line x1="600.0" y1="316.0" x2="600.0" y2="324.0" stroke="#334155" stroke-width="1.2"/>
+<text x="600.0" y="338.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#64748b" text-anchor="middle">60</text>
+<line x1="76.0" y1="245.71428571428572" x2="84.0" y2="245.71428571428572" stroke="#334155" stroke-width="1.2"/>
+<text x="72.0" y="249.71428571428572" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#64748b" text-anchor="end">20</text>
+<line x1="76.0" y1="171.42857142857144" x2="84.0" y2="171.42857142857144" stroke="#334155" stroke-width="1.2"/>
+<text x="72.0" y="175.42857142857144" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#64748b" text-anchor="end">40</text>
+<line x1="76.0" y1="97.14285714285717" x2="84.0" y2="97.14285714285717" stroke="#334155" stroke-width="1.2"/>
+<text x="72.0" y="101.14285714285717" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#64748b" text-anchor="end">60</text>
+<text x="616" y="325.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#334155" text-anchor="start" font-style="italic">minutes</text>
+<text x="80.0" y="42" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#334155" text-anchor="middle" font-style="italic">CPU %</text>
+<text x="380" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#334155" text-anchor="middle">Riemann sum of CPU usage, one rectangle per 15 minute sample</text>
+<text x="690" y="120.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" fill="#0f766e" text-anchor="middle">total area</text>
+<text x="690" y="137.55" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" fill="#0f766e" text-anchor="middle">1485</text>
+<text x="690" y="155.1" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" fill="#0f766e" text-anchor="middle">CPU-seconds</text>
+<text x="690" y="172.65" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" fill="#0f766e" text-anchor="middle"></text>
+<text x="690" y="190.2" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" fill="#0f766e" text-anchor="middle">average</text>
+<text x="690" y="207.75" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" fill="#0f766e" text-anchor="middle">1485 / 3600</text>
+<text x="690" y="225.3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" fill="#0f766e" text-anchor="middle">= 41.25%</text>
+<text x="340" y="365" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#64748b" text-anchor="middle">width 900 s × height (utilisation) = CPU-seconds used in that slice</text>
+</svg>

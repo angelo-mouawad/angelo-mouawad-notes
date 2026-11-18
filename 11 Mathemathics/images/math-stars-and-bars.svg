@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
+<rect x="0" y="0" width="900" height="300" fill="#ffffff"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#334155"/></marker><marker id="aht" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0f766e"/></marker><marker id="ahr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#be123c"/></marker><marker id="ahb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1d4ed8"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#64748b"/></marker></defs>
+<text x="450" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#334155" text-anchor="middle">9 speculaas for 4 children = 9 crosses and 3 separators in a row</text>
+<rect x="120" y="80" width="36" height="50" rx="6" fill="#fef3c7" fill-opacity="1" stroke="#64748b" stroke-width="1.5"/>
+<text x="138" y="114" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="bold" fill="#334155" text-anchor="middle">×</text>
+<rect x="166" y="80" width="36" height="50" rx="6" fill="#fef3c7" fill-opacity="1" stroke="#64748b" stroke-width="1.5"/>
+<text x="184" y="114" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="bold" fill="#334155" text-anchor="middle">×</text>
+<rect x="222" y="70" width="8" height="70" rx="2" fill="#be123c" fill-opacity="1" stroke="#be123c" stroke-width="1.5"/>
+<rect x="252" y="80" width="36" height="50" rx="6" fill="#fef3c7" fill-opacity="1" stroke="#64748b" stroke-width="1.5"/>
+<text x="270" y="114" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="bold" fill="#334155" text-anchor="middle">×</text>
+<rect x="298" y="80" width="36" height="50" rx="6" fill="#fef3c7" fill-opacity="1" stroke="#64748b" stroke-width="1.5"/>
+<text x="316" y="114" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="bold" fill="#334155" text-anchor="middle">×</text>
+<rect x="344" y="80" width="36" height="50" rx="6" fill="#fef3c7" fill-opacity="1" stroke="#64748b" stroke-width="1.5"/>
+<text x="362" y="114" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="bold" fill="#334155" text-anchor="middle">×</text>
+<rect x="400" y="70" width="8" height="70" rx="2" fill="#be123c" fill-opacity="1" stroke="#be123c" stroke-width="1.5"/>
+<rect x="440" y="70" width="8" height="70" rx="2" fill="#be123c" fill-opacity="1" stroke="#be123c" stroke-width="1.5"/>
+<rect x="470" y="80" width="36" height="50" rx="6" fill="#fef3c7" fill-opacity="1" stroke="#64748b" stroke-width="1.5"/>
+<text x="488" y="114" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="bold" fill="#334155" text-anchor="middle">×</text>
+<rect x="516" y="80" width="36" height="50" rx="6" fill="#fef3c7" fill-opacity="1" stroke="#64748b" stroke-width="1.5"/>
+<text x="534" y="114" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="bold" fill="#334155" text-anchor="middle">×</text>
+<rect x="562" y="80" width="36" height="50" rx="6" fill="#fef3c7" fill-opacity="1" stroke="#64748b" stroke-width="1.5"/>
+<text x="580" y="114" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="bold" fill="#334155" text-anchor="middle">×</text>
+<rect x="608" y="80" width="36" height="50" rx="6" fill="#fef3c7" fill-opacity="1" stroke="#64748b" stroke-width="1.5"/>
+<text x="626" y="114" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="bold" fill="#334155" text-anchor="middle">×</text>
+<line x1="120" y1="150" x2="202" y2="150" stroke="#0f766e" stroke-width="2"/>
+<text x="161.0" y="175" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#0f766e" text-anchor="middle">Ann</text>
+<text x="161.0" y="195" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#334155" text-anchor="middle">2</text>
+<line x1="252" y1="150" x2="380" y2="150" stroke="#0f766e" stroke-width="2"/>
+<text x="316.0" y="175" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#0f766e" text-anchor="middle">Jo</text>
+<text x="316.0" y="195" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#334155" text-anchor="middle">3</text>
+<text x="424" y="175" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#0f766e" text-anchor="middle">Piet</text>
+<text x="424" y="195" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#334155" text-anchor="middle">0</text>
+<line x1="470" y1="150" x2="644" y2="150" stroke="#0f766e" stroke-width="2"/>
+<text x="557.0" y="175" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#0f766e" text-anchor="middle">Tom</text>
+<text x="557.0" y="195" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#334155" text-anchor="middle">4</text>
+<text x="450" y="240" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#64748b" text-anchor="middle">every arrangement of 9 crosses and 3 separators is one distribution, and the reverse</text>
+<text x="450" y="272" font-family="'Segoe UI', 'Segoe UI Symbol', 'DejaVu Sans', 'Cambria Math', sans-serif" font-size="17" font-weight="bold" fill="#0f766e" text-anchor="middle">12! / (9! · 3!) = 220 ways</text>
+</svg>
